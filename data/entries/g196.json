@@ -1,0 +1,53 @@
+{
+ "id": "g196",
+ "name": "Chinese Independent Church",
+ "stream": "united",
+ "parent": null,
+ "overlay": false,
+ "status": "placeholder",
+ "lane_note": "Still being researched",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1906, China",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "China, Christianity in, New Catholic Encyclopedia (J.-P. Wiest)",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/china-christianity",
+     "excerpt": "The Chinese Independent Church began in 1906, the True Jesus Church in 1917, the Jesus Family in 1921, and the Little Flock in 1922.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "One of the Chinese independent churches led by indigenous pastors that had come into being by the 1920s",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "China, Christianity in, New Catholic Encyclopedia (J.-P. Wiest)",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/china-christianity",
+     "excerpt": "The Chinese Independent Church began in 1906, the True Jesus Church in 1917, the Jesus Family in 1921, and the Little Flock in 1922.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "China, Christianity in, New Catholic Encyclopedia (J.-P. Wiest)",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/china-christianity",
+     "excerpt": "independent churches led by charismatic indigenous pastors had already come into being by the 1920s.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "One of the Chinese independent churches led by indigenous pastors that formed by the 1920s"
+  }
+ ],
+ "odcc_lookup": [
+  "Chinese Independent Church"
+ ],
+ "researched_at": "2026-10-28T19:49:17+00:00",
+ "research_notes": "Addition pass 2026-10-28, found while checking other Chinese movements. New Catholic Encyclopedia names it first of four indigenous groups that drew over 230,000 members by 1949 and calls them 'a force to be reckoned with'. Only that one source found, so placeholder per Eric's thin-source rule. Founder and relationships omitted."
+}

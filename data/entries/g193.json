@@ -1,0 +1,155 @@
+{
+ "id": "g193",
+ "name": "Local churches (Little Flock)",
+ "stream": "free",
+ "parent": "g113",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1920s in China, from a beginning in Foochow. New Catholic Encyclopedia gives 1922",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "China, Christianity in, New Catholic Encyclopedia (J.-P. Wiest)",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/china-christianity",
+     "excerpt": "The Chinese Independent Church began in 1906, the True Jesus Church in 1917, the Jesus Family in 1921, and the Little Flock in 1922.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Other Bible Students: The (Local) Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/other-bible-students",
+     "excerpt": "The group that is variously known as the Little Flock or the Local Church was founded in the 1920s in China by Ni Shutsu, popularly known by the English translation of his name, Watchman Nee (1903-1972).",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Other Bible Students: The (Local) Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/other-bible-students",
+     "excerpt": "From its modest beginning in Foochow, Nee's movement spread through China.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "1920s in China, from a beginning in Foochow (Fuzhou). New Catholic Encyclopedia gives 1922"
+  },
+  {
+   "field": "founders",
+   "value": "Watchman Nee (1903 to 1972). Witness Lee later gave overall direction to the movement's spread",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Other Bible Students: The (Local) Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/other-bible-students",
+     "excerpt": "The group that is variously known as the Little Flock or the Local Church was founded in the 1920s in China by Ni Shutsu, popularly known by the English translation of his name, Watchman Nee (1903-1972).",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Watchman Nee, The Concise Oxford Dictionary of World Religions",
+     "url": "https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/watchman-nee",
+     "excerpt": "Founder of the Christian-based Little Flock Movement in China .",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Other Bible Students: The (Local) Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/other-bible-students",
+     "excerpt": "Lee moved to America in 1962 and founded Living Stream Ministry. He has since been recognized as the leading full-time worker among the local churches, and has provided overall direction for the spread of the Local Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Watchman Nee (Ni To-sheng, 1903 to 1972). Witness Lee later led the movement's spread outside China"
+  },
+  {
+   "field": "distinctives",
+   "value": "One local church in each city as the expression of the unity of the church. No clergy-laity distinction. The movement takes no denominational name",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Other Bible Students: The (Local) Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/other-bible-students",
+     "excerpt": "founded congregations based upon his idea that there should be only one local church (i.e., congregation) in each city as the basic expression of the unity of Christianity (in the face of divisive denominationalism).",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Other Bible Students: The (Local) Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/other-bible-students",
+     "excerpt": "In rejecting the clergy-laity distinction, a pattern for the practical expression of the church's life has been established.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Other Bible Students: The (Local) Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/other-bible-students",
+     "excerpt": "The Local Church sees itself as simply the Church. The term \"local church\" is a convenient designation but not a name.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Nee adopted the nondenominational church approach of John Nelson Darby and the Plymouth Brethren. Nee was arrested in 1952 and held for the rest of his life. Nee sent Witness Lee to Taiwan, where the church spread around the Pacific Basin. Migrating members brought it to the West Coast of the United States",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Other Bible Students: The (Local) Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/other-bible-students",
+     "excerpt": "he discovered the writings of John Nelson Darby and the exclusive Plymouth Brethren. He adopted Darby's nondenominational approach to church organization",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Other Bible Students: The Church (in Augusta, Maine), Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/other-bible-students",
+     "excerpt": "the Local Church (a Chinese movement that had developed out of the Plymouth Brethren )",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Watchman Nee, The Concise Oxford Dictionary of World Religions",
+     "url": "https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/watchman-nee",
+     "excerpt": "He was arrested in 1952 and remained in captivity for the rest of his life.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Other Bible Students: The (Local) Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/other-bible-students",
+     "excerpt": "Nee sent Lee to Taiwan where the church was to flourish and spread around the Pacific Basin. Members migrating to the United States brought the movement to the West Coast.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Nee adopted the nondenominational church approach of John Nelson Darby and the Plymouth Brethren. Nee was imprisoned in 1952. Witness Lee carried the movement to Taiwan and later to the United States"
+  },
+  {
+   "field": "size_today",
+   "value": "Nearly a million (Concise Oxford Dictionary of World Religions)",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Watchman Nee, The Concise Oxford Dictionary of World Religions",
+     "url": "https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/watchman-nee",
+     "excerpt": "The Little Flock Movement now numbers nearly a million.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Nee, Watchman",
+  "Little Flock",
+  "Local Church"
+ ],
+ "researched_at": "2026-10-28T19:48:34+00:00",
+ "research_notes": "Addition pass 2026-10-28 (Eric msg 1565087303565840456). Lane free: ARDA classes The Local Churches under the Evangelical Protestant tradition, and Melton (Encyclopedia of American Religions) records belief in the Trinity, the deity of Christ and other fundamental Christian doctrines. No approved source places it outside the historic creeds. Concise Oxford calls it 'Christian-based', which is not such a classification. Lane parent g113 Plymouth Brethren because Melton states the movement developed out of the Plymouth Brethren (excerpt in description). No split_from fact: sources describe influence, not a formal separation. ARDA profile https://www.thearda.com/us-religion/group-profiles/groups?D=1308 gives no description or founding date. Names 'Christian Assembly' not found in an approved source, omitted."
+}

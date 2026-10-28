@@ -1,0 +1,124 @@
+{
+ "id": "g194",
+ "name": "True Jesus Church",
+ "stream": "pent",
+ "parent": "g140",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1917, Beijing",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Apostolic Pentecostals: True Jesus Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/apostolic-pentecostals",
+     "excerpt": "The True Jesus Church was established in 1917 in Beijing, China",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "China, Christianity in, New Catholic Encyclopedia (J.-P. Wiest)",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/china-christianity",
+     "excerpt": "The Chinese Independent Church began in 1906, the True Jesus Church in 1917, the Jesus Family in 1921, and the Little Flock in 1922.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Paul Wei, Ling-Shen Chang and Barnabas Chang",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Apostolic Pentecostals: True Jesus Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/apostolic-pentecostals",
+     "excerpt": "after three of the early workers, Paul Wei (d. 1919), Ling-Shen Chang (b. 1863), and Barnabas Chang (1882–ca. 1960), once affiliated with other denominations, had received the Holy Spirit",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Non-trinitarian Apostolic (\"Jesus Only\") doctrine with baptism in Jesus' name by full immersion, including infants. Foot-washing, Sabbath worship, and speaking in tongues as the sign of receiving the Holy Spirit",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Apostolic Pentecostals: True Jesus Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/apostolic-pentecostals",
+     "excerpt": "Doctrinally, the church is aligned with the doctrine of the non-trinitarian Apostolic or “Jesus Only” movement, which practices baptism in “Jesus’ Name.” Baptism is by full immersion in living water, but unlike most pentecostal churches, infants are baptized.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Apostolic Pentecostals: True Jesus Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/apostolic-pentecostals",
+     "excerpt": "The church practices foot-washing (as a third sacrament beside baptism and the Lord’s Supper) and worships on the Sabbath.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Apostolic Pentecostals: True Jesus Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/apostolic-pentecostals",
+     "excerpt": "speaking in tongues is the sign of that reception.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Non-trinitarian Apostolic (Oneness) doctrine with baptism in Jesus' name by full immersion, including infants. Foot-washing, Sabbath worship, and speaking in tongues as the sign of receiving the Holy Spirit"
+  },
+  {
+   "field": "description",
+   "value": "Spread to Taiwan in 1926. After 1949 its headquarters moved to Taiwan. An International Assembly was formed in 1975, with its principal office moved to Los Angeles in 1985",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Apostolic Pentecostals: True Jesus Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/apostolic-pentecostals",
+     "excerpt": "The church spread to Taiwan and throughout Southeast Asia in 1926 and 1927, respectively.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Apostolic Pentecostals: True Jesus Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/apostolic-pentecostals",
+     "excerpt": "Like other Chinese churches, the True Jesus Church suffered following the Communist takeover of China in 1949, but it survived and prospered after moving its headquarters to Taiwan.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Apostolic Pentecostals: True Jesus Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/apostolic-pentecostals",
+     "excerpt": "This growth led to the formation of the International Assembly of the True Jesus Church by delegates at the World Conference in Taiwan in 1975. In 1985, the principal office of the international assembly was relocated from Taiwan to Los Angeles, California.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "1.5 million members in 48 countries (2008)",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Apostolic Pentecostals: True Jesus Church, Encyclopedia of American Religions",
+     "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/apostolic-pentecostals",
+     "excerpt": "Membership In 2008 the church had 1.5 million members in 48 countries.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "True Jesus Church",
+  "Pentecostalism"
+ ],
+ "researched_at": "2026-10-28T19:49:02+00:00",
+ "research_notes": "Addition pass 2026-10-28. Melton (Encyclopedia of American Religions) lists it under Apostolic Pentecostals and states doctrinal alignment with the Apostolic or 'Jesus Only' movement, so lane pent with lane parent g140 Oneness Pentecostal churches, consistent with g140-g142 already in the pent lane. No split_from: the source states doctrinal alignment, not a separation. New Catholic Encyclopedia names it among indigenous churches 'a force to be reckoned with' (significance)."
+}
