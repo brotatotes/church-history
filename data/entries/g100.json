@@ -1,0 +1,94 @@
+{
+ "id": "g100",
+ "name": "Particular Baptists",
+ "stream": "bap",
+ "parent": "g098",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1633, London",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "who, in 1633, became the first Particular Baptist Church.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Baptist Union of Great Britain",
+     "url": "https://www.oikoumene.org/member-churches/baptist-union-of-great-britain",
+     "excerpt": "the Particular Baptists who broke away in 1633 from a Calvinistic church in London.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g074",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "The Particular Baptists were Calvinist, springing as they did from the Independents.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Calvinist, holding particular redemption. The 1644 London Confession taught baptism by immersion.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "those who, agreeing with the Calvinistic theory, held the doctrine of “Particular Redemption”",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "“The way and manner of dispensing this ordinance the Scripture holds out to be dipping or plunging the whole body under water.”",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "in 1644 a Confession of Faith was published in the names of the Particular Baptist churches of London",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "1891, union of General and Particular Baptists",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "In 1891, largely under the influence of Dr John Clifford, a leading General Baptist, the two denominations, General and Particular, were united",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Particular Baptists"
+ ],
+ "researched_at": "2026-10-28T16:44:22+00:00"
+}

@@ -1,0 +1,71 @@
+{
+ "id": "g155",
+ "name": "Church of God (Seventh Day)",
+ "stream": "rest",
+ "parent": "g153",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Late 1850s roots. Formally organized 1884",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "General Conference of the Church of God (Seventh Day), group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=193",
+     "excerpt": "More specifically, the church traces its roots to believers in Michigan and Iowa in the late 1850s.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=193",
+     "excerpt": "The group grew during the nineteenth century, was formally organized in 1884, and was incorporated in Missouri in 1899.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "ce1913",
+     "value": "1864-65",
+     "excerpt": "They became an independent body in 1864-65.",
+     "url": "https://www.newadvent.org/cathen/01166a.htm"
+    }
+   ],
+   "value_before_verify": "Late 1850s roots. Independent 1863-1865, formally organized 1884"
+  },
+  {
+   "field": "split_from",
+   "value": "g153",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=193",
+     "excerpt": "representative of those Adventists of the mid-nineteenth century who rejected the visions and messages of Ellen G. White",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Sabbath-keeping Adventists who do not accept Ellen G. White's visions.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "These dissidents refuse to accept the prophecies of Mrs. White",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:51:56+00:00"
+}

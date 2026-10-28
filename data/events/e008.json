@@ -1,0 +1,49 @@
+{
+ "id": "e008",
+ "name": "Council of Ephesus",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "431",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Ephesus",
+     "url": "https://www.newadvent.org/cathen/05491a.htm",
+     "excerpt": "The third ecumenical council, held in 431.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Third ecumenical council, held in the controversy involving Nestorius, bishop of Constantinople.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Ephesus",
+     "url": "https://www.newadvent.org/cathen/05491a.htm",
+     "excerpt": "The idea of this great council seems to have been due to Nestorius, the Bishop of Constantinople.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Ephesus",
+     "url": "https://www.newadvent.org/cathen/05491a.htm",
+     "excerpt": "The third ecumenical council, held in 431.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:51+00:00"
+}

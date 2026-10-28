@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Christian Church History</title>
+<meta name="description" content="An interactive, fully cited timeline of Christian churches, divisions and movements.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="app">
+<header class="masthead">
+  <div class="titlerow">
+    <h1>Christian Church History</h1>
+    <span class="sub">Churches, divisions and movements, with a source for every fact</span>
+    <nav aria-label="Pages"><a href="bibliography.html">Bibliography</a><a href="about.html">About</a></nav>
+  </div>
+  <div class="toolbar">
+    <div class="searchwrap">
+      <input id="q" type="search" placeholder="Find a group, e.g. Methodists" autocomplete="off" spellcheck="false"
+        role="combobox" aria-label="Find a group" aria-controls="results" aria-expanded="false" aria-autocomplete="list">
+      <ul id="results" class="results" role="listbox" hidden></ul>
+    </div>
+    <div class="btngroup" role="group" aria-label="Zoom">
+      <button class="btn sq" id="zout" type="button" aria-label="Zoom out" title="Zoom out">−</button>
+      <button class="btn sq" id="zin" type="button" aria-label="Zoom in" title="Zoom in">+</button>
+      <button class="btn" id="reset" type="button" title="Back to the opening view">Reset</button>
+    </div>
+    <details class="opts" id="opts">
+      <summary class="btn">Filters and key</summary>
+      <div class="optpanel">
+        <h3>Lanes</h3>
+        <div id="lanefilters"></div>
+        <h3>Movements across churches</h3>
+        <div id="overlayfilters"></div>
+        <h3>Branches</h3>
+        <div class="btngroup"><button class="btn" type="button" id="expandall">Expand all</button><button class="btn" type="button" id="collapseall">Collapse all</button></div>
+        <h3>Key</h3>
+        <ul class="key" id="key"></ul>
+        <p class="hint">The time scale is compressed before 1500 so that later centuries have room.</p>
+      </div>
+    </details>
+    <span class="lineagechip" id="chip" hidden><span id="chiptext"></span><button type="button" id="chipclear" aria-label="Clear lineage highlight" title="Clear lineage highlight">×</button></span>
+  </div>
+  <div class="hint"><span class="mouse">Scroll wheel zooms · drag to pan · Shift + wheel scrolls up and down · click a lane to show its branches</span><span class="touch">Pinch to zoom · drag to pan · tap a lane to show its branches</span></div>
+</header>
+<div class="main">
+  <div class="chart" id="chart" tabindex="0" aria-label="Timeline chart. Arrow keys pan, plus and minus zoom.">
+    <div class="axis" id="axiswrap"><svg id="axis" aria-hidden="true"></svg></div>
+    <div class="body" id="body"><svg id="plot" role="group" aria-label="Church family lanes"></svg></div>
+    <div class="tooltip" id="tip" hidden></div>
+  </div>
+  <aside class="panel" id="panel" hidden aria-live="polite"></aside>
+</div>
+<noscript><p class="noscript">The interactive timeline needs JavaScript. The <a href="bibliography.html">bibliography</a> and source pages work without it.</p></noscript>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

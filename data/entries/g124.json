@@ -1,0 +1,74 @@
+{
+ "id": "g124",
+ "name": "Wesleyan Church",
+ "stream": "meth",
+ "parent": "g118",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "31 May 1843, Utica, New York, as the Wesleyan Methodist Connection",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism, Wesleyan Methodist Connection",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "which met on the 31st of May 1843, at Utica, New York, and founded the Wesleyan Methodist Connection or Church of America.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "arda",
+     "value": "1820s",
+     "excerpt": "continues the tradition of the Wesleyan Methodist Church, which was founded in the 1820s by former members of the Methodist Episcopal Church.",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=889"
+    }
+   ],
+   "value_before_verify": "31 May 1843, Utica, New York, as the Wesleyan Methodist Connection. Merged into the Wesleyan Church 1968"
+  },
+  {
+   "field": "split_from",
+   "value": "g118",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "In 1842 certain Methodist abolitionists conferred as to the wisdom of seceding.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Continues the Wesleyan Methodist Connection, founded in 1843 by Methodists who withdrew over slavery. It merged with the Pilgrim Holiness Church in 1968.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Wesleyan Church, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=889",
+     "excerpt": "In 1968, the Wesleyan Methodist Church merged with the Pilgrim Holiness Church to form the Wesleyan Church.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism, Wesleyan Methodist Connection",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "which met on the 31st of May 1843, at Utica, New York, and founded the Wesleyan Methodist Connection or Church of America.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A Holiness church continuing the abolitionist Wesleyan Methodist Connection. It merged with the Pilgrim Holiness Church in 1968."
+  }
+ ],
+ "odcc_lookup": [
+  "Wesleyan Methodist Church"
+ ],
+ "researched_at": "2026-10-28T16:47:51+00:00"
+}

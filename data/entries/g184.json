@@ -1,0 +1,65 @@
+{
+ "id": "g184",
+ "name": "China Christian Council",
+ "stream": "united",
+ "parent": "g183",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1980. Three-Self Movement from 1950",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "China Christian Council, member profile",
+     "url": "https://www.oikoumene.org/member-churches/china-christian-council",
+     "excerpt": "churches began to re-open in 1979, and in 1980 the China Christian Council (CCC) was established.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/china-christian-council",
+     "excerpt": "In 1950, Chinese Protestant Christians initiated the Three-Self Movement, and through the principles of self-governance, self-sup-port and self-propagation, Chinese Christians set out on an independent road to building the church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Self-governance, self-support and self-propagation.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/china-christian-council",
+     "excerpt": "through the principles of self-governance, self-sup-port and self-propagation",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "26 million (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/china-christian-council",
+     "excerpt": "Membership 26 000 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "China, Christianity in"
+ ],
+ "researched_at": "2026-10-28T16:55:18+00:00"
+}

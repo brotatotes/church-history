@@ -1,0 +1,81 @@
+{
+ "id": "g008",
+ "name": "Monarchians",
+ "stream": "early",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "late 2nd century",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Monarchianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Monarchianism",
+     "excerpt": "a theological term designating the view taken by those Christians who, within the Church, towards the end of the 2nd century and during the 3rd, opposed the doctrine of an independent personal subsistence of the Logos.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Emphasized the numerical unity of God. Two kinds are distinguished, dynamistic (adoptionist) and modalistic (Patripassian or Sabellian).",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Monarchianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Monarchianism",
+     "excerpt": "The representatives of the extreme monotheistic view, which while regarding Christ as Redeemer, clung tenaciously to the numerical unity of the Deity, were called Monarchians, a term brought into general use by Tertullian.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Monarchianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Monarchianism",
+     "excerpt": "It is usual to speak of two kinds of monarchianism–the dynamistic and the modalistic",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Theodotus of Byzantium (adoptionist group), who came to Rome c. 190 to 200",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Monarchians, Dynamists or Adoptionists",
+     "url": "https://www.newadvent.org/cathen/10448a.htm",
+     "excerpt": "The founder of the sect was a leather-seller of Byzantium named Theodotus. He came to Rome under Pope Victor (c. 190-200) or earlier.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Christian teachers and groups, originating within the church, who stressed the numerical unity of God.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Monarchianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Monarchianism",
+     "excerpt": "It has to be remembered (1) that the movement originated within the pale of the Church",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Third-century Christian teachers and groups, inside the church at first, who stressed the oneness of God against an independent personal Logos."
+  }
+ ],
+ "odcc_lookup": [
+  "Monarchianism"
+ ],
+ "researched_at": "2026-10-28T16:20:37+00:00",
+ "research_notes": "A theological tendency rather than one organized body."
+}

@@ -1,0 +1,82 @@
+{
+ "id": "g128",
+ "name": "United Brethren in Christ",
+ "stream": "meth",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1800, organized near Frederick, Maryland",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "United Brethren in Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/United_Brethren_in_Christ",
+     "excerpt": "in 1800, at a conference near Frederick City, Maryland, the Church was organized under its present name, and Otterbein and Boehm were chosen its first bishops or superintendents.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "1800, organized near Frederick, Maryland. Conference 1789"
+  },
+  {
+   "field": "founders",
+   "value": "Philip William Otterbein and Martin Boehm",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "United Brethren in Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/United_Brethren_in_Christ",
+     "excerpt": "under the leadership of Philip William Otterbein (1726–1813), pastor of the Second Reformed Church in Baltimore, and Martin Boehm (1725–1812), a Pennsylvanian Mennonite of Swiss descent.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Wesleyan polity and Arminian theology.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "United Brethren in Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/United_Brethren_in_Christ",
+     "excerpt": "The ecclesiastical polity of the Church is Wesleyan and its theology is Arminian",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "1946, main body united into the Evangelical United Brethren Church. A conservative Old Constitution body continues",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "United Methodist Church",
+     "url": "https://www.oikoumene.org/member-churches/united-methodist-church",
+     "excerpt": "In 1946 the Church of the United Brethren in Christ and the Evangelical Church became the Evangelical United Brethren Church",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "United Brethren in Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/United_Brethren_in_Christ",
+     "excerpt": "when the Conservatives, protesting against the new constitution, withdrew and formed the body now commonly known as the United Brethren in Christ “of the Old Constitution.”",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "United Brethren in Christ",
+  "Otterbein, Philip William"
+ ],
+ "researched_at": "2026-10-28T16:47:53+00:00"
+}

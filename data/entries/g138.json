@@ -1,0 +1,28 @@
+{
+ "id": "g138",
+ "name": "International Pentecostal Holiness Church",
+ "stream": "pent",
+ "parent": "g134",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1911 merger. Present name 1975",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "International Pentecostal Holiness Church, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=437",
+     "excerpt": "The Pentecostal Holiness Church and Fire-Baptized Holiness Church merged in 1911 and retained the name Pentecostal Holiness Church. It took the current name in 1975.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:49:46+00:00"
+}

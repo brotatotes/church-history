@@ -1,0 +1,88 @@
+{
+ "id": "g094",
+ "name": "Church of the Brethren",
+ "stream": "ana",
+ "parent": "g089",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1708, first Brethren baptism at Schwarzenau, Germany",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Church of the Brethren, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-the-brethren",
+     "excerpt": "The Brethren movement dates its birth to 1708, when the first Brethren baptism took place at Schwarzenau, Germany.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "arda",
+     "value": "1723, founding in the United States",
+     "excerpt": "It was founded in 1723 in the United States by Alexander Mack Sr., Christopher Sauer II, Alexander Mack Jr., and Peter Becker.",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=215"
+    }
+   ]
+  },
+  {
+   "field": "description",
+   "value": "Grew out of the Pietist movement in Europe. Some scholars see it as combining Pietist and Anabaptist thought. The members moved to Pennsylvania from 1719 and took the name Church of the Brethren in 1908, formerly German Baptist Brethren.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-the-brethren",
+     "excerpt": "The Church of the Brethren grew out of the Pietist movement of the 17th and 18th centuries in Europe. While most Pietists sought to renew the church from within, some (the Radical Pietists) separated themselves from the state churches.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-the-brethren",
+     "excerpt": "While it is unclear how much the early Brethren were influenced by the Anabaptists, some scholars understand the Brethren as combining Pietist and Anabaptist thought.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-the-brethren",
+     "excerpt": "The first group emigrated in 1719, and by 1730 most were in America.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-the-brethren",
+     "excerpt": "In 1908 the Brethren changed their official name from German Baptist Brethren to Church of the Brethren.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 134,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-the-brethren",
+     "excerpt": "Membership 134 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Church of the Brethren",
+  "Dunkers",
+  "Mack, Alexander"
+ ],
+ "researched_at": "2026-10-28T16:43:10+00:00"
+}

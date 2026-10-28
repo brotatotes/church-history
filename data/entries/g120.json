@@ -1,0 +1,116 @@
+{
+ "id": "g120",
+ "name": "African Methodist Episcopal Church",
+ "stream": "meth",
+ "parent": "g118",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1816, Philadelphia. Roots in the Free African Society of 1787",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "African Methodist Episcopal Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-methodist-episcopal-church",
+     "excerpt": "The AME Church was formed in Philadelphia in 1816 and Richard Allen became the nation's first black bishop.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "the coloured people organized themselves, in 1816, into an independent body.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "arda",
+     "value": "1787",
+     "excerpt": "The African Methodist Episcopal Church was founded in 1787 by the Rev. Richard Allen and former members of the Methodist Episcopal Church.",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=8"
+    }
+   ]
+  },
+  {
+   "field": "split_from",
+   "value": "g118",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "This body originated in strained relations between the white and coloured Methodists of Philadelphia, Pennsylvania",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Richard Allen",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-methodist-episcopal-church",
+     "excerpt": "The FAS founder Richard Allen, a former slave who had been since 1783 a Methodist preacher",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed in 1816 when Black Methodists of Philadelphia organized an independent body. It adopted Methodist Episcopal doctrine and, with some changes, its government. Its founder Richard Allen denounced slavery, and several congregations served as Underground Railroad stations.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "the result of which was, that the coloured people organized themselves, in 1816, into an independent body. hey adopted as their standards the doctrines of the Methodist Episcopal Church, and, with a few modifications, its form of government.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-methodist-episcopal-church",
+     "excerpt": "Several congregations served as schools, as stations for the legendary Underground Railroad",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "African Methodist Episcopal Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-methodist-episcopal-church",
+     "excerpt": "He denounced slavery, opposed the removal of free blacks from the United States to Liberia",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An African American Methodist church that adopted Methodist Episcopal doctrine and, with some changes, its government. It opposed slavery, and congregations served as stations on the Underground Railroad."
+  },
+  {
+   "field": "size_today",
+   "value": "About 2.51 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/african-methodist-episcopal-church",
+     "excerpt": "Membership 2 510 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "African Methodist Episcopal Church",
+  "Allen, Richard"
+ ],
+ "researched_at": "2026-10-28T16:47:50+00:00"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "g070",
+ "name": "Church of Scotland",
+ "stream": "ref",
+ "parent": "g069",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "16th-century reformation on the Genevan pattern. Presbyterian polity established 1690",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Church of Scotland, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-scotland",
+     "excerpt": "It was reformed in the 16th century after the Genevan and Calvinistic pattern. A century and a half of ecclesiastical struggles followed, until in 1690 the Church of Scotland was established in its Presbyterian polity.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The national Presbyterian church of Scotland. Various secessions in the 18th and 19th centuries were largely reunited by 1929.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-scotland",
+     "excerpt": "Various secessions occurred in the 18th and 19th centuries, but since 1929 the Church of Scotland has been largely reunited.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "1.15 million members (WCC figure). About 553,000 adult communicants",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-scotland",
+     "excerpt": "Membership 1 149 000",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-scotland",
+     "excerpt": "The church has approximately 553,000 adult communicant members.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Church of Scotland"
+ ],
+ "researched_at": "2026-10-28T16:35:55+00:00"
+}

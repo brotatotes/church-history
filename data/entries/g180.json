@@ -1,0 +1,67 @@
+{
+ "id": "g180",
+ "name": "United Reformed Church (UK)",
+ "stream": "united",
+ "parent": "g074",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1972",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "United Reformed Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-reformed-church",
+     "excerpt": "The union between the Congregational Church in England and Wales, and the Presbyterian Church of England took place in 1972.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed in 1972 by a union of the Congregational Church in England and Wales with the Presbyterian Church of England, later joined by Churches of Christ (1981) and the Congregational Union of Scotland (2000).",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-reformed-church",
+     "excerpt": "In 1981 the Reformed Association of Churches of Christ was united with the United Reformed Church and in 2000 the Congregational Union of Scotland united with the United Reformed Church.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "United Reformed Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-reformed-church",
+     "excerpt": "The union between the Congregational Church in England and Wales, and the Presbyterian Church of England took place in 1972.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A union of English and Welsh Congregationalists with English Presbyterians, later joined by Churches of Christ (1981) and the Congregational Union of Scotland (2000)."
+  },
+  {
+   "field": "size_today",
+   "value": "About 85,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/united-reformed-church",
+     "excerpt": "Membership 85 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "United Reformed Church"
+ ],
+ "researched_at": "2026-10-28T16:54:29+00:00",
+ "research_notes": "Candidate parent Presbyterian; lane parent g074 (Congregational majority). Either is defensible; both are inputs."
+}

@@ -1,0 +1,66 @@
+{
+ "id": "g032",
+ "name": "Orthodox Church in America",
+ "stream": "orth",
+ "parent": "g026",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1794 mission to Alaska. Later granted autocephaly by the Russian church",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Orthodox Church in America, member profile",
+     "url": "https://www.oikoumene.org/member-churches/orthodox-church-in-america",
+     "excerpt": "The Orthodox Church in America traces its roots to the arrival in Alaska in 1794 of missionaries from the monastery of Valamo in Karelia (in the Russian empire).",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/orthodox-church-in-america",
+     "excerpt": "The Russian Orthodox Church granted complete self-government to the metropolia whereby it became an autocephalous, or fully independent, local Orthodox church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "1794 mission to Alaska. Autocephaly granted by the Russian church in 1970"
+  },
+  {
+   "field": "split_from",
+   "value": "g026",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/orthodox-church-in-america",
+     "excerpt": "The struggle over the identity and the status of the American metropolia was resolved in 1970.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "1 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/orthodox-church-in-america",
+     "excerpt": "Membership 1 000 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Orthodox Church in America"
+ ],
+ "researched_at": "2026-10-28T16:25:54+00:00"
+}

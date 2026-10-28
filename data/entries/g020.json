@@ -1,0 +1,103 @@
+{
+ "id": "g020",
+ "name": "Armenian Apostolic Church",
+ "stream": "east",
+ "parent": "g016",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "301, Christianity proclaimed the state religion of Armenia under Gregory the Illuminator",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Armenian Apostolic Church (Mother See of Holy Etchmiadzin), member profile",
+     "url": "https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin",
+     "excerpt": "In 301, Christianity was proclaimed the official state religion.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Armenian Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Armenian_Church",
+     "excerpt": "King Tiridates ( c. A.D. 238–314) had already been baptized some time after 261 by Gregory the Illuminator.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "eb1911",
+     "value": "dates the king's baptism only to some time after 261, and treats the traditional account as partly legendary",
+     "excerpt": "This one fact is certain amidst the fables which soon",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Armenian_Church"
+    }
+   ]
+  },
+  {
+   "field": "distinctives",
+   "value": "Accepts the Council of Ephesus formula that one is the nature of the incarnate Word, and does not accept the Council of Chalcedon.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin",
+     "excerpt": "On the question of Christology, it accepts the definition set by the Council of Ephesus, that \"one is the nature of the incarnate word\". It does not accept the Council of Chalcedon (451), and renounces the teachings of Nestorius and Eutyches.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Accepts the first three ecumenical councils and Ephesus's formula of one nature of the incarnate Word, but not Chalcedon. Liturgy in classical Armenian."
+  },
+  {
+   "field": "split_from",
+   "value": "g016",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Armenian Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Armenian_Church",
+     "excerpt": "But later on, about 480, and throughout the following centuries, the Armenians rejected the decrees of Chalcedon and held that the assertion of two natures in Christ was a relapse into the heresy of Nestor.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The autocephalous national church of Armenia, whose historical centre is Etchmiadzin near Yerevan.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin",
+     "excerpt": "The historical centre of this autocephalous national church is the Mother See of Etchmiadzin, near the capital city of Yerevan.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The national church of Armenia, centered at Etchmiadzin near Yerevan, with patriarchates in Jerusalem and Constantinople."
+  },
+  {
+   "field": "size_today",
+   "value": "about 8 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/armenian-apostolic-church-mother-see-of-holy-etchmiadzin",
+     "excerpt": "Membership 8 023 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Armenia, Christianity in"
+ ],
+ "researched_at": "2026-10-28T16:23:53+00:00"
+}

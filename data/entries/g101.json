@@ -1,0 +1,53 @@
+{
+ "id": "g101",
+ "name": "Seventh Day Baptists",
+ "stream": "bap",
+ "parent": "g098",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "American churches from 1705. General Conference organized 1802",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists, United States",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "Sabbatarianism appeared within the bounds of the association at an early date and Seventh-day Baptist churches were formed (1705 onward).",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Seventh Day Baptist General Conference, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=741",
+     "excerpt": "The Seventh Day Baptist General Conference was organized in 1802 and continues the practice of sabbatarianism among English-speaking Baptists.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Sabbatarian, keeping the seventh day as the Sabbath.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=741",
+     "excerpt": "continues the practice of sabbatarianism among English-speaking Baptists.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Keep the seventh day (Saturday) as the Sabbath."
+  }
+ ],
+ "odcc_lookup": [
+  "Seventh-day Baptists"
+ ],
+ "researched_at": "2026-10-28T16:44:22+00:00",
+ "research_notes": "English 17th-century origins not yet sourced; start reflects American evidence only."
+}

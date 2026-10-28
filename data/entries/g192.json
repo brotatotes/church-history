@@ -1,0 +1,96 @@
+{
+ "id": "g192",
+ "name": "English Separatism",
+ "stream": "free",
+ "parent": "g081",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1567-1571 pioneers. Separatist theory defined by Robert Browne 1580-1581",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism (J. V. Bartlet)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "“Reformation without tarrying for Anie” was the burden laid on the heart of the Congregational pioneers in 1567–1571",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "and 1580–1581, when he first defined his Separatist theory.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g081",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "and of the few cases in which these shaded off into practical Separatism",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Robert Browne",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "To this fact the very nickname “Brownists,” usually given to early “Separatists” by accident, but Congregationalists in essence, is itself witness.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "English Protestants who separated from the established church to form gathered congregations of committed believers bound by covenant.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "It involved for him a definite \"covenant\" entered into by all members of the church, with God and with God's people, to abide by Christ's laws as ruling all their conduct, individually and collectively.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "“The kingdom of God was not to be begun by whole parishes, but rather of the worthiest, were they never so few.”",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism (J. V. Bartlet)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "“the first that made separation from the Reformed Church of England, having gathered congregations of their own.”",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "English Protestants who separated from the established church to form gathered churches of committed believers bound by covenant."
+  }
+ ],
+ "odcc_lookup": [
+  "Separatists",
+  "Brownists"
+ ],
+ "researched_at": "2026-10-28T16:55:42+00:00",
+ "research_notes": "Split_from excerpt is weak (Puritans 'shaded off into practical Separatism'); verify stage should confirm or strengthen."
+}

@@ -1,0 +1,90 @@
+{
+ "id": "g042",
+ "name": "Jansenists",
+ "stream": "cat",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1640, publication of Jansen's Augustinus",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Jansenius and Jansenism",
+     "url": "https://www.newadvent.org/cathen/08285a.htm",
+     "excerpt": "this undertaking, actively furthered by the friends of the dead man, was completed in 1640.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Cornelius Jansen",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Jansenism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jansenism",
+     "excerpt": "JANSENISM, the religious principles laid down by Cornelius Jansen in his Augustinus . This was simply a digest of the teaching of St Augustine, drawn up with a special eye to the needs of the 17th century.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Cornelius Jansen (1585 to 1638), bishop of Ypres"
+  },
+  {
+   "field": "distinctives",
+   "value": "Stressed human dependence on God and held that church-going does not save without the love of God. Five propositions were declared heretical in 1653, and the bull Unigenitus of 1713 condemned 101 propositions.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Jansenism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jansenism",
+     "excerpt": "As against the stoical self-sufficiency of the moralists, he dwelt on the helplessness of man and his dependence on his maker. As against the ceremonialists, he maintained that no amount of church-going will save a man, unless the love of God is in him.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Jansenism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jansenism",
+     "excerpt": "in 1653 Pope Innocent X. declared all five propositions heretical.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Jansenism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jansenism",
+     "excerpt": "in 1713 appeared the bull Unigenitus , anathematizing no less than one-hundred-and-one of its propositions.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Followed Augustine on grace and predestination, stressed human dependence on God and the love of God over outward observance. Five propositions condemned in 1653 and Quesnel's work in the bull Unigenitus of 1713."
+  },
+  {
+   "field": "description",
+   "value": "A Catholic reform movement. In 1723 the Chapter of Utrecht elected Cornelius Steenhoven archbishop on its own authority.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Jansenius and Jansenism, Jansenism in Holland and the schism of Utrecht",
+     "url": "https://www.newadvent.org/cathen/08285a.htm",
+     "excerpt": "In 1723 the Chapter of Utrecht i.e. a group of seven or eight priests who assumed this name and quality in order to put an end to a precarious and Painful situation, elected, on its own authority, as archbishop of the same city, one of its members, Cornelius Steenhoven",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A Catholic reform movement in France and the Low Countries. In the Netherlands it led to the separate Church of Utrecht, whose chapter elected Cornelius Steenhoven archbishop in 1723 without papal approval."
+  }
+ ],
+ "odcc_lookup": [
+  "Jansenism",
+  "Unigenitus"
+ ],
+ "researched_at": "2026-10-28T16:29:47+00:00"
+}

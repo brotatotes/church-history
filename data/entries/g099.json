@@ -1,0 +1,104 @@
+{
+ "id": "g099",
+ "name": "General Baptists",
+ "stream": "bap",
+ "parent": "g098",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1611, General Baptist group returned from the Netherlands to London",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "The church met in Newgate Street, London, and was the origin of the “General” Baptist denomination.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Baptist Union of Great Britain, member profile",
+     "url": "https://www.oikoumene.org/member-churches/baptist-union-of-great-britain",
+     "excerpt": "the General Baptists which emerged from a group that returned in 1611 from the Netherlands",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "1612, Helwys's church in London"
+  },
+  {
+   "field": "end",
+   "value": "1891, merged with the Baptist Union",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Baptist Union of Great Britain",
+     "url": "https://www.oikoumene.org/member-churches/baptist-union-of-great-britain",
+     "excerpt": "This process culminated in 1891, when the General Baptists of the New Connexion amalgamated with the Baptist Union.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Arminian, holding the doctrine of general redemption.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "The General Baptists were Arminian, owing to the influence of the Mennonite Anabaptists.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "those who in accordance with Arminian views held the doctrine of “General Redemption,”",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "One of the two English Baptist bodies, beginning with the church Helwys formed in London in 1612. An evangelical New Connexion formed in 1770, while many General Baptists adopted Arian or Socinian views in the 18th century.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Baptist Union of Great Britain",
+     "url": "https://www.oikoumene.org/member-churches/baptist-union-of-great-britain",
+     "excerpt": "A \"New Connexion\" of the more evangelical General Baptists was formed in 1770 under the influence of the Methodist revival.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "In the 18th century many of the General Baptists gradually adopted the Arian, or, perhaps, the Socinian theory",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "in 1612 Helwys returned to England with his church and formed the first Baptist church worshipping on English soil. The church met in Newgate Street, London, and was the origin of the “General” Baptist denomination.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The earlier of the two English Baptist bodies. An evangelical New Connexion formed in 1770, while many older General Baptist churches adopted Arian or Socinian views in the 18th century."
+  }
+ ],
+ "odcc_lookup": [
+  "General Baptists"
+ ],
+ "researched_at": "2026-10-28T16:44:22+00:00",
+ "research_notes": "WCC says 1611 (return from Netherlands); EB1911 says 1612. Recorded as WCC cite on same start fact; minor."
+}

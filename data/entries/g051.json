@@ -1,0 +1,62 @@
+{
+ "id": "g051",
+ "name": "Fraticelli",
+ "stream": "med",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "13th century, from the Franciscan movement",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Fraticelli (P. Alphandéry)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fraticelli",
+     "excerpt": "the name given during the 13th, 14th and 15th centuries to a number of religious groups in Italy, differing widely from each other, but all derived more or less directly from the Franciscan movement.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "15th century",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Fraticelli",
+     "url": "https://www.newadvent.org/cathen/06244b.htm",
+     "excerpt": "A name given to various heretical sects which appeared in the fourteenth and fifteenth centuries, principally in Italy .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Groups commonly called Fraticelli, or Brethren of the Poor Life, condemned by John XXII in 1317.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Fraticelli",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fraticelli",
+     "excerpt": "Similarly, John XXII. , in his bull Sancta Romana et Universalis Ecclesia (28th of December 1317), condemns vaguely those “ profanae multitudinis viri commonly called Fraticelli, or Brethren of the Poor Life",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Several Italian groups derived from the Franciscans, committed to strict poverty, and condemned by John XXII in 1317."
+  }
+ ],
+ "odcc_lookup": [
+  "Fraticelli",
+  "Spirituals"
+ ],
+ "researched_at": "2026-10-28T16:31:45+00:00",
+ "research_notes": "A label for several groups, not one body."
+}

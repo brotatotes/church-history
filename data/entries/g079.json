@@ -1,0 +1,52 @@
+{
+ "id": "g079",
+ "name": "Cumberland Presbyterian Church",
+ "stream": "ref",
+ "parent": "g069",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1810, Western frontier",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Cumberland Presbyterian Church (1810 - Present), group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=256",
+     "excerpt": "Cumberland Presbyterian Church (1810 - Present) - Religious Group",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=256",
+     "excerpt": "The Cumberland Presbyterian Church began on the Western frontier in the early 19th century.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "In 1906 the main body of the church reunited with the Presbyterian Church in the U.S.A. Those who did not join reorganized as the continuing Cumberland Presbyterian Church.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=256",
+     "excerpt": "In 1906, the main body of the church reunited with the Presbyterian Church in the U.S.A., now an integral part of the Presbyterian Church (U.S.A.). Those that did not participate in the merger reorganized themselves as the continuing Cumberland Presbyterian Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Began on the American frontier in the early 19th century. In 1906 most of the church reunited with the Presbyterian Church in the U.S.A., and those who did not join reorganized as the continuing Cumberland Presbyterian Church."
+  }
+ ],
+ "odcc_lookup": [
+  "Cumberland Presbyterian Church"
+ ],
+ "researched_at": "2026-10-28T16:37:53+00:00"
+}

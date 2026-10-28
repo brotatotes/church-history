@@ -1,0 +1,52 @@
+{
+ "id": "e036",
+ "name": "Westminster Assembly",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1643",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Presbyterianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Presbyterianism",
+     "excerpt": "summoned an assembly of divines to meet at Westminster in June 1643 to advise parliament as to the new form of Church government.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Assembly of divines summoned by the Long Parliament to meet at Westminster. Its Confession, Directory and Catechisms became closely associated with Presbyterianism.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Presbyterianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Presbyterianism",
+     "excerpt": "The Westminster Assembly, through its Confession , Directory and Catechisms , has become so associated with the Presbyterian Church",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Presbyterianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Presbyterianism",
+     "excerpt": "summoned an assembly of divines to meet at Westminster",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Assembly of divines summoned by the Long Parliament. Its Confession, Directory and Catechisms became closely associated with Presbyterianism."
+  }
+ ],
+ "odcc_lookup": [
+  "Westminster Assembly"
+ ],
+ "researched_at": "2026-10-28T17:04:40+00:00"
+}

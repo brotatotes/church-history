@@ -1,0 +1,67 @@
+{
+ "id": "g145",
+ "name": "Charismatic renewal",
+ "stream": "pent",
+ "parent": "g134",
+ "overlay": true,
+ "influenced": [
+  "g035",
+  "g146",
+  "g147",
+  "g081",
+  "g083",
+  "g062"
+ ],
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1960, among mainline Protestants in the U.S.",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "The charismatic movement, sometimes known as the charismatic renewal, began among mainline Protestants in the U.S. in 1960 and had spread to parts of the U.S. Catholic Church by 1967.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Members of non-Pentecostal churches, including Catholic, Orthodox and Protestant, who hold some Pentecostal beliefs and practices such as healing, prophecy and speaking in tongues.",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "Charismatics are members of non-pentecostal denominations — including Catholic, Orthodox and some Protestant denominations — who hold at least some pentecostal beliefs and engage in at least some spiritual practices associated with pentecostalism, including divine healing, prophecy and speaking in tongues.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 305 million charismatic Christians (2010 estimate)",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "there are about 279 million pentecostal Christians and 305 million charismatic Christians in the world.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Charismatic Movement"
+ ],
+ "researched_at": "2026-10-28T16:49:48+00:00",
+ "research_notes": "Overlay. Influenced list is illustrative (Catholic, Anglican, Episcopal, ELCA); Pew names Catholic and mainline Protestants generally."
+}

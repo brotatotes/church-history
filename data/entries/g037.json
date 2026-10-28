@@ -1,0 +1,95 @@
+{
+ "id": "g037",
+ "name": "Maronite Church",
+ "stream": "cat",
+ "parent": "g036",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "origin disputed. Tradition names Maro (d. c. 400)",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Maronites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Maronites",
+     "excerpt": "We are told of an early Antiochene, Mar Marun or Maro, who died about A.D. 400 in the odour of sanctity in a convent at Ribla on the Orontes, whence orthodoxy spread over mid-Syria. But nothing sure is known of him",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "ce1913",
+     "value": "The Maronite tradition holds an unbroken orthodox patriarchal line from John Maro",
+     "excerpt": "these patriarchs , never having erred in faith , or strayed into schism , are the only legitimate heirs of the Patriarchate of Antioch",
+     "url": "https://www.newadvent.org/cathen/09683c.htm"
+    },
+    {
+     "source_id": "eb1911",
+     "value": "EB1911 holds the early patriarchs were Monothelite for about 500 years",
+     "excerpt": "their first patriarch and his successors, for about 500 years at any rate, were Monothelite, and perhaps also Monophysite.",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Maronites"
+    }
+   ],
+   "value_before_verify": "origin disputed. Tradition names Maro (d. c. 400) and John Maro (d. 707)"
+  },
+  {
+   "field": "split_from",
+   "value": "g036",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Maronites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Maronites",
+     "excerpt": "In 1182 it is said that Amaury, patriarch of Antioch, induced some Maronite bishops, who had fallen under crusading influences, to rally to Rome; and a definite acceptance of the Maronite Church into the Roman communion took place at the Council of Florence in 1445.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "In communion with Rome while keeping a Syriac liturgy and a non-celibate priesthood. Accepted a constitution from Rome at the Council of Lowaizi, 1736.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Maronites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Maronites",
+     "excerpt": "at a council held at the monastery of Lowaizi on the 30th of September 1736, the Maronite Church accepted from Rome a constitution which is still in force",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Maronites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Maronites",
+     "excerpt": "It retained, however, its Syriac liturgy and a non-celibate priesthood.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "In communion with Rome while keeping a Syriac liturgy and married priests. Accepted a constitution from Rome at the Council of Lowaizi, 1736."
+  },
+  {
+   "field": "description",
+   "value": "An Eastern Catholic church whose home is Mount Lebanon.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Maronites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Maronites",
+     "excerpt": "a Christian people of the Ottoman Empire in communion with the Papal Church, but forming a distinct denomination. The original seat and present home of the nucleus of the Maronites is Mt Lebanon",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Maronites"
+ ],
+ "researched_at": "2026-10-28T16:28:11+00:00"
+}

@@ -1,0 +1,85 @@
+{
+ "id": "g121",
+ "name": "African Methodist Episcopal Zion Church",
+ "stream": "meth",
+ "parent": "g118",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1796, New York. First annual conference 1821",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "organized among themselves, in 1796, and in the year 1800 built a church and named it Zion.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "AME Zion Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-methodist-episcopal-zion-church",
+     "excerpt": "The first annual conference was held in this church in 1821",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g118",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-methodist-episcopal-zion-church",
+     "excerpt": "organized by a group of black members protesting against discrimination in the John Street Church located in New York City.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "An African American Methodist church organized in New York in 1796 by Black members protesting discrimination. The name African Methodist Episcopal Zion Church was approved in 1848.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-methodist-episcopal-zion-church",
+     "excerpt": "The name African Methodist Episcopal Zion Church was approved in the general conference of 1848.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "AME Zion Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-methodist-episcopal-zion-church",
+     "excerpt": "dates from 1796 when it was organized by a group of black members protesting against discrimination in the John Street Church located in New York City.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An African American Methodist church formed in New York. The name African Methodist Episcopal Zion Church was approved in 1848, and it now has conferences on five continents."
+  },
+  {
+   "field": "size_today",
+   "value": "About 1.43 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/african-methodist-episcopal-zion-church",
+     "excerpt": "Membership 1 432 795",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:47:50+00:00"
+}

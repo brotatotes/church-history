@@ -1,0 +1,50 @@
+{
+ "id": "g088",
+ "name": "Anglican Church in North America",
+ "stream": "ang",
+ "parent": "g082",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "2009",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Anglican Church in North America, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=58",
+     "excerpt": "The Anglican Church in North America was founded in 2009 by more traditional Anglicans from North America.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Founded in 2009 by more traditional Anglicans from North America. It remains connected with the Anglican Communion and seeks a more traditional expression of Anglicanism than the Episcopal Church.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=58",
+     "excerpt": "It is still connected with the Anglican Communion, but it seeks to provide a more traditional expression of Anglicanism than the Episcopal Church.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Anglican Church in North America, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=58",
+     "excerpt": "The Anglican Church in North America was founded in 2009 by more traditional Anglicans from North America.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Founded by traditionalist Anglicans in North America. It seeks a more traditional expression of Anglicanism than the Episcopal Church."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:39:21+00:00"
+}

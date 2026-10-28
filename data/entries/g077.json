@@ -1,0 +1,42 @@
+{
+ "id": "g077",
+ "name": "Presbyterian Church (USA)",
+ "stream": "ref",
+ "parent": "g069",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1983, by merger",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Presbyterian Church (U.S.A.), group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=652",
+     "excerpt": "was founded in 1983 as a merger of the United Presbyterian Church in the United States of America and the Presbyterian Church in the United States.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The largest of several Presbyterian churches in the United States, formed by the 1983 merger of the United Presbyterian Church in the U.S.A. and the Presbyterian Church in the United States.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=652",
+     "excerpt": "The Presbyterian Church (U.S.A.), the largest of several Presbyterian churches in America, was founded in 1983 as a merger of the United Presbyterian Church in the United States of America and the Presbyterian Church in the United States.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:37:53+00:00"
+}

@@ -1,0 +1,88 @@
+{
+ "id": "g022",
+ "name": "Malankara Orthodox Syrian Church",
+ "stream": "east",
+ "parent": "g015",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "split_from",
+   "value": "g015",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Malankara Orthodox Syrian Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/malankara-orthodox-syrian-church",
+     "excerpt": "In 1653 in a historic and dramatic protest at the \"Bent Cross\" in Cochin, the church pledged against Portuguese and Roman Catholic authority and declared its freedom.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "start",
+   "value": "1653 (Coonan Cross protest). Link with the Syrian Orthodox Church of Antioch from 1665. Catholicosate established 1912",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/malankara-orthodox-syrian-church",
+     "excerpt": "Thus started the connection with the Syrian Orthodox Church of Antioch, in 1665.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/malankara-orthodox-syrian-church",
+     "excerpt": "Thus, in 1912, as a symbol of freedom, autocephaly and apostolic identity, the Catholicosate was established and an Indian Orthodox metropolitan was elected as the head (Catholicos) of the Malankara Church.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "St. Thomas Christians, XIV",
+     "url": "https://www.newadvent.org/cathen/14678a.htm",
+     "excerpt": "these very same complaints formed the heads of their grievances in 1653, when open schism was proclaimed to secure independence and oust the Jesuits .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "An Oriental Orthodox church of India. A group kept allegiance to the patriarchal claims of Antioch, and litigation in the courts followed.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/malankara-orthodox-syrian-church",
+     "excerpt": "A group continued to maintain allegiance to the patriarchal claims and therefore litigation in courts occurred.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An autocephalous Oriental Orthodox church in Kerala, India, headed by an Indian Catholicos. Some members remained loyal to the Patriarch of Antioch, and the two sides went to court."
+  },
+  {
+   "field": "size_today",
+   "value": "2 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/malankara-orthodox-syrian-church",
+     "excerpt": "Membership 2 000 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Malabar Christians"
+ ],
+ "researched_at": "2026-10-28T16:24:33+00:00"
+}

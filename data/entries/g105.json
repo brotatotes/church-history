@@ -1,0 +1,72 @@
+{
+ "id": "g105",
+ "name": "American Baptist Churches USA",
+ "stream": "bap",
+ "parent": "g098",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1814, Triennial Convention. Northern Baptist Convention 1907",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "American Baptist Churches in the USA, member profile",
+     "url": "https://www.oikoumene.org/member-churches/american-baptist-churches-in-the-usa",
+     "excerpt": "The organized existence of the American Baptist Churches in the USA began in 1814, when a national body of Baptists, called the Triennial Convention, was formed.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/american-baptist-churches-in-the-usa",
+     "excerpt": "the Baptists of the north maintained the societal structure until 1907, when the Northern Baptist Convention was founded",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "1814, Triennial Convention. Northern Baptist Convention 1907, renamed 1950"
+  },
+  {
+   "field": "description",
+   "value": "Northern American Baptists whose organized existence began in 1814 with the Triennial Convention, formed to support missionaries to Burma. They took the name American Baptist Convention in 1950.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/american-baptist-churches-in-the-usa",
+     "excerpt": "In 1950 the name was changed to American Baptist Convention",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "American Baptist Churches in the USA, member profile",
+     "url": "https://www.oikoumene.org/member-churches/american-baptist-churches-in-the-usa",
+     "excerpt": "The organized existence of the American Baptist Churches in the USA began in 1814, when a national body of Baptists, called the Triennial Convention, was formed. Its immediate purpose was to support a missionary couple to Burma.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Northern American Baptists whose national organization began with a foreign mission body in 1814. They took the name American Baptist Convention in 1950."
+  },
+  {
+   "field": "size_today",
+   "value": "About 1.43 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/american-baptist-churches-in-the-usa",
+     "excerpt": "Membership 1 433 075",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:44:23+00:00"
+}

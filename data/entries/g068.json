@@ -1,0 +1,101 @@
+{
+ "id": "g068",
+ "name": "Remonstrant Brotherhood",
+ "stream": "ref",
+ "parent": "g067",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1610 Remonstrance. Expelled by the Synod of Dordrecht 1618 to 1619",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Remonstrants",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Remonstrants",
+     "excerpt": "and in 1610 presented to the states of Holland and Friesland a “remonstrance” in five articles formulating their points of departure from stricter Calvinism.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Remonstrant Brotherhood, member profile",
+     "url": "https://www.oikoumene.org/member-churches/remonstrant-brotherhood",
+     "excerpt": "The Synod of Dordrecht (1618-19) expelled the Remonstrants (as they were called) and dismissed 200 ministers, many of whom were banished or imprisoned.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g067",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/remonstrant-brotherhood",
+     "excerpt": "These ministers formed themselves into a \"brotherhood\", a description later taken over by Remon-strant-Reformed congregations.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "followers of Jacobus Arminius",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Remonstrants",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Remonstrants",
+     "excerpt": "REMONSTRANTS, the name given to those Dutch Protestants who, after the death of Arminius ( q.v. ), maintained the views associated with his name",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Held that predestination is conditional, the atonement universal in intention, and grace not irresistible.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Remonstrants",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Remonstrants",
+     "excerpt": "(1) that the divine decree of predestination is conditional, not absolute; (2) that the Atonement is in intention universal",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Remonstrants",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Remonstrants",
+     "excerpt": "(4) that though the grace of God is a necessary condition of human effort it does not act irresistibly in man",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "10,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/remonstrant-brotherhood",
+     "excerpt": "Membership 10 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Remonstrants",
+  "Arminianism"
+ ],
+ "researched_at": "2026-10-28T16:35:55+00:00"
+}

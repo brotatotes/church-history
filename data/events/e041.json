@@ -1,0 +1,51 @@
+{
+ "id": "e041",
+ "name": "Wesleyan Methodist movement",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1739",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Methodism",
+     "url": "https://www.newadvent.org/cathen/10237b.htm",
+     "excerpt": "A religious movement which was originated in 1739 by John Wesley in the Anglican Church , and subsequently gave rise to numerous separate denominations .",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Methodism",
+     "url": "https://www.newadvent.org/cathen/10237b.htm",
+     "excerpt": "In 1739 Wesley organized the first Methodist Society, laid the foundation of the first separate place of worship at Bristol , and also opened a chapel (The Foundry) in London .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Movement begun by John Wesley within the Church of England that later gave rise to separate Methodist denominations.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Methodism",
+     "url": "https://www.newadvent.org/cathen/10237b.htm",
+     "excerpt": "A religious movement which was originated in 1739 by John Wesley in the Anglican Church , and subsequently gave rise to numerous separate denominations .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Methodism"
+ ],
+ "researched_at": "2026-10-28T17:06:44+00:00"
+}

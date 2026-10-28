@@ -1,0 +1,42 @@
+{
+ "id": "e015",
+ "name": "Christianization of Rus'",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "988 (baptism of Vladimir)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 4, § 32",
+     "url": "https://ccel.org/ccel/schaff/hcc4/hcc4.i.ii.xxxii.html",
+     "excerpt": "He married Anne, and was baptized on the day of his wedding, a.d. 988.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Grand Duke Vladimir of Kiev was baptized and established Christianity as the religion of his realm.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 4, § 32",
+     "url": "https://ccel.org/ccel/schaff/hcc4/hcc4.i.ii.xxxii.html",
+     "excerpt": "The progress of Christianity among the Russians was slow until the grand-duke Vladimir (980–1015), a grandson of Olga, and revered as Isapostolos (“Equal to an Apostle”) with one sweep established it as the religion of the country.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:52+00:00"
+}

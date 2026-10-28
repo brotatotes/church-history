@@ -1,0 +1,42 @@
+{
+ "id": "e020",
+ "name": "Avignon papacy",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1309, lasting more than seventy years",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 6, § 5",
+     "url": "https://ccel.org/ccel/schaff/hcc6/hcc6.iii.ii.v.html",
+     "excerpt": "he chose, in 1309, Avignon as his residence. Thus began the so-called Babylonian captivity, or Avignon exile, of the papacy, which lasted more than seventy years and included seven popes, all Frenchmen",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Period when the popes resided at Avignon in France rather than Rome.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 6, § 5",
+     "url": "https://ccel.org/ccel/schaff/hcc6/hcc6.iii.ii.v.html",
+     "excerpt": "he chose, in 1309, Avignon as his residence. Thus began the so-called Babylonian captivity, or Avignon exile, of the papacy, which lasted more than seventy years and included seven popes, all Frenchmen",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:01:38+00:00"
+}

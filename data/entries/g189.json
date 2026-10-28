@@ -1,0 +1,84 @@
+{
+ "id": "g189",
+ "name": "African Church of the Holy Spirit",
+ "stream": "united",
+ "parent": "g185",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1927 split. Independent church 1933",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "African Church of the Holy Spirit, member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-church-of-the-holy-spirit",
+     "excerpt": "The African Church of the Holy Spirit came into being in 1927, as the result of a split in the Friends African Mission.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-church-of-the-holy-spirit",
+     "excerpt": "They were expelled from the mission and the ACHS was officially established as an independent church in 1933.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g110",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-church-of-the-holy-spirit",
+     "excerpt": "as the result of a split in the Friends African Mission.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Trinitarian, accepting the Apostles' and Nicene Creeds. Baptism in the Holy Spirit of adults. No celebration of Holy Communion.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-church-of-the-holy-spirit",
+     "excerpt": "The church accepts the scriptures as the supreme rule of faith and life and the Apostles' and Nicene Creeds as containing the substance of faith of the church.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-church-of-the-holy-spirit",
+     "excerpt": "Holy communion is not celebrated because the presence of the Holy Spirit in the believer takes the place of the eucharist",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 700,000 (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/african-church-of-the-holy-spirit",
+     "excerpt": "Membership 700 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:55:20+00:00"
+}

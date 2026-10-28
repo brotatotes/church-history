@@ -1,0 +1,52 @@
+{
+ "id": "e040",
+ "name": "First Great Awakening",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1740 to 1743 in New England (1740 to 1750 across the colonies)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Great Awakening (R. Webster)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Great_Awakening",
+     "excerpt": "GREAT AWAKENING, the name given to a remarkable religious revival centring in New England in 1740–1743, but covering all the American colonies in 1740–1750.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Religious revival in the American colonies associated with Jonathan Edwards, George Whitefield and Gilbert Tennent.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Great Awakening",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Great_Awakening",
+     "excerpt": "The word “awakening” in this sense was frequently (and possibly first) used by Jonathan Edwards at the time of the Northampton revival of 1734–1735",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Great Awakening",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Great_Awakening",
+     "excerpt": "prepared the way for the work in Rhode Island, Massachusetts and Connecticut (1740–1741) of George Whitefield, who had previously been preaching in the South, especially at Savannah, Georgia. He, his immediate follower, Gilbert Tennent (1703–1764), other clergymen",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Religious revival in the American colonies associated with Jonathan Edwards, George Whitefield and Gilbert Tennent."
+  }
+ ],
+ "odcc_lookup": [
+  "Great Awakening"
+ ],
+ "researched_at": "2026-10-28T17:06:44+00:00"
+}

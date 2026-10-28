@@ -1,0 +1,108 @@
+{
+ "id": "g092",
+ "name": "Amish",
+ "stream": "ana",
+ "parent": "g090",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1690s, under Jacob Ammann",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Amish, Contemporary American Religion (T. Miller)",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/amish",
+     "excerpt": "The Amish branched off from the Mennonites in Europe in the 1690s under the leadership of Jacob Ammann, who emphasized the shunning (ostracizing) of persons who had been expelled from the church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "ce1913",
+     "value": "about 1620",
+     "excerpt": "About 1620 the Swiss Mennonites split into Amish or Upland Mennonites and Lowland Mennonites.",
+     "url": "https://www.newadvent.org/cathen/10190b.htm"
+    },
+    {
+     "source_id": "eb1911",
+     "value": "1620",
+     "excerpt": "broke in 1620 into two parties, the Uplanders (or Amish, from their leader Jacob Amen)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mennonites"
+    }
+   ]
+  },
+  {
+   "field": "split_from",
+   "value": "g090",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Amish",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/amish",
+     "excerpt": "The Amish branched off from the Mennonites in Europe in the 1690s",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Jacob Ammann",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Amish",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/amish",
+     "excerpt": "under the leadership of Jacob Ammann",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Plain dress, rejection of much modern technology, self-governing local congregations, the Ordnung of community rules, and pacifism.",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Amish",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/amish",
+     "excerpt": "They are best known to the larger public for their \"plain\" dress, largely unchanged for three centuries, and their rejection of modern technology (including, usually, motor vehicles and household electricity).",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Amish",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/amish",
+     "excerpt": "The strong cohesion of the Amish is maintained by family ties, cultural heritage, and the Ordnung, the detailed system of regulations governing daily life.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Amish, Contemporary American Religion (T. Miller)",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/amish",
+     "excerpt": "local Amish congregations are self-governing and independent.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Amish, Contemporary American Religion (T. Miller)",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/amish",
+     "excerpt": "like other Anabaptists, the Amish are pacifists",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Plain dress, limited use of modern technology, self-governing congregations meeting in homes, the Ordnung of community rules, and pacifism."
+  }
+ ],
+ "odcc_lookup": [
+  "Amish"
+ ],
+ "researched_at": "2026-10-28T16:43:10+00:00",
+ "research_notes": "1911 sources give 1620 for the Upland/Lowland split; modern source gives 1690s under Ammann. Disputed."
+}

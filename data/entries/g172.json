@@ -1,0 +1,88 @@
+{
+ "id": "g172",
+ "name": "Christadelphians",
+ "stream": "non",
+ "parent": "g148",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1848 per EB 1911. ARDA gives 1844",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Christadelphians",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christadelphians",
+     "excerpt": "a community founded in 1848 by John Thomas (1805–1871)",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "arda",
+     "value": "1844",
+     "excerpt": "The Christadelphians were founded in 1844 by Dr. John Thomas.",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=168"
+    }
+   ]
+  },
+  {
+   "field": "split_from",
+   "value": "g148",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Christadelphians",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christadelphians",
+     "excerpt": "There he at first joined the “Campbellites,” but afterwards struck out independently",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "John Thomas",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Christadelphians",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christadelphians",
+     "excerpt": "founded in 1848 by John Thomas (1805–1871)",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Deny the divinity of Jesus. Conditional immortality, a millenarian hope of a theocracy centred at Jerusalem, and congregations not ruled by employed clergy.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Christadelphians, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=168",
+     "excerpt": "They deny the divinity of Jesus Christ and aspire to study scripture accurately in congregations not ruled by employed clergy.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Christadelphians",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christadelphians",
+     "excerpt": "Their theology is strongly millenarian, centering in the hope of a world-wide theocracy with its seat at Jerusalem. Holding a doctrine of “conditional immortality,”",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Deny the divinity of Jesus. Conditional immortality, millenarian hope of a kingdom centred at Jerusalem, and congregations (ecclesias) without paid clergy."
+  }
+ ],
+ "odcc_lookup": [
+  "Christadelphians"
+ ],
+ "researched_at": "2026-10-28T16:53:31+00:00",
+ "research_notes": "Candidate parent Millerites; EB says Thomas came from the Campbellites. Lane parent g148."
+}

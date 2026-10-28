@@ -1,0 +1,58 @@
+{
+ "id": "g170",
+ "name": "Jehovah's Witnesses",
+ "stream": "non",
+ "parent": "g169",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1931, present name",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Jehovah's Witnesses, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=450",
+     "excerpt": "The organization took its present name in 1931.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g169",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=450",
+     "excerpt": "The Jehovah's Witnesses emerged out of the Bible Student movement begun by Charles Taze Russell",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The largest group to come out of the Millerite Adventist movement.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "International Bible Students Association, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=1004",
+     "excerpt": "now exists as the largest group to originate out of the original Millerite excitement.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Jehovah's Witnesses"
+ ],
+ "researched_at": "2026-10-28T16:53:31+00:00"
+}

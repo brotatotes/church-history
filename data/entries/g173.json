@@ -1,0 +1,81 @@
+{
+ "id": "g173",
+ "name": "Church of South India",
+ "stream": "united",
+ "parent": "g082",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1947",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Church of South India, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-south-india",
+     "excerpt": "The Church of South India was inaugurated in 1947, after thirty years of union negotiations between the South India United Church - the combined body of Presbyterians and Congregationalists - the Anglican dioceses in South India and the South Indian districts of the Methodist Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "United church accepting the historic episcopate in constitutional form, on the basis of the Lambeth Quadrilateral.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-south-india",
+     "excerpt": "The basis of the constitution is the Lambeth Quadrilateral, the historical episcopate being accepted in a constitutional form.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Inaugurated in 1947 by a union of the South India United Church (Presbyterians and Congregationalists), the Anglican dioceses in South India and the South Indian Methodist districts. One of its dioceses is in Sri Lanka.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-south-india",
+     "excerpt": "Out of the 22 dioceses of the CSI one is in Jaffna, Sri Lanka.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Church of South India, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-south-india",
+     "excerpt": "The Church of South India was inaugurated in 1947, after thirty years of union negotiations between the South India United Church - the combined body of Presbyterians and Congregationalists - the Anglican dioceses in South India and the South Indian districts of the Methodist Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A union of Presbyterian, Congregational, Anglican and Methodist churches in South India, with one diocese in Sri Lanka."
+  },
+  {
+   "field": "size_today",
+   "value": "About 3.5 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-south-india",
+     "excerpt": "Membership 3 500 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "South India, Church of"
+ ],
+ "researched_at": "2026-10-28T16:54:28+00:00",
+ "research_notes": "United church. Lane parent g082 per candidate list; build should show merge inputs (Anglican, Methodist, Reformed)."
+}

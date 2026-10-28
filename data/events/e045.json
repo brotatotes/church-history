@@ -1,0 +1,44 @@
+{
+ "id": "e045",
+ "name": "Oxford Movement",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1833 (Keble's sermon, 14 July)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Oxford Movement",
+     "url": "https://www.newadvent.org/cathen/11370a.htm",
+     "excerpt": "Keble's sermon in itself not very striking on \"National Apostasy\", had marked 14 July, 1833, as the birthday of a \"second Reformation .\"",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Movement within the Church of England associated with the Tracts for the Times, published from 1833 to 1841.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Oxford Movement",
+     "url": "https://www.newadvent.org/cathen/11370a.htm",
+     "excerpt": "That is the point of view maintained in the \"Tracts for the Times\" from 1833 to 1841, which gave its familiar name to the \"Tractarian\" Movement.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Oxford Movement"
+ ],
+ "researched_at": "2026-10-28T17:06:44+00:00"
+}

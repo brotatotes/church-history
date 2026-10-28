@@ -1,0 +1,88 @@
+{
+ "id": "g191",
+ "name": "Christian Catholic Church in Zion",
+ "stream": "pent",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1896, Zion City near Chicago",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Catholic Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Catholic_Church",
+     "excerpt": "the name assumed by a religious organization founded at Zion City near Chicago, Illinois, U.S.A., in 1896, by John Alexander Dowie ( q.v. ).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "John Alexander Dowie",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Catholic Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Catholic_Church",
+     "excerpt": "by John Alexander Dowie ( q.v. ).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Faith healing and threefold immersion of believers.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Catholic Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Catholic_Church",
+     "excerpt": "Its members added to the usual tenets of Christianity a special belief in faith-healing, and laid much stress on united consecration services and the threefold immersion of believers.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A community founded at Zion City near Chicago in 1896, with religious, educational and commercial departments. Dowie was deposed in 1906 after dissension among his followers.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Catholic Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Catholic_Church",
+     "excerpt": "After 1903 considerable dissension arose among Dowie’s followers: he was deposed in 1906",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Catholic Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Catholic_Church",
+     "excerpt": "the operations of the community included religious, educational and commercial departments.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Catholic Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Catholic_Church",
+     "excerpt": "founded at Zion City near Chicago, Illinois, U.S.A., in 1896",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A community at Zion City with religious, educational and commercial departments. Dowie was deposed in 1906 after dissension among his followers."
+  }
+ ],
+ "odcc_lookup": [
+  "Dowie, John Alexander"
+ ],
+ "researched_at": "2026-10-28T16:55:41+00:00",
+ "research_notes": "Candidate parent Holiness (overlay); lane parent g117 Methodism/Holiness lane, stream pent per candidate. No split_from sourced. Holiness overlay influence not sourced either."
+}

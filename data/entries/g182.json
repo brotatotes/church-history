@@ -1,0 +1,64 @@
+{
+ "id": "g182",
+ "name": "Protestant Church in the Netherlands",
+ "stream": "united",
+ "parent": "g067",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "May 2004, merger",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Protestant Church in the Netherlands, member profile",
+     "url": "https://www.oikoumene.org/member-churches/protestant-church-in-the-netherlands",
+     "excerpt": "The Protestant Church in the Netherlands came into being in May 2004, through the merger of two churches of the reformed (Calvinistic) tradition and one Lutheran church: the Netherlands Reformed Church, the Reformed Churches in the Netherlands, and the Evangelical - Lutheran Church in the Kingdom of the Netherlands.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed in 2004 by merging the Netherlands Reformed Church, the Reformed Churches in the Netherlands (formed 1892 from the secessions of 1834 and 1886) and an Evangelical Lutheran church.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/protestant-church-in-the-netherlands",
+     "excerpt": "This action of the state was one of the reasons for two splits in 1834 and 1886. The two groups that separated merged in 1892 to form the Reformed Churches in the Netherlands.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Protestant Church in the Netherlands, member profile",
+     "url": "https://www.oikoumene.org/member-churches/protestant-church-in-the-netherlands",
+     "excerpt": "The Protestant Church in the Netherlands came into being in May 2004, through the merger of two churches of the reformed (Calvinistic) tradition and one Lutheran church",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Merged the Netherlands Reformed Church, the Reformed Churches in the Netherlands (formed 1892 from the secessions of 1834 and 1886) and the Evangelical Lutheran Church in the Kingdom of the Netherlands."
+  },
+  {
+   "field": "size_today",
+   "value": "About 2.5 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/protestant-church-in-the-netherlands",
+     "excerpt": "Membership 2 500 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:55:18+00:00"
+}

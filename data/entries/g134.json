@@ -1,0 +1,81 @@
+{
+ "id": "g134",
+ "name": "Pentecostal churches",
+ "stream": "pent",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Early 20th century, United States",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "It emerged as a distinct religious movement in the U.S. in the early 20th century.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Pentecostal Family profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/families?F=94",
+     "excerpt": "Pentecostal churches emerged as a movement in early 20th century America",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g129",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "Pentecostalism has roots in the 19th-century Holiness Movement, which promoted intense personal piety.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "All Christians should seek a post-conversion baptism of the Holy Spirit, with gifts such as prophecy, healing and speaking in tongues.",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "Pentecostals are members of distinct Protestant denominations or independent churches that hold the teaching that all Christians should seek a post-conversion religious experience called the baptism of the Holy Spirit.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 279 million pentecostal Christians (2010 estimate)",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "there are about 279 million pentecostal Christians and 305 million charismatic Christians in the world.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Pentecostalism",
+  "Azusa Street"
+ ],
+ "researched_at": "2026-10-28T16:49:45+00:00",
+ "research_notes": "Lane parent g117 Methodism since Holiness is an overlay; split_from records Holiness roots. Azusa Street 1906 not in approved sources found; ODCC lookup."
+}

@@ -1,0 +1,64 @@
+{
+ "id": "g063",
+ "name": "Ethiopian Evangelical Church Mekane Yesus",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1959, constituted as a national church",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Ethiopian Evangelical Church Mekane Yesus, member profile",
+     "url": "https://www.oikoumene.org/member-churches/ethiopian-evangelical-church-mekane-yesus-eecmy",
+     "excerpt": "From these joint efforts the Ethiopian Evangelical Church Mekane Yesus (EECMY) was instituted as a national church in 1959.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "An Ethiopian church that grew from Ethiopian Christians preaching with the help of Lutheran missions. Its name, from its first congregation in Addis Ababa, means Place of Jesus.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/ethiopian-evangelical-church-mekane-yesus-eecmy",
+     "excerpt": "At the turn of the 19th century, Ethiopian Christians began proclaiming the gospel with the help of the Lutheran missions in the country.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/ethiopian-evangelical-church-mekane-yesus-eecmy",
+     "excerpt": "It takes its name from its first congregation in Addis Ababa, Mekane Yesus, meaning the \"Place of Jesus\".",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An Ethiopian church that grew from Ethiopian evangelists working with Lutheran missions. Its name means Place of Jesus."
+  },
+  {
+   "field": "size_today",
+   "value": "about 8.3 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/ethiopian-evangelical-church-mekane-yesus-eecmy",
+     "excerpt": "Membership 8 310 129",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:32:55+00:00"
+}

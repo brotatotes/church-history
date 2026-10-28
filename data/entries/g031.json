@@ -1,0 +1,58 @@
+{
+ "id": "g031",
+ "name": "Polish Autocephalous Orthodox Church",
+ "stream": "orth",
+ "parent": "g026",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1924, autocephaly granted by the Ecumenical Patriarchate",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Polish Autocephalous Orthodox Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/polish-autocephalous-orthodox-church",
+     "excerpt": "This was achieved in 1924 through the Ecumenical Patriarchate; autocephaly was proclaimed officially in Poland in 1925 and was recognized by the Russian Orthodox Church in 1948.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g026",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/polish-autocephalous-orthodox-church",
+     "excerpt": "the eastern half of Poland became part of Russia and consequently the Orthodox population came under the jurisdiction of the Russian Orthodox Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "600,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/polish-autocephalous-orthodox-church",
+     "excerpt": "Membership 600 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Poland, Christianity in"
+ ],
+ "researched_at": "2026-10-28T16:25:54+00:00"
+}

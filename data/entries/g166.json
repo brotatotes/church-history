@@ -1,0 +1,67 @@
+{
+ "id": "g166",
+ "name": "Latter Day Saint movement",
+ "stream": "non",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "6 April 1830, Fayette, New York",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Mormons",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mormons",
+     "excerpt": "A Church was formally organized on the 6th of April 1830 at Fayette, Seneca county, New York",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Church of Jesus Christ of Latter-day Saints, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=211",
+     "excerpt": "This church was organized on April 6, 1830 in Fayette, New York, by Joseph Smith.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Joseph Smith",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=211",
+     "excerpt": "by Joseph Smith.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Belief that Joseph Smith was divinely directed to restore the gospel, including priesthood and temple work.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=211",
+     "excerpt": "Members believe that Joseph Smith was divinely directed to restore the gospel to the earth, and that through him the keys to the Aaronic and Melchizedek priesthoods and temple work also were restored.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Mormons",
+  "Smith, Joseph"
+ ],
+ "researched_at": "2026-10-28T16:53:30+00:00",
+ "research_notes": "Outside lane. EB1911 Mormons article uses pejorative language; only neutral factual excerpts quoted."
+}

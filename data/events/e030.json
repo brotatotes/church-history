@@ -1,0 +1,42 @@
+{
+ "id": "e030",
+ "name": "Council of Trent",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1545 to 1563",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Trent, Council of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Trent%2C_Council_of",
+     "excerpt": "The Council of Trent (1545–1563) has a long antecedent history of great significance for the fortunes of the Catholic Church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Council of the Catholic Church called to settle the religious dispute by doctrinal decisions and to reform abuses.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Trent, Council of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Trent%2C_Council_of",
+     "excerpt": "assigned it three tasks: (1) the pacification of the religious dispute by doctrinal decisions, (2) the reform of ecclesiastical abuses",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:01:40+00:00"
+}

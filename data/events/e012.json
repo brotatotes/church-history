@@ -1,0 +1,59 @@
+{
+ "id": "e012",
+ "name": "First iconoclast controversy",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "726 to 787",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 4, § 100, The Iconoclastic War, and the Synod of 754",
+     "url": "https://ccel.org/ccel/schaff/hcc4/hcc4.i.x.x.html",
+     "excerpt": "The war upon images and the abolition of image-worship by the Council of Constantinople, a.d. 726–754. 2) The reaction in favor of image-worship, and its solemn sanction by the second Council of Nicaea, a.d. 754–787.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Conflict begun by the Byzantine emperor Leo III, who began his war upon religious images in 726.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 4, § 100",
+     "url": "https://ccel.org/ccel/schaff/hcc4/hcc4.i.x.x.html",
+     "excerpt": "Then, in the tenth year (726),",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 4, § 100, The Iconoclastic War, and the Synod of 754",
+     "url": "https://ccel.org/ccel/schaff/hcc4/hcc4.i.x.x.html",
+     "excerpt": "Leo III., called the Isaurian (716–741)",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 4, § 100, The Iconoclastic War, and the Synod of 754",
+     "url": "https://ccel.org/ccel/schaff/hcc4/hcc4.i.x.x.html",
+     "excerpt": "he began his war upon the images.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Conflict begun by Emperor Leo III over the use of religious images."
+  }
+ ],
+ "odcc_lookup": [
+  "Iconoclasm"
+ ],
+ "researched_at": "2026-10-28T17:00:51+00:00"
+}

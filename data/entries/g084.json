@@ -1,0 +1,79 @@
+{
+ "id": "g084",
+ "name": "Scottish Episcopal Church",
+ "stream": "ang",
+ "parent": "g082",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1689, disestablishment of episcopacy in Scotland",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Scottish Episcopal Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/scottish-episcopal-church",
+     "excerpt": "The Scottish Episcopal Church was formerly the Established Church of Scotland. It was disestablished and disendowed in 1689 by King William III",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Anglican church in Scotland. Penal laws were imposed after 1746 and eased after the Synod of Laurencekirk in 1804. Its bishops consecrated the first bishop of Connecticut in 1784.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/scottish-episcopal-church",
+     "excerpt": "The disestablished Scottish Episcopal Church continued strongly until 1746 when, again for political reasons after the Jacobite rebellion, severe penal statutes were imposed upon all Episcopalians.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/scottish-episcopal-church",
+     "excerpt": "The Synod of Laurencekirk in 1804 saw a reverse in this trend",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/scottish-episcopal-church",
+     "excerpt": "the action of the Scottish bishops in consecrating the bishop of Connecticut in 1784",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Scottish Episcopal Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/scottish-episcopal-church",
+     "excerpt": "The Scottish Episcopal Church is part of the Anglican communion.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 44,280 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/scottish-episcopal-church",
+     "excerpt": "Membership 44 280",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Episcopal Church in Scotland"
+ ],
+ "researched_at": "2026-10-28T16:39:20+00:00"
+}

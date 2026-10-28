@@ -1,0 +1,110 @@
+{
+ "id": "g050",
+ "name": "Waldensians",
+ "stream": "med",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "c. 1170, Lyons",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Waldenses",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Waldenses",
+     "excerpt": "It was at this time (1170) that a rich merchant of Lyons, Peter Waldo, sold his goods and gave them to the poor; then he went forth as a preacher of voluntary poverty.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Waldensian Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/waldensian-church",
+     "excerpt": "The Waldensian movement has its origins in the 12th century, when a rich merchant of Lyons, Valdes or Valdesius, decided to dedicate himself to the preaching of the gospel to the lower classes of society.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "c. 1170 to 1176, Lyons"
+  },
+  {
+   "field": "founders",
+   "value": "Valdes (Peter Waldo) of Lyons",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Waldenses",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Waldenses",
+     "excerpt": "the historical founder of the sect, Peter Waldo or Valdez.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g035",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/waldensian-church",
+     "excerpt": "Valdes and his community refused to obey, and the Council of Verona (1184) placed the \"poor of Lyons\" under the ban of excommunication.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A movement that spread from southern France to Piedmont, Lombardy and Germany. It was absorbed into the Reformation in the 16th century and united with the Methodists in Italy in 1975.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/waldensian-church",
+     "excerpt": "The Waldensians grew rapidly and spread, first in southern France, then in Piedmont, Lombardy and Germany.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Waldenses",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Waldenses",
+     "excerpt": "while in the 16th century they were absorbed into the general movement of the Reformation.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/waldensian-church",
+     "excerpt": "Waldensians and Methodists in Italy merged to become a united church in 1975, although both have kept their specific identities.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A preaching movement of voluntary poverty, the Poor of Lyons, that spread to Piedmont, Lombardy and Germany. It joined the Reformation in the 16th century and in 1975 united with the Methodists in Italy."
+  },
+  {
+   "field": "size_today",
+   "value": "25,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/waldensian-church",
+     "excerpt": "Membership 25 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Waldenses"
+ ],
+ "researched_at": "2026-10-28T16:31:45+00:00"
+}

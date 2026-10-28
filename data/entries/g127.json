@@ -1,0 +1,81 @@
+{
+ "id": "g127",
+ "name": "Evangelical Association",
+ "stream": "meth",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "c. 1800, Jacob Albright's itinerant mission among German Pennsylvanians",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Evangelical Association",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Evangelical_Association",
+     "excerpt": "founded about the beginning of the 19th century by Jacob Albright (1759–1808), a German Lutheran of Pennsylvania.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Jacob Albright",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Evangelical Association",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Evangelical_Association",
+     "excerpt": "he was, at an assembly composed of adherents from the different places he had visited, elected in 1800 presiding elder or chief pastor",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Founded by Jacob Albright, a German Lutheran of Pennsylvania, through a mission among his fellow-countrymen. Its government and theology are close to those of the Methodist Episcopal Church. It took its present name in 1818 and divided in 1891.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Evangelical Association",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Evangelical_Association",
+     "excerpt": "rules of government were adopted somewhat similar to those of the Methodist Episcopal Church. The theological standards of the two bodies are also in close agreement.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Evangelical Association",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Evangelical_Association",
+     "excerpt": "In 1807 Albright was appointed bishop of the community, which adopted its present name in 1818.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Evangelical Association",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Evangelical_Association",
+     "excerpt": "In 1891 a long internal controversy resulted in a division.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Evangelical Association",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Evangelical_Association",
+     "excerpt": "founded about the beginning of the 19th century by Jacob Albright (1759–1808), a German Lutheran of Pennsylvania. About 1790 he began an itinerant mission among his fellow-countrymen",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A German-speaking church in Pennsylvania with government and theology close to the Methodist Episcopal Church. It took its present name in 1818 and had a division in 1891."
+  }
+ ],
+ "odcc_lookup": [
+  "Evangelical Church (USA)"
+ ],
+ "researched_at": "2026-10-28T16:47:52+00:00",
+ "research_notes": "Continuity with the Evangelical Church of the 1946 EUB merger is not stated explicitly in sources found; end omitted pending ODCC."
+}

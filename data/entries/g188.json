@@ -1,0 +1,56 @@
+{
+ "id": "g188",
+ "name": "African Israel Nineveh Church",
+ "stream": "united",
+ "parent": "g185",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1942, Kenya",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "African Israel Nineveh Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-israel-nineveh-church",
+     "excerpt": "The African Israel Nineveh Church was founded in 1942 by David Zakayo Kivuli, who received his education at the mission of the Pentecostal Assemblies of Canada (now Pentecostal Assemblies of God) in western Kenya.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "David Zakayo Kivuli",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/african-israel-nineveh-church",
+     "excerpt": "founded in 1942 by David Zakayo Kivuli",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 500,000 (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/african-israel-nineveh-church",
+     "excerpt": "Membership 500 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:55:20+00:00"
+}

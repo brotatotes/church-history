@@ -1,0 +1,71 @@
+{
+ "id": "g080",
+ "name": "Presbyterian Church of Korea",
+ "stream": "ref",
+ "parent": "g069",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1884, beginning of Presbyterian mission in Korea",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Presbyterian Church of Korea, member profile",
+     "url": "https://www.oikoumene.org/member-churches/presbyterian-church-of-korea",
+     "excerpt": "When the first Presbyterian missionaries from the US arrived in 1884 the Koreans already had the Bible in their own language.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Korean Presbyterian church. Missionaries from Western churches came to Korea from 1884. Korean churches grew rapidly in the first half of the 20th century, and Christians took part in the 1919 independence movement.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/presbyterian-church-of-korea",
+     "excerpt": "Because of this zeal for evangelism the churches in Korea grew rapidly in the first half of the 20th century.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/presbyterian-church-of-korea",
+     "excerpt": "Under the rule of the Japanese (1910-1945) the Korean church played a leading role in the 1919 independence movement.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Presbyterian Church of Korea, member profile",
+     "url": "https://www.oikoumene.org/member-churches/presbyterian-church-of-korea",
+     "excerpt": "From 1884 onwards many missionaries from churches in the West came to Korea.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A Korean Presbyterian church that grew from 19th-century missions. Korean churches grew rapidly in the first half of the 20th century, and Christians took part in the 1919 independence movement."
+  },
+  {
+   "field": "size_today",
+   "value": "About 2.85 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/presbyterian-church-of-korea",
+     "excerpt": "Membership 2 852 311",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:37:53+00:00"
+}

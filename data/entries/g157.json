@@ -1,0 +1,114 @@
+{
+ "id": "g157",
+ "name": "Churches of God, General Eldership",
+ "stream": "rest",
+ "parent": "g065",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1830, meeting of ministers at Harrisburg",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 409",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "a meeting was held at Harrisburg in October, 1830, which was attended by six of the licensed ministers.",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n426",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "About 1828 first church. General Eldership October 1830, Harrisburg"
+  },
+  {
+   "field": "split_from",
+   "value": "g065",
+   "citations": [
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 409",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "The case was not finally disposed of until some time in 1828, when Mr. Winebrenner’s connection with the German Reformed Church was finally severed.",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n426",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "John Winebrenner",
+   "citations": [
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 407",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "its fruits are seen in the denomination known as the “General Eldership of the Churches of God in North America.”’ John Winebrenner was born in the Glade Valley",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n424",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Grew from revivals led by John Winebrenner after he left the German Reformed Church. The General Eldership of the Church of God in North America was organized at Pittsburgh in 1845.",
+   "citations": [
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 409",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "The case was not finally disposed of until some time in 1828, when Mr. Winebrenner’s connection with the German Reformed Church was finally severed.",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n426",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    },
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 409",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "On May 26, 1845, delegates from these three elderships met at Pittsburgh, Pa., and organized the ‘‘General Eldership of the Church of God in North",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n426",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    },
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 409",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "his labors extended to sur- rounding districts and towns and were attended by extensive revivals of religion.",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n426",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Grew from revivals led by John Winebrenner after he left the German Reformed Church. The General Eldership of the Church of God in North America was organized at Pittsburgh in 1845."
+  }
+ ],
+ "odcc_lookup": [
+  "Winebrenner, John"
+ ],
+ "researched_at": "2026-10-28T16:51:57+00:00",
+ "research_notes": "Candidate parent was Stone-Campbell; census shows German Reformed origin. Lane parent g065. Census excerpts need vision-check against page image in verify.",
+ "dropped_in_verify": [
+  {
+   "field": "start",
+   "citation": {
+    "source_id": "census1926",
+    "locator": "Religious Bodies 1926, vol. 2, General Eldership of the Churches of God in North America",
+    "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+    "excerpt": "about 1828 he organized an independent church, calling it simply the “Church of God.”",
+    "excerpt_type": "public_domain"
+   },
+   "why": "OCR text layer reads 1828 but the printed page (p. 409) reads \"about 1825\"; citation removed"
+  }
+ ]
+}

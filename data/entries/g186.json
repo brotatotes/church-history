@@ -1,0 +1,65 @@
+{
+ "id": "g186",
+ "name": "Harrist Church",
+ "stream": "united",
+ "parent": "g185",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Preaching of William Wade Harris 1913-1915. Church named 1928",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Harrist Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church",
+     "excerpt": "The Harrist Church has its origins in the work of an evangelist and prophet from Liberia, William Wade Harris, who preached the gospel in the coastal areas of what is now Ivory Coast, in the years 1913-15.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church",
+     "excerpt": "In 1928, a delegation from the communities of believers which had grown out of his preaching visited the Prophet Harris in Liberia, and received his blessing to continue his work.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "William Wade Harris",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church",
+     "excerpt": "an evangelist and prophet from Liberia, William Wade Harris",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 197,515 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-christ-harris-mission-harrist-church",
+     "excerpt": "Membership 197 515",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Harris, William Wade"
+ ],
+ "researched_at": "2026-10-28T16:55:19+00:00"
+}

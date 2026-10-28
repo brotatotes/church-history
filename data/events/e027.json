@@ -1,0 +1,42 @@
+{
+ "id": "e027",
+ "name": "Early Swiss Anabaptist movement",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1525",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Anabaptists",
+     "url": "https://www.newadvent.org/cathen/01445b.htm",
+     "excerpt": "In 1525 some of his associates separated from him and preached rebaptism and communism.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Associates of Zwingli separated from him and practised rebaptism.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Anabaptists",
+     "url": "https://www.newadvent.org/cathen/01445b.htm",
+     "excerpt": "In 1525 some of his associates separated from him and preached rebaptism and communism.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:01:39+00:00"
+}

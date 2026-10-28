@@ -1,0 +1,44 @@
+{
+ "id": "e001",
+ "name": "Council of Jerusalem",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "50",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 1, § 64, The Council at Jerusalem",
+     "url": "https://ccel.org/ccel/schaff/hcc1/hcc1.i.X.64.html",
+     "excerpt": "the council convened at Jerusalem in the year 50, to decide as to the authority of the law of Moses, and adjust the difference between Jewish and Gentile Christianity.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Meeting of apostles, elders and church members at Jerusalem that decided whether Gentile converts were bound by the law of Moses.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 1, § 64, The Council at Jerusalem",
+     "url": "https://ccel.org/ccel/schaff/hcc1/hcc1.i.X.64.html",
+     "excerpt": "the council convened at Jerusalem in the year 50, to decide as to the authority of the law of Moses, and adjust the difference between Jewish and Gentile Christianity.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Jerusalem, Council of"
+ ],
+ "researched_at": "2026-10-28T17:00:49+00:00"
+}

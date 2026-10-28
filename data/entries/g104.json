@@ -1,0 +1,73 @@
+{
+ "id": "g104",
+ "name": "Southern Baptist Convention",
+ "stream": "bap",
+ "parent": "g098",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1845",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Southern Baptist Convention, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=770",
+     "excerpt": "The Southern Baptist Convention was founded in 1845 by Baptist congregations in the American South who rejected the anti-slavery tendencies in the Northern Baptist Convention and withdrew to carry forward independently.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "The Southern Baptist Convention, with its Home and Foreign Missionary Boards, and (later) its Sunday-school Board, was formed in 1845.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g105",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "American Baptist Churches in the USA, member profile",
+     "url": "https://www.oikoumene.org/member-churches/american-baptist-churches-in-the-usa",
+     "excerpt": "Baptist unity in America was first broken in 1845 over the issue of slavery. The Baptists in the south withdrew to organize the Southern Baptist Convention.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed in 1845 by Baptists in the American South who withdrew from northern Baptists over slavery and organized separate missionary boards.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "American Baptist Churches in the USA, member profile",
+     "url": "https://www.oikoumene.org/member-churches/american-baptist-churches-in-the-usa",
+     "excerpt": "Baptist unity in America was first broken in 1845 over the issue of slavery. The Baptists in the south withdrew to organize the Southern Baptist Convention.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "on the slavery question ultimately convinced the Southern brethren that separate organization for missionary work was advisable.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Formed by Baptists in the American South who separated from northern Baptists over slavery and organized their own mission boards."
+  }
+ ],
+ "odcc_lookup": [
+  "Southern Baptist Convention"
+ ],
+ "researched_at": "2026-10-28T16:44:22+00:00"
+}

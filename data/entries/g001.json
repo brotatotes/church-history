@@ -1,0 +1,52 @@
+{
+ "id": "g001",
+ "name": "Early Christian Church",
+ "stream": "early",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "c. AD 30 (Pentecost)",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 1, ch. IV, § 24, The Miracle of Pentecost and the Birthday of the Christian Church",
+     "url": "https://ccel.org/ccel/schaff/hcc1/hcc1.i.IV_1.24.html",
+     "excerpt": "§ 24. The Miracle of Pentecost and the Birthday of the Christian Church. a.d. 30.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 1, § 24",
+     "url": "https://ccel.org/ccel/schaff/hcc1/hcc1.i.IV_1.24.html",
+     "excerpt": "The ascension of Christ to heaven was followed ten days afterwards by the descent of the Holy Spirit upon earth and the birth of the Christian Church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The first Christian community, which the apostles' preaching in Jerusalem gathered by baptism into a society of disciples.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Church, section The Church after the Ascension",
+     "url": "https://www.newadvent.org/cathen/03744a.htm",
+     "excerpt": "St. Peter, in his first sermon , delivered on the day of Pentecost, declares that Jesus of Nazareth is the Messianic king ( Acts 2:36 ). The means of salvation which he indicates is baptism ; and by baptism his converts are aggregated to the society of disciples ( Acts 2:41 ).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Pentecost"
+ ],
+ "researched_at": "2026-10-28T16:18:28+00:00",
+ "research_notes": "Exact year depends on the crucifixion date. Schaff gives AD 30."
+}

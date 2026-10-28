@@ -1,0 +1,70 @@
+{
+ "id": "g071",
+ "name": "Covenanters / Reformed Presbyterians",
+ "stream": "ref",
+ "parent": "g069",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "covenants from 1557 and 1581. Cameronians stood apart from the religious settlement of 1689",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Covenanters",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Covenanters",
+     "excerpt": "The first “godly band” is dated December 1557; but more important is the covenant of 1581",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Covenanters",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Covenanters",
+     "excerpt": "They renounced their allegiance to King James and were greatly disappointed when their standards found no place in the religious settlement of 1689",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "covenants from 1557 and 1581. Cameronians separate after 1680 and the settlement of 1689"
+  },
+  {
+   "field": "distinctives",
+   "value": "Bound themselves by covenants to maintain Presbyterian doctrine and polity as the sole religion of their country.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Covenanters",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Covenanters",
+     "excerpt": "The Covenanters were thus named because in a series of bands or covenants they bound themselves to maintain the Presbyterian doctrine and polity as the sole religion of their country.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Bound themselves by covenants to maintain Presbyterian doctrine and polity as the national religion."
+  },
+  {
+   "field": "end",
+   "value": "most Reformed Presbyterian ministers in Scotland joined the Free Church in 1876",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Free Church of Scotland",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Free_Church_of_Scotland",
+     "excerpt": "a majority of the ministers of that church with their congregations were united with the Free Church in 1876.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Covenanters",
+  "Cameronians"
+ ],
+ "researched_at": "2026-10-28T16:35:55+00:00",
+ "research_notes": "Reformed Presbyterian churches continue elsewhere; end applies to Scottish majority only."
+}

@@ -1,0 +1,67 @@
+{
+ "id": "g017",
+ "name": "Coptic Orthodox Church",
+ "stream": "east",
+ "parent": "g016",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "tradition of founding by Mark the Evangelist. Separate from the Chalcedonian (Melkite) church after the Council of Chalcedon",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Coptic Orthodox Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/coptic-orthodox-church",
+     "excerpt": "Eusebius records the tradition that the church in Egypt was founded by St Mark the Evangelist, and Alexandria ranked with Antioch and Rome as one of the chief sees of the early church.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Copts",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Copts",
+     "excerpt": "The Melkites, adherents of the orthodox or court religion sanctioned by the council of Chalcedon, were mainly of foreign extraction, from the various Hellenistic races which peopled the Eastern Roman empire, while the bulk of the population, the true Egyptians, were Monophysite.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "tradition of founding by Mark the Evangelist. Separate from the Chalcedonian (Melkite) church after 451"
+  },
+  {
+   "field": "description",
+   "value": "The church of Egypt, which uses Coptic in its service books and the liturgies of St Basil, St Gregory and St Cyril.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/coptic-orthodox-church",
+     "excerpt": "The Coptic language is used mainly in the church and in the service books, which provide the Arabic text in parallel columns. The liturgies used are those of St Basil, St Gregory and St Cyril.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The native church of Egypt, which uses Coptic in worship and the liturgies of St Basil, St Gregory and St Cyril."
+  },
+  {
+   "field": "size_today",
+   "value": "about 11 million in Egypt and 1 million abroad (WCC figures)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/coptic-orthodox-church",
+     "excerpt": "Egypt: 11,000,000 - Outside Egypt: 1,000,000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Coptic Church"
+ ],
+ "researched_at": "2026-10-28T16:22:46+00:00"
+}

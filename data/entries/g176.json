@@ -1,0 +1,73 @@
+{
+ "id": "g176",
+ "name": "Uniting Church in Australia",
+ "stream": "united",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1977",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Uniting Church in Australia, member profile",
+     "url": "https://www.oikoumene.org/member-churches/uniting-church-in-australia",
+     "excerpt": "The Uniting Church was formed in 1977, bringing into one church the Congregational, Methodist and Presbyterian Churches throughout Australia.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed in 1977 by the Congregational, Methodist and Presbyterian churches of Australia, the third largest denomination in the country. Minorities of Congregationalists and Presbyterians stayed out.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/uniting-church-in-australia",
+     "excerpt": "Minorities of Congregationalists and Presbyterians stayed out of the union.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/uniting-church-in-australia",
+     "excerpt": "The Uniting Church is the third largest denomination in Australia, behind the Roman Catholic and Anglican churches.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Uniting Church in Australia, member profile",
+     "url": "https://www.oikoumene.org/member-churches/uniting-church-in-australia",
+     "excerpt": "The Uniting Church was formed in 1977, bringing into one church the Congregational, Methodist and Presbyterian Churches throughout Australia.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A union of Congregational, Methodist and Presbyterian churches, the third largest denomination in Australia. Minorities of Congregationalists and Presbyterians stayed out."
+  },
+  {
+   "field": "size_today",
+   "value": "About 350,000 members on rolls (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/uniting-church-in-australia",
+     "excerpt": "Membership 350 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Uniting Church in Australia"
+ ],
+ "researched_at": "2026-10-28T16:54:28+00:00"
+}

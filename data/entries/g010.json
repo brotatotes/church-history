@@ -1,0 +1,81 @@
+{
+ "id": "g010",
+ "name": "Donatists",
+ "stream": "early",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "311",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Donatists",
+     "url": "https://www.newadvent.org/cathen/05121a.htm",
+     "excerpt": "The Donatist schism in Africa began in 311 and flourished just one hundred years, until the conference at Carthage in 411, after which its importance waned.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Donatists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Donatists",
+     "excerpt": "the exciting cause was the election of a successor to Mensurius, bishop of Carthage, who died in 311.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "disappeared with the Arab conquest, about two centuries after the 5th-century Vandal invasions",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Donatists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Donatists",
+     "excerpt": "But they lived on, suffering with their orthodox brethren in the Vandal invasions of the 5th century, and like them finally disappearing before the Saracen onslaught two centuries later.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Held that the validity of sacraments depended on the personal character of the minister, and rejected clergy who had surrendered Scriptures in persecution.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Donatists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Donatists",
+     "excerpt": "the belief, early introduced into the African church, that the validity of all sacerdotal acts depended upon the personal character of the agent, and the question, arising out of that belief, as to the eligibility for sacerdotal office of the traditores",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A church in northern Africa that arose at the beginning of the 4th century.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Donatists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Donatists",
+     "excerpt": "DONATISTS, a powerful sect which arose in the Christian church of northern Africa at the beginning of the 4th century.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A church in North Africa that separated over the election of a bishop of Carthage and the standing of clergy who had yielded in the Diocletian persecution."
+  }
+ ],
+ "odcc_lookup": [
+  "Donatism"
+ ],
+ "researched_at": "2026-10-28T16:20:37+00:00"
+}

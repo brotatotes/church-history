@@ -1,0 +1,82 @@
+{
+ "id": "g097",
+ "name": "Schwenkfelders",
+ "stream": "ana",
+ "parent": "g089",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "followers of Kaspar Schwenkfeld. Immigration to Pennsylvania in 1734",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Schwenkfeld, Kaspar",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Schwenkfeld,_Kaspar",
+     "excerpt": "left behind him a sect (who were called subsequently by others Schwenkfeldians, but who called themselves “Confessors of the Glory of Christ”)",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Schwenkfelder Church in America, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=733",
+     "excerpt": "It was brought to the United States by followers who arrived in 1734.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "16th century, followers of Kaspar Schwenkfeld (1490-1561). Immigration to Pennsylvania in 1734"
+  },
+  {
+   "field": "founders",
+   "value": "Kaspar Schwenkfeld",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=733",
+     "excerpt": "The Schwenkfelder Church in America, a small free church built around the teachings of German mystic Caspar Schwenkfeld, emerged at the time of the Protestant Reformation.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A small free church built on the teachings of Kaspar Schwenkfeld. His followers formed a distinct group in Silesia, and some who fled to Pennsylvania formed a community in 1734.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=733",
+     "excerpt": "The Schwenkfelder Church in America, a small free church built around the teachings of German mystic Caspar Schwenkfeld, emerged at the time of the Protestant Reformation.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Schwenkfeld, Kaspar",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Schwenkfeld,_Kaspar",
+     "excerpt": "In Silesia they formed a distinct sect, which has lasted until the present time.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Schwenkfeld, Kaspar",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Schwenkfeld,_Kaspar",
+     "excerpt": "Those who had fled to Philadelphia in Pennsylvania (1734) formed a small community under the name of Schwenkfelders",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A small free church built on the teachings of Kaspar Schwenkfeld. His followers formed a distinct group in Silesia, and some emigrated to Pennsylvania in 1734."
+  }
+ ],
+ "odcc_lookup": [
+  "Schwenckfeld, Caspar"
+ ],
+ "researched_at": "2026-10-28T16:43:11+00:00",
+ "research_notes": "Not an Anabaptist group per se; candidate list places it in the Anabaptist/radical stream. Parent kept g089 for lane only; no split_from fact."
+}

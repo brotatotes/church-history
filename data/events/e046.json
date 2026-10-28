@@ -1,0 +1,51 @@
+{
+ "id": "e046",
+ "name": "Millerite Great Disappointment",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1844 (22 October)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "Snow, one of his disciples, set himself to correct Miller's calculations, and in his turn announced the end of the world for 22 October, 1844.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Followers of William Miller expected the return of Christ in 1843 and then on 22 October 1844. The expected return did not take place.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "Miller concluded that the world would come to an end, and Christ would return, in A.D. 1843.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "When the year 1843 had passed as any other, and the prediction had failed, Snow, one of his disciples, set himself to correct Miller's calculations, and in his turn announced the end of the world for 22 October, 1844.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Adventists"
+ ],
+ "researched_at": "2026-10-28T17:06:45+00:00"
+}

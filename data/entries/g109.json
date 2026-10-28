@@ -1,0 +1,73 @@
+{
+ "id": "g109",
+ "name": "Myanmar Baptist Convention",
+ "stream": "bap",
+ "parent": "g105",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1865, Burma Baptist Missionary Convention. Mission from 1813 under Adoniram Judson",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Myanmar Baptist Convention, member profile",
+     "url": "https://www.oikoumene.org/member-churches/myanmar-baptist-convention",
+     "excerpt": "In 1865, the Baptist churches in Burma organized themselves under the name \"Burma Baptist Missionary Convention\".",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/myanmar-baptist-convention",
+     "excerpt": "the first permanent Baptist Evangelists and mission came in 1813 from America, under Adoniram Judson.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Baptist convention of Myanmar, the country's largest Protestant body. It was renamed Burma Baptist Convention in 1954.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/myanmar-baptist-convention",
+     "excerpt": "The Baptists are the largest protestant denomination in the country.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Myanmar Baptist Convention, member profile",
+     "url": "https://www.oikoumene.org/member-churches/myanmar-baptist-convention",
+     "excerpt": "In 1954, the name was changed to Burma Baptist Convention.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "1.8 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/myanmar-baptist-convention",
+     "excerpt": "Membership 1 800 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Judson, Adoniram"
+ ],
+ "researched_at": "2026-10-28T16:44:23+00:00",
+ "research_notes": "Parent set to g105 (American Baptist mission, Triennial Convention formed to support Judson) instead of generic Baptists."
+}

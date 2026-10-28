@@ -1,0 +1,117 @@
+{
+ "id": "g089",
+ "name": "Anabaptists",
+ "stream": "ana",
+ "parent": "g065",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "January 1525, first believers' baptisms at Zurich",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "vol. 8, § 25 The Baptismal Controversy",
+     "url": "https://ccel.org/ccel/schaff/hcc8/hcc8.iv.iii.xvi.html",
+     "excerpt": "The first case was the rebaptism of Blaurock by Grebel in February, 1525, soon after the disputation with Zwingli.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Mennonites (A. Gordon)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mennonites",
+     "excerpt": "was Zürich, where in 1523 a small community left the state church and (from Jan. 18, 1525) adopted the tenet of believers’ baptism.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "ce1913",
+     "value": "1521, Zwickau prophets",
+     "excerpt": "A violent and extremely radical body of ecclesiastico-civil reformers which first made its appearance in 1521 at Zwickau",
+     "url": "https://www.newadvent.org/cathen/01445b.htm"
+    }
+   ]
+  },
+  {
+   "field": "split_from",
+   "value": "g065",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Mennonites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mennonites",
+     "excerpt": "was Zürich, where in 1523 a small community left the state church",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Conrad Grebel, Felix Manz, George Blaurock, Balthasar Hubmaier",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Anabaptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Anabaptists",
+     "excerpt": "The first leaders of the movement in Zürich—Grebel, Manz, Blaurock, Hubmaier—were men learned in Greek, Latin and Hebrew.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Rejected infant baptism and baptized believers on confession of faith. Many rejected oaths and the holding of civil office.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "§ 25",
+     "url": "https://ccel.org/ccel/schaff/hcc8/hcc8.iv.iii.xvi.html",
+     "excerpt": "Voluntary baptism of adult and responsible converts is, therefore, the only valid baptism.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Anabaptists",
+     "url": "https://www.newadvent.org/cathen/01445b.htm",
+     "excerpt": "This restoration included the rejection of oaths and capital punishment and the abstention from the exercise of magistracy.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Groups that, from the time of Luther's break with Rome, denied the validity of infant baptism. The name, meaning re-baptizers, was given by opponents and generally rejected by those it described.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Anabaptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Anabaptists",
+     "excerpt": "ANABAPTISTS (“re-baptizers,” from Gr. ἀνά and βαπτίζω ), a name given by their enemies to various sects which on the  occasion of Luther’s revolt from Romanism denied the validity of infant baptism",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Anabaptists",
+     "url": "https://www.newadvent.org/cathen/01445b.htm",
+     "excerpt": "The designation was generally repudiated by those to whom it was applied",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Radical Reformation groups that denied the validity of infant baptism. The name, meaning re-baptizers, was given by opponents and generally rejected by those it described."
+  }
+ ],
+ "odcc_lookup": [
+  "Anabaptists",
+  "Grebel, Conrad"
+ ],
+ "researched_at": "2026-10-28T16:43:09+00:00",
+ "research_notes": "CE 1913 dates Anabaptism to the Zwickau prophets 1521; EB1911 and Schaff place first believers' baptism at Zurich 1525. Modern scholarship generally distinguishes the Zwickau prophets from Swiss Brethren; ODCC check needed."
+}

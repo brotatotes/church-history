@@ -1,0 +1,37 @@
+{
+ "id": "g140",
+ "name": "Oneness Pentecostal churches",
+ "stream": "pent",
+ "parent": "g134",
+ "overlay": false,
+ "status": "placeholder",
+ "lane_note": "Still being researched",
+ "facts": [
+  {
+   "field": "description",
+   "value": "A branch of Pentecostalism. Its bodies include the Pentecostal Assemblies of the World and the United Pentecostal Church International.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Pentecostal Assemblies of the World, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=638",
+     "excerpt": "The Pentecostal Assemblies of the World, the first of the Oneness Pentecostal churches",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "United Pentecostal Church International, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=856",
+     "excerpt": "The United Pentecostal Church International, a Oneness Pentecostal church",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Oneness Pentecostalism"
+ ],
+ "researched_at": "2026-10-28T16:49:47+00:00",
+ "research_notes": "No approved source found yet for movement origin date or its distinctive teaching. Placeholder."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "g141",
+ "name": "United Pentecostal Church International",
+ "stream": "pent",
+ "parent": "g140",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1945, merger",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "United Pentecostal Church International, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=856",
+     "excerpt": "was founded in 1945 as a merger of the Pentecostal Church, Inc., and the Pentecostal Assemblies of Jesus Christ.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The largest of the predominantly white Oneness Pentecostal churches.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=856",
+     "excerpt": "It is the largest of the predominantly white Oneness Pentecostal churches.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:49:47+00:00"
+}

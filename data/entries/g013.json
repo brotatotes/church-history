@@ -1,0 +1,90 @@
+{
+ "id": "g013",
+ "name": "Church of the East",
+ "stream": "east",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "organized under a catholicos at Seleucia-Ctesiphon by 280, independent of Antioch from 410",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Holy Apostolic Catholic Assyrian Church of the East, member profile",
+     "url": "https://www.oikoumene.org/member-churches/holy-apostolic-catholic-assyrian-church-of-the-east",
+     "excerpt": "In 280, the Church of the East was officially organized under the Catholicos-Patriarch Mar Papa bar Gaggai of Seleucia-Ctesiphon, and in 410 it renounced all subjection to the see of Antioch.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g001",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 3, § 148, The Nestorian Church",
+     "url": "https://ccel.org/ccel/schaff/hcc3/hcc3.iii.xii.xxiii.html",
+     "excerpt": "After Nestorianism was exterminated from the Roman empire, it found an asylum in the kingdom of Persia, whither several teachers of the theological school of Edessa fled.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Repudiates the Council of Ephesus and the veneration of Mary as Mother of God, and traces its doctrines to Theodore of Mopsuestia.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 3, § 148",
+     "url": "https://ccel.org/ccel/schaff/hcc3/hcc3.iii.xii.xxiii.html",
+     "excerpt": "The Nestorians differ from the orthodox Greek church in their repudiation of the council of Ephesus and of the worship of Mary as mother of God",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Nestorians",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nestorians",
+     "excerpt": "The church traced its doctrines to Theodore of Mopsuestia rather than to Nestorius, whose name at first they repudiated, not regarding themselves as having been proselytized to any new teaching.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Does not accept the Council of Ephesus (431) or the title Mother of God for Mary, and follows the Antiochene theology of Theodore of Mopsuestia."
+  },
+  {
+   "field": "description",
+   "value": "The church in Persia, headed from 498 by a Patriarch of the East at Seleucia-Ctesiphon. Its missionaries reached China in the 7th century.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Nestorians, § 2",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nestorians",
+     "excerpt": "who in 498 assumed the title “Patriarch of the East” and had his seat at Seleucia-Ctesiphon on the Tigris",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Assyrian Church of the East, member profile",
+     "url": "https://www.oikoumene.org/member-churches/holy-apostolic-catholic-assyrian-church-of-the-east",
+     "excerpt": "In the 7th century they made their way into China.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The church of Persia and Mesopotamia, headed from 498 by a Patriarch of the East at Seleucia-Ctesiphon, whose missionaries reached Central Asia and China."
+  }
+ ],
+ "odcc_lookup": [
+  "Church of the East",
+  "Nestorianism"
+ ],
+ "researched_at": "2026-10-28T16:22:01+00:00",
+ "research_notes": "Older sources call it Nestorian. The church itself rejects that label in part. Use neutral name."
+}

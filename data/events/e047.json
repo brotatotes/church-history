@@ -1,0 +1,51 @@
+{
+ "id": "e047",
+ "name": "Scottish Disruption",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1843",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Free Church of Scotland (A. Menzies)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Free_Church_of_Scotland",
+     "excerpt": "In one sense the Free Church of Scotland dated its existence from the Disruption of 1843",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Division in the Church of Scotland over spiritual jurisdiction, from which the Free Church of Scotland dated its existence.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Free Church of Scotland",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Free_Church_of_Scotland",
+     "excerpt": "In one sense the Free Church of Scotland dated its existence from the Disruption of 1843",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Free Church of Scotland",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Free_Church_of_Scotland",
+     "excerpt": "The fact that the Church, as led first by John Knox and afterwards by Andrew Melville, claimed an inherent right to exercise a spiritual jurisdiction is notorious.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Disruption, the"
+ ],
+ "researched_at": "2026-10-28T17:06:45+00:00"
+}

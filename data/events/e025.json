@@ -1,0 +1,50 @@
+{
+ "id": "e025",
+ "name": "Luther's Ninety-five Theses",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1517 (31 October)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 7, § 32, The Ninety-five Theses. Oct. 31, 1517",
+     "url": "https://ccel.org/ccel/schaff/hcc7/hcc7.ii.iii.iii.html",
+     "excerpt": "on the memorable thirty-first day of October, 1517, which has ever since been celebrated in Protestant Germany as the birthday of the Reformation",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Martin Luther affixed ninety-five Latin theses on indulgences to the doors of the castle church at Wittenberg and invited a public discussion.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 7, § 32",
+     "url": "https://ccel.org/ccel/schaff/hcc7/hcc7.ii.iii.iii.html",
+     "excerpt": "He chose the orderly and usual way of a learned academic disputation.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 7, § 32, The Ninety-five Theses. Oct. 31, 1517",
+     "url": "https://ccel.org/ccel/schaff/hcc7/hcc7.ii.iii.iii.html",
+     "excerpt": "he affixed (either himself or through another) to the doors of the castle-church at Wittenberg, ninety-five Latin Theses on the subject of indulgences, and invited a public discussion.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Martin Luther posted theses for academic disputation on indulgences at Wittenberg."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:01:39+00:00"
+}

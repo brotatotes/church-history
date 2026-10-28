@@ -1,0 +1,73 @@
+{
+ "id": "g091",
+ "name": "Hutterites",
+ "stream": "ana",
+ "parent": "g089",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1528",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Hutterian Brethren, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=412",
+     "excerpt": "Hutterian Brethren (1528 - Present) - Religious Group",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Named after Jacob Hutter",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=412",
+     "excerpt": "Small groups of Hutterites derive their names from Jacob Hutter, a sixteenth-century Anabaptist.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Live in colonies that share property, practice non-resistance, dress plainly and run their own schools.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=412",
+     "excerpt": "\"Colonies\" share property, practice non-resistance, dress plainly, do not participate in politics, and operate their own schools.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Communal Anabaptists. Members of the three main groups, called leut, immigrated to the United States between 1874 and 1877.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=412",
+     "excerpt": "Members of these three major groups immigrated to the United States between 1874-1877.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Hutterites",
+  "Hutter, Jakob"
+ ],
+ "researched_at": "2026-10-28T16:43:09+00:00"
+}

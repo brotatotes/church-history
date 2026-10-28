@@ -1,0 +1,74 @@
+{
+ "id": "g039",
+ "name": "Chaldean Catholic Church",
+ "stream": "cat",
+ "parent": "g013",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "soon after 1551, when Sulaqa was consecrated Patriarch of the Chaldeans at Rome. Lasting union in 1830",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Chaldean Christians",
+     "url": "https://www.newadvent.org/cathen/03559a.htm",
+     "excerpt": "they sent him to Rome , where he received episcopal consecration from Julius III , with the title of Patriarch of the Chaldeans.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Chaldean Christians",
+     "url": "https://www.newadvent.org/cathen/03559a.htm",
+     "excerpt": "John Hormizd had been excommunicated in 1818, but was reconciled with Rome in 1830 and proclaimed Patriarch of Babylon by Pius VIII",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Chaldean Christians",
+     "url": "https://www.newadvent.org/cathen/03559a.htm",
+     "excerpt": "In 1551 the Catholicos Simeon bar Mama was succeeded by his nephew, Simeon Denha.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g013",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Chaldean Christians",
+     "url": "https://www.newadvent.org/cathen/03559a.htm",
+     "excerpt": "The name of former Nestorians now reunited with the Roman Church .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Former Nestorians reunited with the Roman Church, found mostly in Kirkuk, Arbil and Mosul.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Chaldean Christians",
+     "url": "https://www.newadvent.org/cathen/03559a.htm",
+     "excerpt": "most of the Chaldean population being found in the cities of Kerkuk , Arbil, and Mosul, in the heart of the Tigris valley",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Catholics of the East Syriac tradition, mainly in northern Iraq, including Kirkuk, Arbil and Mosul."
+  }
+ ],
+ "odcc_lookup": [
+  "Chaldean Christians"
+ ],
+ "researched_at": "2026-10-28T16:28:11+00:00",
+ "research_notes": "Year of Sulaqa's consecration (1553 in other accounts) not stated in the approved excerpt; recorded as soon after 1551. ODCC check."
+}

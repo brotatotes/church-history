@@ -1,0 +1,60 @@
+{
+ "id": "g069",
+ "name": "Presbyterian churches",
+ "stream": "ref",
+ "parent": "g065",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1560, Scots Confession",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Presbyterianism, list of confessions",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Presbyterianism",
+     "excerpt": "Scotland.— Scottish Confession (1560).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Church government by councils of representative presbyters (elders), between episcopacy and congregationalism.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Presbyterianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Presbyterianism",
+     "excerpt": "In episcopacy the supreme authority is a diocesan bishop; in congregationalism it is the members of the congregation assembled in church meeting; in Presbyterianism it is a church council composed of representative presbyters.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Scottish, English and derived churches named Presbyterian.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Presbyterianism",
+     "url": "https://www.newadvent.org/cathen/12392b.htm",
+     "excerpt": "the Scotch, English, and derived churches as Presbyterian.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The Scottish, English and derived churches of the Calvinist Reformation, governed by presbyteries."
+  }
+ ],
+ "odcc_lookup": [
+  "Presbyterianism",
+  "Westminster Confession"
+ ],
+ "researched_at": "2026-10-28T16:35:55+00:00"
+}

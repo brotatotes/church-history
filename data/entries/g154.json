@@ -1,0 +1,63 @@
+{
+ "id": "g154",
+ "name": "Advent Christian Church",
+ "stream": "rest",
+ "parent": "g152",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1860, as the Advent Christian Association",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Advent Christian Church, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=7",
+     "excerpt": "The Advent Christian Church, originally named the Advent Christian Association, was organized in 1860 and grew out of the Adventist movement initiated by William Miller in the 1840s.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g152",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=7",
+     "excerpt": "grew out of the Adventist movement initiated by William Miller in the 1840s.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Sunday worship. The dead are unconscious until Christ returns, and immortality is given only through faith in Christ.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=7",
+     "excerpt": "The Church adheres to Sunday (rather than Saturday) worship.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "These believe that the dead lie in an unconscious state till Christ comes again",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:51:55+00:00"
+}

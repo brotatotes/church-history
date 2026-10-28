@@ -1,0 +1,88 @@
+{
+ "id": "g034",
+ "name": "Old Believers",
+ "stream": "orth",
+ "parent": "g026",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1666, when a Moscow council anathematized opponents of Nikon's liturgical reforms",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Russia, section on the patriarchal period",
+     "url": "https://www.newadvent.org/cathen/13253a.htm",
+     "excerpt": "But a council held at Moscow in 1666 approved the reform of Nikon , and pronounced its anathema against those who had not accepted his decisions.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "eb1911",
+     "value": "A Moscow council of 1656 had already anathematized the dissenting minority",
+     "excerpt": "A second council, held at Moscow in 1656, sanctioned the revision of the  service-books as suggested by the first council, and anathematized the dissentient minority",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nikon"
+    }
+   ]
+  },
+  {
+   "field": "split_from",
+   "value": "g026",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Russia",
+     "url": "https://www.newadvent.org/cathen/13253a.htm",
+     "excerpt": "In the seventeenth century under the Patriarch Nikon a great schism broke out in the Orthodox Church , called the Schism of the Old Believers.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Refused the corrected liturgical books introduced under Patriarch Nikon.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Russia",
+     "url": "https://www.newadvent.org/cathen/13253a.htm",
+     "excerpt": "Accordingly the liturgical books were corrected, but many Russians, influenced by the monks , refused to accept the corrected versions.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Nikon",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nikon",
+     "excerpt": "This ruthlessness goes far to explain the unappeasable hatred with which the “Old Ritualists” and the “Old Believers,” as they now began to be called, ever afterwards regarded Nikon and all his works.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Refused the corrected liturgical books and new icons introduced under Patriarch Nikon, keeping the older rites."
+  },
+  {
+   "field": "description",
+   "value": "Russian Orthodox Christians who rejected the reforms of Nikon, also called Old Ritualists. Monks among them founded monasteries at Vyg, Starodub and Vyatka.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Russia",
+     "url": "https://www.newadvent.org/cathen/13253a.htm",
+     "excerpt": "The monks who were averse to the reform withdrew to solitary places, and founded clandestine monasteries , among which those of Vyg, Starodub, and Vyatka became famous.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Russian Orthodox Christians who kept the older rites, also called Raskolniki. Some founded monasteries at Vyg, Starodub and Vyatka."
+  }
+ ],
+ "odcc_lookup": [
+  "Old Believers"
+ ],
+ "researched_at": "2026-10-28T16:26:40+00:00"
+}

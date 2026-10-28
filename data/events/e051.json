@@ -1,0 +1,44 @@
+{
+ "id": "e051",
+ "name": "World Council of Churches constituted",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1948",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "WCC FAQ",
+     "url": "https://www.oikoumene.org/about-the-wcc/faq",
+     "excerpt": "the World Council of Churches was formally inaugurated in 1948 at its first assembly in Amsterdam, the Netherlands.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "First assembly of the World Council of Churches at Amsterdam, where 147 founding church bodies pledged their fellowship.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "WCC FAQ",
+     "url": "https://www.oikoumene.org/about-the-wcc/faq",
+     "excerpt": "There, 147 founding church bodies, mostly from Europe and North America, pledged their fellowship.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "World Council of Churches"
+ ],
+ "researched_at": "2026-10-28T17:06:45+00:00"
+}

@@ -1,0 +1,79 @@
+{
+ "id": "g187",
+ "name": "Church of the Lord (Aladura)",
+ "stream": "united",
+ "parent": "g185",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1930, Ogere, Nigeria",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "The Church of the Lord (Prayer Fellowship) Worldwide, member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide",
+     "excerpt": "received his calling in 1925 and the independent church was officially established in 1930, in Ogere.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Josiah Olunowo Oshitelu",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide",
+     "excerpt": "The founder of the Church of the Lord (Aladura), the late prophet Dr Josiah Olunowo Oshitelu",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Emphasis on the power of prayer and fasting. Aladura is Yoruba for the praying people.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide",
+     "excerpt": "The members of the Aladura churches believe in the the power of praying and fasting",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "The Church of the Lord (Prayer Fellowship) Worldwide, member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide",
+     "excerpt": "The Yoruba word \"Aladura\" means \"Prayer Fellowship\" or \"The Praying People\".",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 8.8 million (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/the-church-of-the-lord-prayer-fellowship-worldwide",
+     "excerpt": "Membership 8 800 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Aladura"
+ ],
+ "researched_at": "2026-10-28T16:55:19+00:00"
+}

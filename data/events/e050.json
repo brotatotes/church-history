@@ -1,0 +1,44 @@
+{
+ "id": "e050",
+ "name": "Edinburgh World Missionary Conference",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1910",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "WCC history",
+     "url": "https://www.oikoumene.org/about-the-wcc/history",
+     "excerpt": "The historical roots of the World Council of Churches are found in student and lay movements of the 19th century, the 1910 Edinburgh world missionary conference",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "World missionary conference at Edinburgh, counted by the WCC among the historical roots of the ecumenical movement.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "WCC history",
+     "url": "https://www.oikoumene.org/about-the-wcc/history",
+     "excerpt": "The historical roots of the World Council of Churches are found in student and lay movements of the 19th century, the 1910 Edinburgh world missionary conference",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Edinburgh Conference"
+ ],
+ "researched_at": "2026-10-28T17:06:45+00:00"
+}

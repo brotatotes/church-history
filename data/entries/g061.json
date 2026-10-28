@@ -1,0 +1,45 @@
+{
+ "id": "g061",
+ "name": "Lutheran Church–Missouri Synod",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1847, Missouri",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Lutheran Church-Missouri Synod, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=496",
+     "excerpt": "The second-largest Lutheran denomination in the United States was founded in Missouri by German immigrants in 1847.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A U.S. Lutheran church founded by immigrants, many of whom had rejected the planned merger of Lutheran and Reformed churches in Prussia.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=496",
+     "excerpt": "Many of these immigrants had rejected the planned merger of the Lutheran and Reformed churches in Prussia.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A U.S. Lutheran church founded by German immigrants, many of whom had rejected the Prussian union of Lutheran and Reformed churches."
+  }
+ ],
+ "odcc_lookup": [
+  "Missouri Synod"
+ ],
+ "researched_at": "2026-10-28T16:32:54+00:00"
+}

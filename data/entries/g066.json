@@ -1,0 +1,67 @@
+{
+ "id": "g066",
+ "name": "Huguenots",
+ "stream": "ref",
+ "parent": "g065",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "first community at Meaux 1546, first national synod at Paris 1559",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Huguenots",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Huguenots",
+     "excerpt": "The first Protestant community in France was that of Meaux (1546) organized on the lines of the church at Strassburg of which Calvin was pastor.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Huguenots",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Huguenots",
+     "excerpt": "The church at Paris was commissioned to summon the first synod, which in spite of the danger of persecution met on the 25th of May 1559.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "French Protestants, organized on Calvin's model. They obtained the Edict of Nantes in 1598, which was revoked on 18 October 1685.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Huguenots, Origin",
+     "url": "https://www.newadvent.org/cathen/07527b.htm",
+     "excerpt": "French Protestantism received from Calvin its first organization and the form which has since become traditional",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Huguenots",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Huguenots",
+     "excerpt": "obtained by their constancy the promulgation of the Edict of Nantes (April 13, 1598), the charter of religion and political freedom",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Huguenots",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Huguenots",
+     "excerpt": "on the 18th of October 1685 he pronounced its revocation.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "French Reformed Protestants, organized on Calvin's model. They gained toleration by the Edict of Nantes in 1598, which Louis XIV revoked in 1685."
+  }
+ ],
+ "odcc_lookup": [
+  "Huguenots",
+  "Nantes, Edict of"
+ ],
+ "researched_at": "2026-10-28T16:35:07+00:00"
+}

@@ -1,0 +1,110 @@
+{
+ "id": "g165",
+ "name": "Shakers (United Society of Believers)",
+ "stream": "non",
+ "parent": "g110",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Manchester group under the Wardleys in the 18th century. Ann Lee joined 1758, came to America 1774. First society at New Lebanon 1787",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Shakers",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shakers",
+     "excerpt": "had joined the Wardleys in 1758",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Shakers",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shakers",
+     "excerpt": "Mother Ann arrived on the 6th of August 1774 in New York City.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Shakers",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shakers",
+     "excerpt": "organized in 1787 (before any formal organization in Watervliet) the New Lebanon Society, the first Shaker Society",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "arda",
+     "value": "1747",
+     "excerpt": "The United Society of Believers was founded in 1747.",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=863"
+    }
+   ]
+  },
+  {
+   "field": "split_from",
+   "value": "g110",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Shakers",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shakers",
+     "excerpt": "was applied in the early 18th century to a Manchester offshoot of the English Quakers, who, led by James and Ann Wardley, accepted the peculiar doctrines of the French Prophets",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Ann Lee, after James and Ann Wardley",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Shakers",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shakers",
+     "excerpt": "The Wardleys were succeeded by the real founder of Shakerism, Ann Lee (1736–1784)",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Celibate and communal, pacifist, with trembling, jumping and dancing in worship.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Shakers",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shakers",
+     "excerpt": "SHAKERS, an American celibate and communistic sect",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=863",
+     "excerpt": "The group is pacifistic and celibate; the only remaining Shakers live in the Sabbathday Lake Village in Maine.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Shakers",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shakers",
+     "excerpt": "writhed and trembled so that they won the name Shakers; their trances and visions, their jumping and dancing, were like those of many other sects",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Celibate and communal, pacifist, with ecstatic dance in worship."
+  }
+ ],
+ "odcc_lookup": [
+  "Shakers",
+  "Lee, Ann"
+ ],
+ "researched_at": "2026-10-28T16:53:30+00:00",
+ "research_notes": "Outside lane. EB1911 names the Wardleys James and Ann Wardley."
+}

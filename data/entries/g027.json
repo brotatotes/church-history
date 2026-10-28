@@ -1,0 +1,66 @@
+{
+ "id": "g027",
+ "name": "Serbian Orthodox Church",
+ "stream": "orth",
+ "parent": "g025",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1219, Sava consecrated first archbishop of Serbia",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Serbian Orthodox Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/serbian-orthodox-church",
+     "excerpt": "The consecration of St Sava as first archbishop of Serbia in 1219 strengthened various Serbian principalities even more in their ecclesiastical allegiance to Constantinople and the Christian East.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Orthodox church of the Serbs. The archbishopric of Pec was raised to a patriarchate in 1346, and the church became autocephalous in 1879.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/serbian-orthodox-church",
+     "excerpt": "When King Stefan Dusan of Serbia assumed the imperial title of tsar (1346), the archbishopric of Pec was correspondingly raised to the rank of a patriarchate.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/serbian-orthodox-church",
+     "excerpt": "The Serbian Orthodox Church finally regained its independence and became autocephalous in 1879",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The Orthodox church of the Serbs. Its patriarchate was founded in 1346, abolished and restored under Ottoman rule, and the church became autocephalous again in 1879."
+  },
+  {
+   "field": "size_today",
+   "value": "8 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/serbian-orthodox-church",
+     "excerpt": "Membership 8 000 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Serbia, Christianity in"
+ ],
+ "researched_at": "2026-10-28T16:25:53+00:00"
+}

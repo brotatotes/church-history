@@ -1,0 +1,102 @@
+{
+ "id": "g006",
+ "name": "Marcionites",
+ "stream": "early",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "c. 144, Rome",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Marcion and the Marcionite Churches (A. Harnack)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Marcion_and_the_Marcionite_Churches",
+     "excerpt": "he found it necessary to withdraw from the great church and establish in Rome a community of his own. This was about the year 144.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Marcionites",
+     "url": "https://www.newadvent.org/cathen/09645c.htm",
+     "excerpt": "Heretical sect founded in A.D. 144 at Rome by Marcion",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Marcion of Sinope",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Marcionites, Life of Marcion",
+     "url": "https://www.newadvent.org/cathen/09645c.htm",
+     "excerpt": "Marcion was son of the Bishop of Sinope in Pontus , born c. A.D. 110",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "about 300 years in the West, longer in the East",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Marcionites",
+     "url": "https://www.newadvent.org/cathen/09645c.htm",
+     "excerpt": "continuing in the West for 300 years, but in the East some centuries longer, especially outside the Byzantine Empire .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Rejected the Old Testament, taught that Christ was Son of a good God distinct from the God of the Old Testament, and used a canon of one gospel (a form of Luke) and ten letters of Paul.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Marcionites",
+     "url": "https://www.newadvent.org/cathen/09645c.htm",
+     "excerpt": "They rejected the writings of the Old Testament and taught that Christ was not the Son of the God of the Jews , but the Son of the good God, who was different from the God of the Ancient Covenant.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Marcionites, Mutilation of the New Testament",
+     "url": "https://www.newadvent.org/cathen/09645c.htm",
+     "excerpt": "he created his own New Testament admitting but one gospel, a mutilation of St. Luke, and an Apostolicon containing ten epistles of St. Paul .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "An organized church body founded by Marcion that soon had sister churches in the east and west of the empire.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Marcion and the Marcionite Churches",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Marcion_and_the_Marcionite_Churches",
+     "excerpt": "The new society increased in the two following decades; and very soon numerous sister-churches were flourishing in the east and west of the empire.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An organized church body founded by Marcion at Rome that soon had congregations across the Roman Empire."
+  }
+ ],
+ "odcc_lookup": [
+  "Marcion"
+ ],
+ "researched_at": "2026-10-28T16:19:54+00:00"
+}

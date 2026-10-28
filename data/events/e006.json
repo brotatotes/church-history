@@ -1,0 +1,58 @@
+{
+ "id": "e006",
+ "name": "First Council of Nicaea",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "325",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Nicaea, Council of (C. Mirbt)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nicaea,_Council_of",
+     "excerpt": "The Council of Nicaea ( A.D. 325) is an event of the highest importance in the history of Christianity.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 3, § 119, The Arian Controversy down to the Council of Nicaea, 318–325",
+     "url": "https://ccel.org/ccel/schaff/hcc3/hcc3.iii.xii.iii.html",
+     "excerpt": "From the outbreak of the controversy to the temporary victory of orthodoxy at the council of Nicaea; a.d. 318–325.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Council called by Constantine that condemned Arius and his teaching.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Nicaea, Council of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nicaea,_Council_of",
+     "excerpt": "He convened a council, designed to represent the whole Church of the empire, at Nicaea in Bithynia",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Nicaea, Council of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nicaea,_Council_of",
+     "excerpt": "The deliberations on the Arian question passed through several distinct stages before the final condemnation of Arius and his doctrines was reached.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Nicaea, First Council of"
+ ],
+ "researched_at": "2026-10-28T17:00:50+00:00"
+}

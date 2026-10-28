@@ -1,0 +1,78 @@
+{
+ "id": "g064",
+ "name": "Protestant Christian Batak Church",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1861 mission. Autonomous 1930",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Protestant Christian Batak Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/protestant-christian-batak-church",
+     "excerpt": "The Batak Protestant Christian Church is the fruit of the work of the Rhineland Mission (Germany) which began to work in the Batak land of North Sumatra in 1861.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/protestant-christian-batak-church",
+     "excerpt": "The HKBP became autonomous in 1930.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "I. L. Nommensen (missionary, arrived 1864)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/protestant-christian-batak-church",
+     "excerpt": "The history of the mission and the church cannot be separated from the person of I.L. Nommensen, \"the apostle to the Batak people\", who arrived in 1864 and stayed until his death in 1918 as ephorus of the church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The largest Protestant church in Indonesia.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/protestant-christian-batak-church",
+     "excerpt": "Today it is the largest Protestant church in Indonesia",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The largest Protestant church in Indonesia, with its own confession adopted in 1951."
+  },
+  {
+   "field": "size_today",
+   "value": "3.5 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/protestant-christian-batak-church",
+     "excerpt": "Membership 3 500 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:32:55+00:00"
+}

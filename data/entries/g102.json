@@ -1,0 +1,49 @@
+{
+ "id": "g102",
+ "name": "Primitive Baptists",
+ "stream": "bap",
+ "parent": "g098",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1827, in opposition to missionary societies. Present throughout the U.S. by 1840",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Primitive Baptists (1827 - Unknown), group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=658",
+     "excerpt": "Those opposed to such innovations formed the Primitive Baptists, which existed throughout the U.S. by 1840.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Reject mission boards, Bible societies and seminaries as unscriptural. Strongly congregational with only loose associations.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=658",
+     "excerpt": "viewed the missionary movement, as well as other initiatives like Bible societies and theological seminaries, as unnecessary innovations and inventions of men (and thus not warranted from the word of God).",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=658",
+     "excerpt": "These groups have a strong congregational form of government and generally have no organization above the loose associations that typically cover several counties.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:44:22+00:00"
+}

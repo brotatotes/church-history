@@ -1,0 +1,30 @@
+{
+ "id": "g136",
+ "name": "Assemblies of God",
+ "stream": "pent",
+ "parent": "g134",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1914, Hot Springs, Arkansas",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Assemblies of God, General Council of the, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=82",
+     "excerpt": "The General Council of the Assemblies of God was established in 1914 at a gathering of Pentecostal ministers in Hot Springs, Arkansas.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Assemblies of God"
+ ],
+ "researched_at": "2026-10-28T16:49:46+00:00"
+}

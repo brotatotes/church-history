@@ -1,0 +1,59 @@
+{
+ "id": "g174",
+ "name": "Church of North India",
+ "stream": "united",
+ "parent": "g082",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1970",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Church of North India, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-north-india",
+     "excerpt": "After 40 years of prayer and negotiations it came into existence in 1970.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A united church formed by six churches: Baptist, Brethren, Disciples of Christ, Anglican, Methodist and the United Church of Northern India.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-north-india",
+     "excerpt": "Six churches formed the CNI: the Council of Baptist Churches in Northern India, the Church of the Brethren, the Disciples of Christ, the Church of India (Anglican, formerly known as the Church of India, Pakistan, Burma and Ceylon), the Methodist Church (British and Australasian Conferences) and the United Church of Northern India.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Formed by six churches: Baptist, Brethren, Disciples of Christ, Anglican, Methodist and the United Church of Northern India. It covers India except the four southern states."
+  },
+  {
+   "field": "size_today",
+   "value": "About 1.5 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-north-india",
+     "excerpt": "Membership 1 500 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "North India, Church of"
+ ],
+ "researched_at": "2026-10-28T16:54:28+00:00"
+}

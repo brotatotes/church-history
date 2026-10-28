@@ -1,0 +1,94 @@
+{
+ "id": "g177",
+ "name": "United Church of Christ (USA)",
+ "stream": "united",
+ "parent": "g074",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1957",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "United Church of Christ, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ",
+     "excerpt": "was created in 1957, as a union between the Evangelical and Reformed Church and the Congregational and Christian churches.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "United Church of Christ, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=847",
+     "excerpt": "The United Church of Christ was founded in 1957 as a merger of the Congregational-Christian Churches and the Evangelical and Reformed Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g074",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=847",
+     "excerpt": "It continues the American Congregational tradition.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Created in 1957 by a union of the Evangelical and Reformed Church with the Congregational Christian Churches, themselves a 1931 union. Its roots include English Congregationalism and German Lutheran and Reformed traditions.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ",
+     "excerpt": "Its roots grew out of German Lutheranism, German and Swiss Reformed traditions, Anabaptist Christian Church traditions, and English Congregationalism.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ",
+     "excerpt": "The Congregational Churches and the Christian Church came together in 1931 to become the Congregational Christian Churches.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "United Church of Christ, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ",
+     "excerpt": "was created in 1957, as a union between the Evangelical and Reformed Church and the Congregational and Christian churches.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Roots in English Congregationalism, German Lutheran and Reformed traditions, and the American Christian Church movement. Congregational and Christian churches united in 1931."
+  },
+  {
+   "field": "size_today",
+   "value": "About 1.4 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ",
+     "excerpt": "Membership 1 400 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "United Church of Christ"
+ ],
+ "researched_at": "2026-10-28T16:54:28+00:00"
+}

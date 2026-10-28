@@ -1,0 +1,88 @@
+{
+ "id": "g002",
+ "name": "Nazarenes",
+ "stream": "early",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "split_from",
+   "value": "g001",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, ch. XI, § 113, Nazarenes and Ebionites",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.xiii.ii.html",
+     "excerpt": "A portion of the Jewish Christians, however, adhered even after the destruction of Jerusalem, to the national customs of their fathers, and propagated themselves in some churches of Syria down to the end of the fourth century, under the name of N azarenes",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "start",
+   "value": "after the destruction of Jerusalem",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 113",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.xiii.ii.html",
+     "excerpt": "A portion of the Jewish Christians, however, adhered even after the destruction of Jerusalem, to the national customs of their fathers",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "after AD 70"
+  },
+  {
+   "field": "end",
+   "value": "end of the 4th century",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 113",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.xiii.ii.html",
+     "excerpt": "propagated themselves in some churches of Syria down to the end of the fourth century",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Kept the Mosaic ritual law while confessing Jesus as Messiah and divine, and used a Hebrew Gospel of Matthew.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 113",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.xiii.ii.html",
+     "excerpt": "They united the observance of the Mosaic ritual law with their belief in the Messiahship and divinity of Jesus, used the Gospel of Matthew in Hebrew",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Jewish Christian communities in Syria who kept Jewish customs after the destruction of Jerusalem.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 113",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.xiii.ii.html",
+     "excerpt": "A portion of the Jewish Christians, however, adhered even after the destruction of Jerusalem, to the national customs of their fathers, and propagated themselves in some churches of Syria",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Nazarenes"
+ ],
+ "researched_at": "2026-10-28T16:18:52+00:00"
+}

@@ -1,0 +1,49 @@
+{
+ "id": "e003",
+ "name": "Neronian persecution",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "64",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 1, § 37, The Roman Conflagration and the Neronian Persecution",
+     "url": "https://ccel.org/ccel/schaff/hcc1/hcc1.i.VI.37.html",
+     "excerpt": "The first of these imperial persecutions with which the Martyrdom of Peter and Paul is connected by ecclesiastical tradition, took place in the tenth year of Nero’s reign, a.d. 64",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Persecution of Christians at Rome under the emperor Nero following the great fire of the city.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 1, § 37",
+     "url": "https://ccel.org/ccel/schaff/hcc1/hcc1.i.VI.37.html",
+     "excerpt": "The occasion of the hellish spectacle was a fearful conflagration of Rome, the most destructive and disastrous that ever occurred in history.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 1, § 37, The Roman Conflagration and the Neronian Persecution",
+     "url": "https://ccel.org/ccel/schaff/hcc1/hcc1.i.VI.37.html",
+     "excerpt": "To divert from himself the general suspicion of incendiarism, and at the same time to furnish new entertainment for his diabolical cruelty, Nero wickedly cast the blame upon the hated Christians",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:50+00:00"
+}

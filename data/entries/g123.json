@@ -1,0 +1,88 @@
+{
+ "id": "g123",
+ "name": "United Methodist Church",
+ "stream": "meth",
+ "parent": "g118",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1968",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "United Methodist Church, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=854",
+     "excerpt": "In 1968, a long process of consolidation of various Methodist churches in the United States culminated in the formation of the United Methodist Church by the merger of the Methodist Church (1939-1968) and the United Evangelical Brethren.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-methodist-church",
+     "excerpt": "which united with the Methodist Church to form the United Methodist Church in 1968.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed in 1968 when the Evangelical United Brethren Church united with the Methodist Church, itself formed in 1939 by the union of three Methodist bodies. It has member churches in Africa, Asia and Europe.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-methodist-church",
+     "excerpt": "In 1946 the Church of the United Brethren in Christ and the Evangelical Church became the Evangelical United Brethren Church",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-methodist-church",
+     "excerpt": "In 1939 the Methodist Episcopal Church (South), the Methodist Protestant Church, and the Methodist Episcopal Church united into the Methodist Church",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-methodist-church",
+     "excerpt": "which united with the Methodist Church to form the United Methodist Church in 1968.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-methodist-church",
+     "excerpt": "with member churches in Africa, Asia and Europe",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Formed by the 1968 union of the Methodist Church, itself a 1939 union of three Methodist bodies, with the Evangelical United Brethren Church. It has member churches in Africa, Asia and Europe."
+  },
+  {
+   "field": "size_today",
+   "value": "About 10.1 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/united-methodist-church",
+     "excerpt": "Membership 10 103 323",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Methodist Church (USA)"
+ ],
+ "researched_at": "2026-10-28T16:47:51+00:00",
+ "research_notes": "Membership figure predates the 2019-2024 disaffiliations; WCC profile undated."
+}

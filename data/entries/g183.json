@@ -1,0 +1,37 @@
+{
+ "id": "g183",
+ "name": "Independent and nondenominational churches",
+ "stream": "united",
+ "parent": "g001",
+ "overlay": false,
+ "status": "placeholder",
+ "lane_note": "Still being researched",
+ "facts": [
+  {
+   "field": "description",
+   "value": "Christians whose church structures, beliefs and practices are claimed to be independent of historic organized Christianity. They include many African independent denominations, unregistered Chinese churches and U.S. nondenominational churches.",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Global Christianity, traditions",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-traditions/",
+     "excerpt": "Independent Christians have developed ecclesial structures, beliefs and practices that are claimed to be independent of historic, organized Christianity.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "pew2011",
+     "locator": "traditions",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-traditions/",
+     "excerpt": "Independent Christians include denominations in sub-Saharan Africa that identify as independent from historically Protestant denominations, churches in China that are not affiliated with official religious associations and nondenominational churches in the United States.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Independent churches"
+ ],
+ "researched_at": "2026-10-28T16:55:18+00:00",
+ "research_notes": "Category, not a single body; no start date. Placeholder by rule (no sourced start or relationship)."
+}

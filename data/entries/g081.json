@@ -1,0 +1,130 @@
+{
+ "id": "g081",
+ "name": "Church of England",
+ "stream": "ang",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1530s, break with papal jurisdiction under Henry VIII",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Church of England, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-england",
+     "excerpt": "In the 1530s the English church rejected the jurisdiction of the Bishop of Rome and came under Lutheran and then Calvinist theological influences.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "pew2011",
+     "locator": "Global Christianity, traditions",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-traditions/",
+     "excerpt": "The Church of England emerged as a distinct Western Christian ecclesial tradition in the early 16th century, when King Henry VIII declared his supremacy over the English church and its independence from papal authority.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "England, Church of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/England%2C_The_Church_of",
+     "excerpt": "The parliament of 1529 lasted until 1536; it broke the bonds of Rome, established royal supremacy over the English Church",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g035",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-england",
+     "excerpt": "In the 1530s the English church rejected the jurisdiction of the Bishop of Rome",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Retained bishops, the threefold ministry and much medieval structure while adopting a vernacular Bible and reformed liturgy. Identity shaped by the Book of Common Prayer and the Thirty-nine Articles.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-england",
+     "excerpt": "The threefold ministry, ordination by bishops, the diocesan-parochial structure, cathedrals, church courts and much medieval canon law were retained.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-england",
+     "excerpt": "The English Bible, the Book of Common Prayer, the Christian Year, the parochial context and loyalty to the sovereign gave the Church of England a distinct identity.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The established church of England. The Elizabethan settlement restored royal authority over the church, with the sovereign as Supreme Governor. It is governed by a general synod of bishops, clergy and laity.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "England, Church of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/England%2C_The_Church_of",
+     "excerpt": "An Act of Supremacy restored to the crown the authority over the church held by Henry VIII.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-england",
+     "excerpt": "It is governed by a general synod of bishops, clergy and laity.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "England, Church of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/England%2C_The_Church_of",
+     "excerpt": "Elizabeth rejected the title of Supreme Head, and used that of Supreme Governor",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Church of England, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-england",
+     "excerpt": "while remaining the established church and continuing to value partnership with the state.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "25 million (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-england",
+     "excerpt": "Membership 25 000 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "England, Church of",
+  "Supremacy, Acts of",
+  "Elizabethan Settlement"
+ ],
+ "researched_at": "2026-10-28T16:39:20+00:00"
+}

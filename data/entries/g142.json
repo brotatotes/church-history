@@ -1,0 +1,43 @@
+{
+ "id": "g142",
+ "name": "Pentecostal Assemblies of the World",
+ "stream": "pent",
+ "parent": "g140",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1906",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Pentecostal Assemblies of the World, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=638",
+     "excerpt": "The Pentecostal Assemblies of the World, the first of the Oneness Pentecostal churches, was founded in 1906 by J. J. Frazee.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "J. J. Frazee",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=638",
+     "excerpt": "was founded in 1906 by J. J. Frazee.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:49:47+00:00",
+ "research_notes": "ARDA's 1906 date precedes the Oneness teaching; modern check needed."
+}

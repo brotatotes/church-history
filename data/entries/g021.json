@@ -1,0 +1,87 @@
+{
+ "id": "g021",
+ "name": "Syriac Orthodox Church",
+ "stream": "east",
+ "parent": "g016",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "organized as a separate hierarchy by Jacob Baradaeus, ordained bishop 541 or 543",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Jacobite Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jacobite_Church",
+     "excerpt": "was invented by hostile Greeks for the Syrian Monophysite Church as founded, or rather restored, by Jacob or James Baradaeus, who was ordained its bishop A.D. 541 or 543.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "wcc",
+     "value": "The church itself dates the see of Antioch to St Peter in the year 37",
+     "excerpt": "SOPAE’s Holy See of Antioch was established by St. Peter, the Head of the Apostles, in the year 37.",
+     "url": "https://www.oikoumene.org/member-churches/syrian-orthodox-patriarchate-of-antioch-and-all-the-east"
+    }
+   ]
+  },
+  {
+   "field": "founders",
+   "value": "Jacob Baradaeus (restorer of the hierarchy)",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Jacobite Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jacobite_Church",
+     "excerpt": "James, disguised as a ragged beggar (whence his name Baradaeus, Syriac Burdĕānā , Arabic al-Barādiā ), traversed these regions preaching, teaching and ordaining new clergy",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Rejects the decrees of Chalcedon. Uses the Liturgy of St James.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Jacobite Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jacobite_Church",
+     "excerpt": "because they rejected the decrees of the council of Chalcedon",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Syrian Orthodox Patriarchate of Antioch and All the East, member profile",
+     "url": "https://www.oikoumene.org/member-churches/syrian-orthodox-patriarchate-of-antioch-and-all-the-east",
+     "excerpt": "The Liturgy of St. James, attributed to the Apostle James, is one of the Divine Liturgies that continues to be used by SOPAE to this day.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Syriac-speaking non-Chalcedonian church of Antioch, once called Jacobite by its opponents.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Jacobite Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jacobite_Church",
+     "excerpt": "The name of “Jacobites” is first found in a synodal decree of Nicaea A.D. 787",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Syrian Orthodox Church",
+  "Jacobites"
+ ],
+ "researched_at": "2026-10-28T16:24:04+00:00"
+}

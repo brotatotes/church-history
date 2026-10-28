@@ -1,0 +1,65 @@
+{
+ "id": "g168",
+ "name": "Community of Christ",
+ "stream": "non",
+ "parent": "g166",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1860 per ARDA. EB 1911 gives 1852",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Community of Christ, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=236",
+     "excerpt": "originally known as the Reorganized Church of Jesus Christ of Latter-Day Saints, was formed in 1860 by Jason Briggs, Zenos Gurley, William Marks, and followers of Joseph Smith, Jr., who decided against migrating to Utah during the 1850s.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "eb1911",
+     "value": "1852",
+     "excerpt": "the Reorganized Church of Jesus Christ of Latter-Day Saints, which was formed in 1852 upon the announcement of the doctrine of polygamy",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mormons"
+    }
+   ]
+  },
+  {
+   "field": "split_from",
+   "value": "g166",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=236",
+     "excerpt": "followers of Joseph Smith, Jr., who decided against migrating to Utah during the 1850s.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formerly the Reorganized Church of Jesus Christ of Latter Day Saints. It took its present name in 2001.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=236",
+     "excerpt": "The organization changed to its present name in 2001.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Reorganized Church of Jesus Christ of Latter Day Saints"
+ ],
+ "researched_at": "2026-10-28T16:53:31+00:00"
+}

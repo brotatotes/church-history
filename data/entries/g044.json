@@ -1,0 +1,80 @@
+{
+ "id": "g044",
+ "name": "Polish National Catholic Church",
+ "stream": "cat",
+ "parent": "g043",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1897, Scranton, Pennsylvania",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Polish National Catholic Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/polish-national-catholic-church",
+     "excerpt": "In 1897, these determined people found property for a parish and called upon a priest they knew and trusted to be their pastor.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/polish-national-catholic-church",
+     "excerpt": "they broke decisively with the Roman Catholic Church, and the Polish National Catholic Church was officially established.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Francis Hodur, elected bishop 1904 and consecrated by the Old Catholic bishop of Utrecht in 1907",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/polish-national-catholic-church",
+     "excerpt": "At the first general synod of the Polish National Catholic Church held in 1904, Fr Francis Hodur was elected bishop. He was consecrated by the Old-Catholic Bishop of Utrecht, Netherlands, in 1907.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A church formed after disputes with Roman Catholic authorities over church governance, control of church property, assignment of pastors and pastoral accessibility.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/polish-national-catholic-church",
+     "excerpt": "These had primarily to do with church governance issues, the control of church property, the assignment of pastors, and the pastoral accessibility to the people.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A church formed by Polish immigrant parishes in the United States after disputes with Roman Catholic authorities over governance and church property."
+  },
+  {
+   "field": "size_today",
+   "value": "30,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/polish-national-catholic-church",
+     "excerpt": "Membership 30 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Polish National Catholic Church"
+ ],
+ "researched_at": "2026-10-28T16:29:47+00:00"
+}

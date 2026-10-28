@@ -1,0 +1,28 @@
+{
+ "id": "g137",
+ "name": "Church of God (Cleveland, Tennessee)",
+ "stream": "pent",
+ "parent": "g134",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1886, as the Christian Union. Present name 1907",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Church of God (Cleveland, Tennessee), group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=190",
+     "excerpt": "The Church of God (Cleveland, Tennessee) was founded in 1886 as a Holiness church, the Christian Union. It assumed its present name in 1907 after members accepted a new Pentecostal perspective.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:49:46+00:00"
+}

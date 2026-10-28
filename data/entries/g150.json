@@ -1,0 +1,80 @@
+{
+ "id": "g150",
+ "name": "Churches of Christ",
+ "stream": "rest",
+ "parent": "g148",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Recognized as distinct in the 1906 Religious Census",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Churches of Christ, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=226",
+     "excerpt": "The Churches of Christ (Non-instrumental) is one of the several branches of the Restoration movement begun in the early 19th century by Barton Stone and Thomas and Alexander Campbell, recognized in the 1906 Religious Census as distinct",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g149",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Disciples of Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Disciples_of_Christ",
+     "excerpt": "many of whom, in spite of his efforts, broke off from the main body, especially in Indiana, Kentucky, Tennessee, Arkansas and Texas.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "No instrumental music in worship and strongly congregational organization.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=226",
+     "excerpt": "It has been most identified for its disavowal of the use of instrumental music in worship and ultra-congregational organization.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The largest faction of the Restoration movement, recognized in the 1906 Religious Census.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=226",
+     "excerpt": "The Churches of Christ (Non-instrumental) represent the largest faction of the movement.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Churches of Christ, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=226",
+     "excerpt": "The Churches of Christ (Non-instrumental) is one of the several branches of the Restoration movement begun in the early 19th century by Barton Stone and Thomas and Alexander Campbell, recognized in the 1906 Religious Census as distinct",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The largest non-instrumental branch of the Restoration movement, originating mainly among Southern congregations."
+  }
+ ],
+ "odcc_lookup": [
+  "Churches of Christ"
+ ],
+ "researched_at": "2026-10-28T16:51:54+00:00"
+}

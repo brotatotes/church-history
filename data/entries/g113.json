@@ -1,0 +1,96 @@
+{
+ "id": "g113",
+ "name": "Plymouth Brethren",
+ "stream": "free",
+ "parent": "g081",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Late 1820s in Dublin. Name from 1830 at Plymouth",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Plymouth Brethren (T. M. Lindsay and A. J. Grieve)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Plymouth_Brethren",
+     "excerpt": "PLYMOUTH BRETHREN, a community of Christians who received the name in 1830 when the Rev. J. N. Darby induced many of the inhabitants of Plymouth, England, to associate themselves with him for the promulgation of his opinions.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Christian Brethren (Plymouth Brethren), group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=170",
+     "excerpt": "begun in England in the 1820s, largely influenced by John Nelson Darby.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g081",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Plymouth Brethren",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Plymouth_Brethren",
+     "excerpt": "was a curate in Wicklow 1825–1827, when he felt himself constrained to leave the Anglican communion",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "John Nelson Darby, with A. N. Groves and J. G. Bellett",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Plymouth Brethren",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Plymouth_Brethren",
+     "excerpt": "Among these were A. N. Groves and J. G. Bellett, who deserve to rank among the founders of the movement.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Plymouth Brethren",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Plymouth_Brethren",
+     "excerpt": "he is usually reckoned the founder of Plymouthism.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Assemblies without central governance that avoid denominational titles. A division in 1848 produced the Neutral Brethren, led by Müller, and the Exclusive Brethren.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Plymouth Brethren",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Plymouth_Brethren",
+     "excerpt": "In 1848 another division took place. The Bethesda congregation at Bristol, where George Muller was the most influential member, received into communion several of Newton’s followers and justified their action. Out of this came the separation into Neutral Brethren, led by Müller, and Exclusive Brethren or Darbyites",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=170",
+     "excerpt": "They do not have central governance and have historically preferred to avoid denominational titles.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Assemblies without central governance that avoid denominational titles. A division in 1848 produced the Open (or Neutral) Brethren and the Exclusive Brethren."
+  }
+ ],
+ "odcc_lookup": [
+  "Plymouth Brethren",
+  "Darby, John Nelson"
+ ],
+ "researched_at": "2026-10-28T16:45:25+00:00",
+ "research_notes": "Parent changed from English Separatism to Church of England (Darby left the Anglican communion)."
+}

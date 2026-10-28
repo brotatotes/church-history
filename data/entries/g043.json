@@ -1,0 +1,68 @@
+{
+ "id": "g043",
+ "name": "Old Catholic churches",
+ "stream": "cat",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1870 to 1871, rejection of the Vatican Council's decree on papal infallibility. First congress at Munich, September 1871",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Old Catholics",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Old_Catholics",
+     "excerpt": "the designation assumed by those members of the Roman Catholic Church who refused to accept the decrees of the Vatican Council of 1870 defining the dogma of papal infallibility",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Old Catholics",
+     "url": "https://www.newadvent.org/cathen/11235b.htm",
+     "excerpt": "the first Old Catholic Congress was able to meet at Munich , 22-24 September, 1871.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Accept the authority of the undivided Church and the decrees of the first seven general councils.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Old Catholics",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Old_Catholics",
+     "excerpt": "Old Catholicism sets up the authority of the undivided Church, and accepts the decrees of the first seven general councils—down to the second council of Nicaea (787)",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Accept the first seven ecumenical councils and an episcopal church order, but not papal infallibility or centralized papal government."
+  },
+  {
+   "field": "description",
+   "value": "Catholics who entered into relations with the Jansenist Church of Utrecht.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Old Catholics",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Old_Catholics",
+     "excerpt": "In the same year the Old Catholics, as they now began to be termed, entered into relations with the historical little Jansenist Church of Utrecht.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Churches formed in Germany, Switzerland and elsewhere after 1870, which entered relations with the Jansenist Church of Utrecht and received bishops from it."
+  }
+ ],
+ "odcc_lookup": [
+  "Old Catholics",
+  "Utrecht, Declaration of"
+ ],
+ "researched_at": "2026-10-28T16:29:47+00:00"
+}

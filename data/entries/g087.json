@@ -1,0 +1,78 @@
+{
+ "id": "g087",
+ "name": "Church of Nigeria (Anglican Communion)",
+ "stream": "ang",
+ "parent": "g082",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1979, province of Nigeria inaugurated. Church Missionary Society work from 1842",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Church of Nigeria, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-nigeria-anglican-communion",
+     "excerpt": "In 1979 the province of Nigeria was inaugurated.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-nigeria-anglican-communion",
+     "excerpt": "The first CMS missionary entered Nigeria through Badagry in 1842.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Anglican church of Nigeria. Its first link with the Church Missionary Society dates from the 1840s. Its dioceses were part of the Province of West Africa from 1951 until the province of Nigeria was inaugurated in 1979.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-nigeria-anglican-communion",
+     "excerpt": "formed the Province of West Africa (1951).",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Church of Nigeria, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-nigeria-anglican-communion",
+     "excerpt": "The first CMS missionary entered Nigeria through Badagry in 1842.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Church of Nigeria, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-nigeria-anglican-communion",
+     "excerpt": "In 1979 the province of Nigeria was inaugurated.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The Anglican church of Nigeria, grown from Church Missionary Society missions. Its dioceses were part of the Province of West Africa from 1951 until the Nigerian province was formed."
+  },
+  {
+   "field": "size_today",
+   "value": "1.75 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-nigeria-anglican-communion",
+     "excerpt": "Membership 1 750 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:39:21+00:00"
+}

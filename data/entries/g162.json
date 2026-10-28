@@ -1,0 +1,81 @@
+{
+ "id": "g162",
+ "name": "Universalist churches",
+ "stream": "non",
+ "parent": "g161",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1779, first American congregation at Gloucester, Massachusetts",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Universalists",
+     "url": "https://www.newadvent.org/cathen/15181a.htm",
+     "excerpt": "in 1779 formed with fifteen other persons the first American congregation of that faith at Gloucester, Massachusetts .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "John Murray",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Universalists",
+     "url": "https://www.newadvent.org/cathen/15181a.htm",
+     "excerpt": "The stronghold of the sect is in America, where the first church was established by Rev. John Murray.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Belief in the final salvation of all souls. Winchester Profession 1803.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Universalists",
+     "url": "https://www.newadvent.org/cathen/15181a.htm",
+     "excerpt": "whose distinctive tenet is the belief in the final salvation of all souls .",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Universalists",
+     "url": "https://www.newadvent.org/cathen/15181a.htm",
+     "excerpt": "The historic creed of this religious body is the profession of belief adopted by the General Convention at Winchester , New Hampshire , in 1803.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "1961, merged into the Unitarian Universalist Association",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Unitarian Universalist Association, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=840",
+     "excerpt": "The Unitarian Universalist Association was formed in 1961 by the merger of the American Unitarian Association and the Universalist Church in America.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Universalism"
+ ],
+ "researched_at": "2026-10-28T16:53:29+00:00",
+ "research_notes": "Lane parent g161 per candidate list; Universalism did not split from Unitarians. No split_from fact."
+}

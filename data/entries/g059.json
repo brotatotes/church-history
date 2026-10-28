@@ -1,0 +1,84 @@
+{
+ "id": "g059",
+ "name": "Pietism",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": true,
+ "influenced": [
+  "g055",
+  "g060",
+  "g114",
+  "g115",
+  "g116",
+  "g094",
+  "g112"
+ ],
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1675, Spener's Pia desideria",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Pietism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pietism",
+     "excerpt": "In 1675 Spener published his Pia desideria , or Earnest Desires for a Reform of the True Evangelical Church .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Philipp Jakob Spener, with August Hermann Francke at Halle",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Pietism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pietism",
+     "excerpt": "The direct originator of the movement was Philip Jacob Spener, who combined the Lutheran emphasis on Biblical doctrine with the Reformed tendency to vigorous Christian life.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Pietism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pietism",
+     "excerpt": "August Hermann Francke, subsequently the founder of the famous orphanage at Halle (1695)",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A movement in the Lutheran Church from the end of the 17th century through the first half of the 18th. Pew notes that origins of modern evangelicalism are often traced to it.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Pietism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Pietism",
+     "excerpt": "PIETISM, a movement in the Lutheran Church, which arose towards the end of the 17th and continued during the first half of the following century.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "pew2011",
+     "locator": "Christian Movements and Denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "The origins of modern evangelicalism are often traced to late 17th-century Lutheran Pietism in Germany and Methodism in England around the same time.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A renewal movement in the Lutheran Church in the late 17th and 18th centuries, stressing Bible study and devout Christian living. Pew notes that origins of modern evangelicalism are often traced to it."
+  }
+ ],
+ "odcc_lookup": [
+  "Pietism",
+  "Spener, Philipp Jakob"
+ ],
+ "researched_at": "2026-10-28T16:32:54+00:00",
+ "research_notes": "Overlay per Eric's decision 3. 'influenced' list to be extended as later entries cite Pietist influence (Moravians, Methodists, Laestadians, Evangelical Covenant)."
+}

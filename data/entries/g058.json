@@ -1,0 +1,66 @@
+{
+ "id": "g058",
+ "name": "Evangelical Lutheran Church of Finland",
+ "stream": "lut",
+ "parent": "g056",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "16th-century Reformation, when Finland was part of Sweden",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Evangelical Lutheran Church of Finland, member profile",
+     "url": "https://www.oikoumene.org/member-churches/evangelical-lutheran-church-of-finland",
+     "excerpt": "At the time of the Reformation in the 16th century Finland was part of the kingdom of Sweden.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Lutheran church of Finland, which regards itself as the successor of the pre-Reformation church there. It received its own church law and assembly in 1869.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/evangelical-lutheran-church-of-finland",
+     "excerpt": "The Evangelical Lutheran Church regards itself as the natural successor of the church that existed in Finland before the Reformation.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/evangelical-lutheran-church-of-finland",
+     "excerpt": "new legislation in 1869 created a distinction in principle between the two, in that the church received its own ecclesiastical law and church assembly.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The established Lutheran church of Finland, which sees itself as continuing the pre-Reformation church there. It received its own church law and assembly in 1869."
+  },
+  {
+   "field": "size_today",
+   "value": "4.4 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/evangelical-lutheran-church-of-finland",
+     "excerpt": "Membership 4 400 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Finland, Christianity in"
+ ],
+ "researched_at": "2026-10-28T16:32:54+00:00"
+}

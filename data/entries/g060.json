@@ -1,0 +1,100 @@
+{
+ "id": "g060",
+ "name": "Laestadian Lutheran churches",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Laestadius's party in the 19th century. First U.S. congregation December 1872, Calumet, Michigan",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 828",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "Among them, however, were a number belonging to a party founded by Provost Lars Levi Laestadius, of Pajala, Sweden.",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n845",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    },
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 829",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "Under the lead of Salomon Korteniemi, these excluded members formed a congregation of their own in December, 1872, under the name of the “Salomon Korteniemi Lutheran Society.”",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n846",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Lars Levi Laestadius, provost of Pajala, Sweden",
+   "citations": [
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 828",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "a party founded by Provost Lars Levi Laestadius, of Pajala, Sweden.",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n845",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Accept the Lutheran creeds and stress regeneration and the practical importance of absolution from sin. Congregational polity.",
+   "citations": [
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 829",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "The churches accept in general the creeds of the Evangelical Lutheran Church and emphasize the necessity of regeneration and the practical importance of absolution from sin.",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n846",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A party within Lutheranism whose American congregations took the name Finnish Apostolic Lutheran Church.",
+   "citations": [
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 828",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "Among them, however, were a number belonging to a party founded by Provost Lars Levi Laestadius, of Pajala, Sweden.",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n845",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    },
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 829",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "they came into fellowship with this body under the name of the ‘‘Finnish Apostolic Lutheran Church,’",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n846",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A Lutheran revival movement from northern Scandinavia whose American congregations formed the Finnish Apostolic Lutheran Church."
+  }
+ ],
+ "odcc_lookup": [
+  "Laestadius, Lars Levi"
+ ],
+ "researched_at": "2026-10-28T16:34:23+00:00",
+ "research_notes": "Start date of the Scandinavian revival itself (1840s) not found in an approved source yet. ODCC check. Parent set to g055 rather than overlay g059."
+}

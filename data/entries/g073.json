@@ -1,0 +1,80 @@
+{
+ "id": "g073",
+ "name": "Puritans",
+ "stream": "ref",
+ "parent": "g081",
+ "overlay": true,
+ "influenced": [
+  "g081",
+  "g192",
+  "g074",
+  "g069"
+ ],
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "16th century, in the Church of England. Vestiarian Controversy of 1563 seen as its first beginnings",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Puritanism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Puritanism",
+     "excerpt": "the movement for greater strictness of life and simplicity in worship which grew up in the Church of England in the 16th century among those who thought that there had not been a sufficient divergence from the Roman Church",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Puritans",
+     "url": "https://www.newadvent.org/cathen/12581a.htm",
+     "excerpt": "We may see the first beginnings of English Puritanism in the attitude of those who in 1563 entered into the \"Vestiarian Controversy\" by opposing the use, by the clergy , of the cap and gown in daily life and of the surplice in church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g081",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Puritanism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Puritanism",
+     "excerpt": "which grew up in the Church of England in the 16th century",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A movement in the Church of England that came to include three different theories of church government and led to several separatist denominations.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Puritanism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Puritanism",
+     "excerpt": "and which ultimately led to the rise of a number of separatist denominations.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Puritans",
+     "url": "https://www.newadvent.org/cathen/12581a.htm",
+     "excerpt": "Yet in the process the movement developed on such divergent lines that Puritanism soon included three different theories of Church government.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A movement within the Church of England seeking stricter life and simpler worship further removed from Roman practice. It came to include moderates, strict Presbyterians and Independents, and led to several separatist denominations."
+  }
+ ],
+ "odcc_lookup": [
+  "Puritans",
+  "Vestiarian Controversy"
+ ],
+ "researched_at": "2026-10-28T16:36:55+00:00"
+}

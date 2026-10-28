@@ -1,0 +1,96 @@
+{
+ "id": "g048",
+ "name": "Bogomils",
+ "stream": "med",
+ "parent": "g047",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "10th century, Bulgaria, in the reign of Tsar Peter (927 to 968)",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Bogomils (M. Gaster)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bogomils",
+     "excerpt": "According to Slavonic documents the founder of this sect was a certain priest Bogumil, who “imbibed the Manichaean teaching and flourished at the time of the Bulgarian emperor Peter” (927–968).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "the priest Bogumil, and according to another source Jeremiah",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Bogomils (M. Gaster)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bogomils",
+     "excerpt": "According to Slavonic documents the founder of this sect was a certain priest Bogumil, who “imbibed the Manichaean teaching and flourished at the time of the Bulgarian emperor Peter” (927–968).",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Bogomils",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bogomils",
+     "excerpt": "According to another source the founder was called Jeremiah (or there was another priest associated with him by the name of Jeremiah).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "the priest Bogomil (and possibly Jeremiah)"
+  },
+  {
+   "field": "split_from",
+   "value": "g047",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Bogomils",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bogomils",
+     "excerpt": "They are also known as Pavlikeni , i.e. Paulicians.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "late 15th century in Bosnia, after the Ottoman conquest",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Bogomils",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bogomils",
+     "excerpt": "towards the close of the 15th century the conquest of that country by the Turks put an end to their persecution. It is alleged that a large number of the Bosnian Paterenes, and especially the nobles, embraced Islam",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A religious community regarded by the 1911 Britannica as the connecting link between dissenting sects of the East and of the West.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Bogomils",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bogomils",
+     "excerpt": "The Bogomils were without doubt the connecting link between the so-called heretical sects of the East and those of the West.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A religious community that began in Bulgaria and spread to Serbia, Bosnia and beyond. It is regarded as a link between Eastern and Western dissenting movements."
+  }
+ ],
+ "odcc_lookup": [
+  "Bogomils"
+ ],
+ "researched_at": "2026-10-28T16:30:44+00:00"
+}

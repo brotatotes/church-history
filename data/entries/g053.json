@@ -1,0 +1,96 @@
+{
+ "id": "g053",
+ "name": "Hussites",
+ "stream": "med",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1415, after the execution of Jan Hus",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Hussites (F. Lützow)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hussites",
+     "excerpt": "HUSSITES, the name given to the followers of John Huss (1369–1415), the Bohemian reformer.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Hussites",
+     "url": "https://www.newadvent.org/cathen/07585a.htm",
+     "excerpt": "These last words of Hus , written in sight of his funeral pyre, aroused Bohemia .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "followers of John Huss (1369 to 1415)",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Hussites (F. Lützow)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hussites",
+     "excerpt": "HUSSITES, the name given to the followers of John Huss (1369–1415), the Bohemian reformer.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Hussites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hussites",
+     "excerpt": "They were at first often called Wycliffites, as the theological theories of Huss were largely founded on the teachings of Wycliffe .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "followers of Jan Hus (1369 to 1415)"
+  },
+  {
+   "field": "distinctives",
+   "value": "Communion in both kinds for laity (Utraquism). Divided into Utraquists (Calixtines) and Taborites, who kept only baptism and communion as sacraments.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Hussites",
+     "url": "https://www.newadvent.org/cathen/07585a.htm",
+     "excerpt": "The distinctive tenet of the Hussites is the necessity, alike for priest and layman of Communion under both kinds, sub utraque specie whence the term Utraquists .",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Hussites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hussites",
+     "excerpt": "Tabor soon became the centre of the advanced Hussites, who differed from the Utraquists by recognizing only two sacraments—Baptism and Communion—and by rejecting most of the ceremonial of the Roman Church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A reform movement whose Taborite army was defeated by the Utraquists in 1434.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Hussites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hussites",
+     "excerpt": "In 1434 war again broke out between the Utraquists and the Taborites. On the 30th of May of that year the Taborite army, led by Prokop the Great and Prokop the Less, who both fell in the battle, was totally defeated",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A Bohemian reform movement. Its Taborite wing was defeated by the Utraquists in 1434."
+  }
+ ],
+ "odcc_lookup": [
+  "Hussites",
+  "Utraquism"
+ ],
+ "researched_at": "2026-10-28T16:31:46+00:00"
+}

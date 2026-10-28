@@ -1,0 +1,65 @@
+{
+ "id": "g056",
+ "name": "Church of Sweden",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Reformation introduced 1527. Lutheran position affirmed at Uppsala, 1593",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Church of Sweden, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-sweden",
+     "excerpt": "The Reformation was introduced in 1527 under King Gustavas Vasa, and the first Lutheran archbishop of Uppsala was appointed in 1531. In 1593, the convocation of clergy in Uppsala affirmed the position of the Church of Sweden as Lutheran.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Adopted the unaltered Augsburg Confession and kept the historic episcopate. Disestablished in 2000.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-sweden",
+     "excerpt": "The unaltered Augsburg Confession was adopted as the doctrinal norm and the historic episcopacy was kept.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-sweden",
+     "excerpt": "which came into force on 1 January, 2000. The Church of Sweden was disestablished and declared a \"faith-community\".",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "5.9 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-sweden",
+     "excerpt": "Membership 5 900 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Sweden, Christianity in"
+ ],
+ "researched_at": "2026-10-28T16:32:53+00:00"
+}

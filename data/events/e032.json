@@ -1,0 +1,56 @@
+{
+ "id": "e032",
+ "name": "Elizabethan religious settlement",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1559",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "England (Since the Reformation)",
+     "url": "https://www.newadvent.org/cathen/05445a.htm",
+     "excerpt": "It was on the feast of St. John Baptist , 1559, that the statute took effect which abolished throughout England the old worship, and set up the new.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Under Elizabeth I, an Act of Supremacy restored royal authority over the church, with the queen as Supreme Governor, and an Act of Uniformity prescribed a revised prayer book.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "England, The Church of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/England%2C_The_Church_of",
+     "excerpt": "An Act of Supremacy restored to the crown the authority over the church held by Henry VIII.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "England, The Church of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/England%2C_The_Church_of",
+     "excerpt": "but Elizabeth rejected the title of Supreme Head, and used that of Supreme Governor",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "England, The Church of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/England%2C_The_Church_of",
+     "excerpt": "An Act of Uniformity prescribed the use of the prayer-book of 1552 in a revised form",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:04:39+00:00"
+}

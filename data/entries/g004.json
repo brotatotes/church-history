@@ -1,0 +1,67 @@
+{
+ "id": "g004",
+ "name": "Gnostic Christian schools",
+ "stream": "early",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "early 2nd century",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Gnosticism (W. Bousset), section I",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gnosticism",
+     "excerpt": "This first came into prominence in the opening decades of the 2nd century A.D. , but is certainly older; it reached its height in the second third of the same century, and began to wane about the 3rd century",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "offshoots into the 4th and 5th centuries",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Gnosticism, section I",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gnosticism",
+     "excerpt": "Offshoots of it, however, continued on into the 4th and 5th centuries.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A religious movement alongside the early church, defined as a syncretism with strong Christian influences, divided by Schaff into Alexandrian and Syrian families.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Gnosticism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gnosticism",
+     "excerpt": "which may roughly be defined as a distinct religious syncretism bearing the strong impress of Christian influences.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 122, Schools of Gnosticism",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.xiii.ix.html",
+     "excerpt": "Geographically they may be reduced to two great families, the Egyptian or Alexandrian, and the Syrian, which are also intrinsically different.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Gnosticism"
+ ],
+ "researched_at": "2026-10-28T16:19:54+00:00",
+ "research_notes": "Umbrella grouping, not a single body. Scholarship since 1945 (Nag Hammadi) has revised much; ODCC check needed."
+}

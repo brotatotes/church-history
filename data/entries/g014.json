@@ -1,0 +1,60 @@
+{
+ "id": "g014",
+ "name": "Assyrian Church of the East",
+ "stream": "east",
+ "parent": "g013",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "description",
+   "value": "The continuing Church of the East, now spread thinly with main centres in Iraq, Iran, Syria, India, North America, Australia, New Zealand and Europe.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/holy-apostolic-catholic-assyrian-church-of-the-east",
+     "excerpt": "The Church of the East is now thinly spread throughout the world, with its main centres in Iraq, Iran, Syria, India (where it is known as the Chaldean Syrian church), North America, Australia, New Zealand and Europe.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The continuing Church of the East, with its patriarch now resident in the United States and dioceses in the Middle East, India, Europe, North America and Australia."
+  },
+  {
+   "field": "distinctives",
+   "value": "Confesses the Nicene Creed and holds that Christ is Son of God and Son of Man, two qnome united in one Sonship.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/holy-apostolic-catholic-assyrian-church-of-the-east",
+     "excerpt": "The Nicene Creed is the universally received faith of the church. With regard to the teaching of Nestorius, the Church of the East maintains that Jesus Christ is Son of God and Son of Man, two qnome united in one Sonship.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Confesses the Nicene Creed and holds that Christ is Son of God and Son of Man, two qnome united in one Sonship. Uses the liturgy of Addai and Mari."
+  },
+  {
+   "field": "size_today",
+   "value": "323,300 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/holy-apostolic-catholic-assyrian-church-of-the-east",
+     "excerpt": "Membership 323 300",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Church of the East"
+ ],
+ "researched_at": "2026-10-28T16:22:01+00:00",
+ "research_notes": "Continuation of g013 rather than a split. The 20th-century Ancient Church of the East split is noted by WCC but not on the list."
+}

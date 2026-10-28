@@ -1,0 +1,44 @@
+{
+ "id": "g133",
+ "name": "Christian and Missionary Alliance",
+ "stream": "meth",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1897, merger",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Christian and Missionary Alliance, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=169",
+     "excerpt": "The Christian and Missionary Alliance was founded in 1897 as a merger of the Christian Alliance and the Evangelical Missionary Alliance, both founded by Albert B. Simpson.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Albert B. Simpson",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=169",
+     "excerpt": "both founded by Albert B. Simpson.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Simpson, Albert Benjamin"
+ ],
+ "researched_at": "2026-10-28T16:49:45+00:00"
+}

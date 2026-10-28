@@ -1,0 +1,67 @@
+{
+ "id": "g015",
+ "name": "Saint Thomas Christians",
+ "stream": "east",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "tradition traces them to the Apostle Thomas. First outside mention c. 354",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "St. Thomas Christians",
+     "url": "https://www.newadvent.org/cathen/14678a.htm",
+     "excerpt": "An ancient body of Christians on the east and west coasts of India , claiming spiritual descent from the Apostle St. Thomas.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "St. Thomas Christians, I",
+     "url": "https://www.newadvent.org/cathen/14678a.htm",
+     "excerpt": "Theophilus (surnamed the Indian) — an Arian , sent by Emperor Constantius (about 354) on a mission to Arabia Felix and Abyssinia — is one of the earliest, if not the first, who draws our attention to them.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Christian community on the Malabar coast of India with its liturgy in Syriac. It was divided after the Synod of Diamper (1599) and the open break with the Jesuits in 1653.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "St. Thomas Christians, I",
+     "url": "https://www.newadvent.org/cathen/14678a.htm",
+     "excerpt": "The people referred to were the Christians known as a body who had their liturgy in the Syriac language and inhabited the west coast of India , i.e. Malabar.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "St. Thomas Christians, XIII",
+     "url": "https://www.newadvent.org/cathen/14678a.htm",
+     "excerpt": "The synod was opened with great solemnity and pomp on 20 June, 1599, at the village of Udiamparur, whence it is known as the Synod of Diamper.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "St. Thomas Christians, XIV",
+     "url": "https://www.newadvent.org/cathen/14678a.htm",
+     "excerpt": "these very same complaints formed the heads of their grievances in 1653, when open schism was proclaimed to secure independence and oust the Jesuits .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An ancient Syriac-liturgy Christian community on the Malabar coast of India, under Mesopotamian bishops until the 16th century, then divided after the Synod of Diamper (1599) and the 1653 break with Portuguese Jesuit bishops."
+  }
+ ],
+ "odcc_lookup": [
+  "Malabar Christians",
+  "Thomas Christians"
+ ],
+ "researched_at": "2026-10-28T16:22:13+00:00"
+}

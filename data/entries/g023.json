@@ -1,0 +1,59 @@
+{
+ "id": "g023",
+ "name": "Mar Thoma Syrian Church",
+ "stream": "east",
+ "parent": "g022",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "reform movement begun in 1836",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Mar Thoma Syrian Church of Malabar, member profile",
+     "url": "https://www.oikoumene.org/member-churches/mar-thoma-syrian-church-of-malabar",
+     "excerpt": "In 1836 a group of committed Christians initiated a movement of reformation in the church. They insisted on re-ordering its life and practice in the light of the scriptures. The reformed section of the church became known as the Mar Thoma Syrian Church of Malabar or simply the Mar Thoma Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Keeps many traditional characteristics of the ancient Eastern church and is in full communion with the churches of the Anglican Communion.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/mar-thoma-syrian-church-of-malabar",
+     "excerpt": "While retaining many of the traditional characteristics of the ancient Eastern church, the Mar Thoma Church keeps very close relations with Christian churches in other parts of the world. It is in full communion with the churches of the Anglican Communion",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Keeps many Eastern traditions while reordering church life by Scripture after contact with British missionaries. In full communion with the Anglican Communion."
+  },
+  {
+   "field": "size_today",
+   "value": "about 1.06 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/mar-thoma-syrian-church-of-malabar",
+     "excerpt": "Membership 1 061 940",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Mar Thoma Church"
+ ],
+ "researched_at": "2026-10-28T16:24:33+00:00"
+}

@@ -1,0 +1,98 @@
+{
+ "id": "g161",
+ "name": "Unitarian churches",
+ "stream": "non",
+ "parent": "g160",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Separate communities in Poland and Hungary. English denomination from Lindsey's secession in 1773. American Unitarian Association 1825",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Unitarianism (A. Gordon and G. W. Cooke)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Unitarianism",
+     "excerpt": "this type of doctrine ultimately became the badge of separate religious communities, in Poland (extinct), in Hungary (still flourishing), and at a much later date in England.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Unitarianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Unitarianism",
+     "excerpt": "The formation of a distinct Unitarian denomination dates from the secession (1773) of Theophilus Lindsey (1723-1808) from the Anglican Church",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Unitarianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Unitarianism",
+     "excerpt": "which was emphasized in 1825 by the formation of the American Unitarian Association at Boston.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "16th century in Poland and Transylvania. English denomination from Lindsey's secession in 1773. American Unitarian Association 1825"
+  },
+  {
+   "field": "distinctives",
+   "value": "The Godhead exists in the person of the Father alone. Toleration, few essentials, no formulated creed, and historical study of Scripture.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Unitarianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Unitarianism",
+     "excerpt": "based, as opposed to orthodox Trinitarianism, on the unipersonality of the Godhead, i.e. that the Godhead exists in the person of the Father alone.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Unitarianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Unitarianism",
+     "excerpt": "namely, a large degree of toleration, a minimizing of essentials, a repugnance to formulated creed, an historical study of Scripture.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Anti-Trinitarian churches. The Reformation was attended in every European country by an outbreak of anti-Trinitarian opinion. In Transylvania Francis Dávid became anti-Trinitarian, and in America a division in the Congregational churches led to the American Unitarian Association in 1825.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Unitarianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Unitarianism",
+     "excerpt": "His influence was exerted on Francis Dávid (1510–1579), who was successively Catholic, Lutheran, Calvinist and anti-Trinitarian.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Unitarianism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Unitarianism",
+     "excerpt": "The result was a growing division in the Congregational churches, which was emphasized in 1825 by the formation of the American Unitarian Association at Boston.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Unitarianism (A. Gordon and G. W. Cooke)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Unitarianism",
+     "excerpt": "it is certain that the Reformation of the 16th century was in every European country attended by an outbreak more or less serious of anti-Trinitarian opinion.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Antitrinitarian churches arising from the Reformation. In Transylvania Francis Dávid led the movement from the 1560s. In America a division in the Congregational churches produced the American Unitarian Association."
+  }
+ ],
+ "odcc_lookup": [
+  "Unitarianism",
+  "Lindsey, Theophilus",
+  "David, Francis"
+ ],
+ "researched_at": "2026-10-28T16:53:29+00:00",
+ "research_notes": "Multiple national origins; start marked disputed because different countries have different dates. Lane parent g160."
+}

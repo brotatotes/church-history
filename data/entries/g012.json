@@ -1,0 +1,104 @@
+{
+ "id": "g012",
+ "name": "Priscillianists",
+ "stream": "early",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "4th century, Spain (condemned at Saragossa in 380)",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Priscillianism",
+     "url": "https://www.newadvent.org/cathen/12429b.htm",
+     "excerpt": "This heresy originated in Spain in the fourth century",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Priscillianism",
+     "url": "https://www.newadvent.org/cathen/12429b.htm",
+     "excerpt": "a synod was held at Saragossa in 380.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Priscillian (died 385), Spanish theologian, later Bishop of Avila",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Priscillian",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Priscillian",
+     "excerpt": "PRISCILLIAN (d. 385), Spanish theologian and the founder of a party which, in spite of severe persecution for heresy, continued to subsist in Spain and in Gaul until after the middle of the 6th century.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Priscillianism",
+     "url": "https://www.newadvent.org/cathen/12429b.htm",
+     "excerpt": "Priscillian was ordained to the priesthood and appointed Bishop of Avila .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Priscillian (died 385), Spanish layman, later bishop of Avila"
+  },
+  {
+   "field": "end",
+   "value": "563, after the second synod of Braga",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Priscillian",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Priscillian",
+     "excerpt": "as an openly professed creed it wholly disappeared after the second synod of Braga in 563.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Urged a hard asceticism, including renouncing marriage and earthly honor, alongside the Catholic faith.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Priscillian",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Priscillian",
+     "excerpt": "he argued that to make himself a fit habitation for the divine a man must, besides holding the Catholic faith and doing works of love, renounce marriage and earthly honour, and practise a hard asceticism.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "An ascetic party. Priscillian and six companions were burned alive at Treves (Trier) in 385.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Priscillian",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Priscillian",
+     "excerpt": "Priscillian appealed to the emperor, with the unexpected result that with six of his companions he was burned alive at Treves in 385.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An ascetic movement in Spain and Gaul. Priscillian and six companions were executed at Trier in 385."
+  }
+ ],
+ "odcc_lookup": [
+  "Priscillianism"
+ ],
+ "researched_at": "2026-10-28T16:21:27+00:00",
+ "research_notes": "CE 1913 derives it from Gnostic-Manichaean teaching. EB1911 treats the Manichaean charge as an accusation. Neutral description avoids both."
+}

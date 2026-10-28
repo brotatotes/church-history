@@ -1,0 +1,118 @@
+{
+ "id": "g047",
+ "name": "Paulicians",
+ "stream": "med",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "c. 657, Kibossa in Armenia (Constantine-Silvanus)",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Paulicians, History",
+     "url": "https://www.newadvent.org/cathen/11583b.htm",
+     "excerpt": "Constantine of Mananalis, calling himself Silvanus, founded what appears to be the first Paulician community at Kibossa, near Colonia in Armenia . He began to teach about 657.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "eb1911",
+     "value": "EB1911 traces them in Armenia from the 5th century, first noticed in 553",
+     "excerpt": "PAULICIANS, an evangelical Christian Church spread over Asia Minor and Armenia from the 5th century onwards. The first Armenian writer who notices them is the patriarch Nerses II. in an encyclical of 553",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Paulicians"
+    }
+   ]
+  },
+  {
+   "field": "founders",
+   "value": "Constantine of Mananalis (called Silvanus)",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Paulicians, History",
+     "url": "https://www.newadvent.org/cathen/11583b.htm",
+     "excerpt": "Constantine of Mananalis, calling himself Silvanus, founded what appears to be the first Paulician community at Kibossa",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "The Catholic Encyclopedia describes their central teaching as a distinction between the God who made the material world and the God of heaven. Their book, the Key of Truth, contains rites of name-giving, baptism and election.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Paulicians, Doctrine",
+     "url": "https://www.newadvent.org/cathen/11583b.htm",
+     "excerpt": "The cardinal point of the Paulician heresy is a distinction between the God who made and governs the material world and the God of heaven who created souls , who alone should be adored.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Paulicians",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Paulicians",
+     "excerpt": "bringing with them a book called the Key of Truth , which contains their rites of name-giving, baptism and election",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "eb1911",
+     "value": "EB1911 cautions that the evidence on their beliefs is mostly hostile",
+     "excerpt": "Regarding Paulician beliefs we have little except hostile evidence, which needs sifting.",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Paulicians"
+    }
+   ],
+   "value_before_verify": "Opponents describe them as distinguishing the maker of the material world from the God of heaven. Their own book, the Key of Truth, contains rites of name-giving, baptism and election. Sources disagree on whether they were dualist."
+  },
+  {
+   "field": "end",
+   "value": "largely ended under Alexius Comnenus, with remnants reappearing in Armenia in the 18th century",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Paulicians, History",
+     "url": "https://www.newadvent.org/cathen/11583b.htm",
+     "excerpt": "The emperor Alexius Comnenus is credited with having put an end to the heresy .",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Paulicians",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Paulicians",
+     "excerpt": "until the 18th century, when they reappear in their old haunts.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "largely ended under Alexius Comnenus (late 11th to early 12th century), with remnants reappearing in Armenia in the 18th century"
+  },
+  {
+   "field": "description",
+   "value": "A movement large numbers of whose members were transferred to Thrace by Byzantine emperors, with a new centre at Philippopolis.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Paulicians, History",
+     "url": "https://www.newadvent.org/cathen/11583b.htm",
+     "excerpt": "Constantine V had already transferred large numbers of them to Thrace; John I Tzimiskes sent many more to the same part to defend it against the Slavs . They founded a new centre at Philippopolis",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A movement in Armenia and Asia Minor, later moved in large numbers to Thrace, with a center at Philippopolis."
+  }
+ ],
+ "odcc_lookup": [
+  "Paulicians"
+ ],
+ "researched_at": "2026-10-28T16:30:43+00:00"
+}

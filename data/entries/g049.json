@@ -1,0 +1,97 @@
+{
+ "id": "g049",
+ "name": "Cathars (Albigensians)",
+ "stream": "med",
+ "parent": "g048",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "12th century in southern France (name Albigenses used by the Council of Tours, 1163)",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Albigenses",
+     "url": "https://www.newadvent.org/cathen/01267e.htm",
+     "excerpt": "A neo-Manichæan sect that flourished in southern France in the twelfth and thirteenth centuries. The name Albigenses, given them by the Council of Tours (1163) prevailed towards the end of the twelfth century",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g048",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Cathars (F. C. Conybeare)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cathars",
+     "excerpt": "In the East they were called Bogomils ( q.v. ) and Paulicians; in the West, Patarenes, Tixerands ( i.e. Weavers), Bulgars, Concorricii, Albanenses, Albigeois, &c.; in both, Cathars and Manicheans.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "about the end of the 14th century",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Albigenses",
+     "url": "https://www.newadvent.org/cathen/01267e.htm",
+     "excerpt": "The heresy disappeared about the end of the fourteenth century.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Most held a good and an evil principle, usually subordinating evil to good. Members were divided into the perfect and believers.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Cathars",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cathars",
+     "excerpt": "Some were downright dualists, and believed that there are two gods or principles, one of good and the other of evil, both eternal; but as a rule they subordinated the evil to the good.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Albigenses",
+     "url": "https://www.newadvent.org/cathen/01267e.htm",
+     "excerpt": "The members of the sect were divided into two classes: The \"perfect\" ( perfecti ) and the mere \"believers\" ( credentes ).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Held a good and an evil principle, often with evil subordinate. Practiced the consolamentum and divided members into perfect and believers."
+  },
+  {
+   "field": "description",
+   "value": "A movement whose repression the Council of Toulouse entrusted to the Inquisition in 1229.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Albigenses",
+     "url": "https://www.newadvent.org/cathen/01267e.htm",
+     "excerpt": "the Council of Toulouse (1229) entrusted the Inquisition , which soon passed into the hands of the Dominicans (1233), with the repression of Albigensianism.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A movement in southern France and Italy that was the target of a crusade from 1209 and of the Inquisition from 1229."
+  }
+ ],
+ "odcc_lookup": [
+  "Cathari",
+  "Albigenses"
+ ],
+ "researched_at": "2026-10-28T16:30:44+00:00"
+}

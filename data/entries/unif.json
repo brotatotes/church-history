@@ -1,0 +1,87 @@
+{
+ "id": "unif",
+ "name": "Unification Church",
+ "stream": "non",
+ "parent": "g069",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1954, Pusan, South Korea",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Unification Church, Contemporary American Religion (D. G. Bromley)",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/unification-church",
+     "excerpt": "Following the Korean War he settled in Pusan, founded the Unification Church in 1954, and published his major theological treatise, The Divine Principle (1957).",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Sun Myung Moon",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Unification Church",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/unification-church",
+     "excerpt": "The Unification Church was founded by Sun Myung Moon , born Yong Myung Moon in 1920, in what is now North Korea .",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "The Divine Principle teaches Creation, Fall and Restoration, with Moon presented as a messianic figure to complete Restoration through God-centered families.",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Unification Church",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/unification-church",
+     "excerpt": "The core of Moon's theology, the Divine Principle, is the sequence of the Creation, Fall, and Restoration.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Unification Church",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/unification-church",
+     "excerpt": "Moon represents the new messianic figure who can complete the Restoration process",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formally the Holy Spirit Association for the Unification of World Christianity. Moon's family had converted to Presbyterianism.",
+   "citations": [
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Unification Church",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/unification-church",
+     "excerpt": "The Unification Church, formally the Holy Spirit Association for the Unification of World Christianity, represents a blend of Christianity and Confucianism.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "encyclopedia-com",
+     "locator": "Unification Church",
+     "url": "https://www.encyclopedia.com/religion/legal-and-political-magazines/unification-church",
+     "excerpt": "His family converted to Presbyterianism when he was ten years old.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Unification Church"
+ ],
+ "researched_at": "2026-10-28T16:56:28+00:00",
+ "research_notes": "Added per Eric decision 1 (outside lane). Lane parent g069 only as Presbyterian background of founder; no split_from. Source is encyclopedia.com (Contemporary American Religion, Gale)."
+}

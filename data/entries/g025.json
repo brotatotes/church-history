@@ -1,0 +1,66 @@
+{
+ "id": "g025",
+ "name": "Ecumenical Patriarchate of Constantinople",
+ "stream": "orth",
+ "parent": "g024",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "330, when Constantine moved his capital to Byzantium",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Ecumenical Patriarchate, member profile",
+     "url": "https://www.oikoumene.org/member-churches/ecumenical-patriarchate",
+     "excerpt": "The history of Constantinople as a patriarchate began in 330, when the Emperor Constantine I decided to move the seat of his government from Rome to the small town of Byzantium along the Bosphorus",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The see of Constantinople, ranked second after Rome in 381. Its head has been called ecumenical patriarch since 520, and after the 11th-century schism became first among equals of the Orthodox patriarchs.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/ecumenical-patriarchate",
+     "excerpt": "The Second Ecumenical Council of Constantinople (381) conferred upon the bishop of the city the second rank after the bishop of Rome.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/ecumenical-patriarchate",
+     "excerpt": "From 520 onwards the head of the church became known as the ecumenical patriarch. After the great schism between Rome and Constantinople in the 11th century, the patriarch became the primus inter pares among all the patriarchs of the Orthodox churches.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "about 5.3 million members worldwide (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/ecumenical-patriarchate",
+     "excerpt": "Membership 5 255 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Constantinople",
+  "Ecumenical Patriarch"
+ ],
+ "researched_at": "2026-10-28T16:25:53+00:00"
+}

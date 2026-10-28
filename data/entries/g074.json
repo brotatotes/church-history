@@ -1,0 +1,112 @@
+{
+ "id": "g074",
+ "name": "Congregationalists",
+ "stream": "ref",
+ "parent": "g192",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1580-1581, Robert Browne's church at Norwich",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism (J. V. Bartlet)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "Between 1580 and 1581, when Browne formed in Norwich the first known church of this order on definite scriptural theory",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g192",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "Such a “gathered church” emerges as the great desideratum with Robert Browne, between 1572, when he graduated at Cambridge, and 1580–1581, when he first defined his Separatist theory.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Robert Browne, followed by Henry Barrow and John Greenwood",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Congregationalism",
+     "url": "https://www.newadvent.org/cathen/04239a.htm",
+     "excerpt": "The earliest literary exponent of Independence was Robert Brown, from whom the dissenters were nicknamed Brownists.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "But of organized churches we can trace none in England, until we come in 1586 to Greenwood and Barrow",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Robert Browne, followed by Henry Barrow and John Greenwood"
+  },
+  {
+   "field": "distinctives",
+   "value": "The autonomy of the local church is fundamental. Savoy Declaration 1658.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "CONGREGATIONALISM, the name given to that type of church organization in which the autonomy of the local church, or body of persons wont to assemble in Christian fellowship, is fundamental.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "The Congregationalism of the Savoy Declaration (Oct. 12, 1658), agreed on by representatives—the majority non-ministerial—from 120 churches",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Each local congregation of believers is self-governing under Christ, free of external human control. Savoy Declaration 1658."
+  },
+  {
+   "field": "description",
+   "value": "Dissenters known as Independents. Their churches led to the Congregational Union of England and Wales, formed in 1832.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Congregationalism",
+     "url": "https://www.newadvent.org/cathen/04239a.htm",
+     "excerpt": "These dissenters were known as \"Independents\"",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Congregationalism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Congregationalism",
+     "excerpt": "These in turn led on to the Congregational Union of England and Wales, formed in 1832",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "English Independents who formed self-governing congregations apart from the established church. Their churches spread to the Netherlands and New England, and the Congregational Union of England and Wales was formed in 1832."
+  }
+ ],
+ "odcc_lookup": [
+  "Congregationalism",
+  "Browne, Robert",
+  "Savoy Declaration"
+ ],
+ "researched_at": "2026-10-28T16:37:12+00:00"
+}

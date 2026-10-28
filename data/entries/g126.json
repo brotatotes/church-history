@@ -1,0 +1,87 @@
+{
+ "id": "g126",
+ "name": "Primitive Methodists",
+ "stream": "meth",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1807-1810. Name adopted February 1812",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "Primitive Methodists (founded 1807–1810)",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Primitive Methodist Church, The",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Primitive_Methodist_Church,_The",
+     "excerpt": "in February 1812 the name “Primitive Methodist” was formally adopted",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g117",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "Other divisions have been formed at various times by secessions from the Wesleyan Methodists (see separate articles).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Hugh Bourne and William Clowes",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Primitive Methodist Church, The",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Primitive_Methodist_Church,_The",
+     "excerpt": "One of the after-fruits of this revival was the conversion (Jan. 1805) of the joint founder of Primitive Methodism, William Clowes (1780–1851)",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Primitive Methodist Church, The",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Primitive_Methodist_Church,_The",
+     "excerpt": "One of the men to whom Primitive Methodism owes its existence was Hugh Bourne (1772–1852)",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "English revivalist Methodists known for open-air camp meetings, the first held on Mow Cop on 31 May 1807.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Primitive Methodist Church, The",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Primitive_Methodist_Church,_The",
+     "excerpt": "on the 31st of May 1807 the first real English gathering of the kind was held on Mow Cop",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Primitive Methodist Church"
+ ],
+ "researched_at": "2026-10-28T16:47:52+00:00",
+ "research_notes": "British Methodist union of 1932 not explicitly sourced for Primitive Methodists; end omitted pending ODCC."
+}

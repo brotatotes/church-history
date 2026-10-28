@@ -1,0 +1,60 @@
+{
+ "id": "g072",
+ "name": "Free Church of Scotland",
+ "stream": "ref",
+ "parent": "g070",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1843, the Disruption",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Free Church of Scotland (A. Menzies)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Free_Church_of_Scotland",
+     "excerpt": "In one sense the Free Church of Scotland dated its existence from the Disruption of 1843",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g070",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Free Church of Scotland",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Free_Church_of_Scotland",
+     "excerpt": "in another it claimed to be the rightful representative of the National Church of Scotland (see Scotland, Church of ) as it was reformed in 1560.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Asserted the independence of the church and its right to a spiritual jurisdiction answerable to its Divine Head alone.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Free Church of Scotland",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Free_Church_of_Scotland",
+     "excerpt": "the independence of the church, her inherent scriptural right to exercise a spiritual jurisdiction in which she is responsible to her Divine Head alone, was both earnestly asserted and practically maintained.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Asserted the church's spiritual independence and its right to spiritual jurisdiction answerable to Christ alone."
+  }
+ ],
+ "odcc_lookup": [
+  "Free Church of Scotland",
+  "Disruption"
+ ],
+ "researched_at": "2026-10-28T16:35:55+00:00"
+}

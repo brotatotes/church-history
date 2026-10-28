@@ -1,0 +1,42 @@
+{
+ "id": "e024",
+ "name": "Fall of Constantinople",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1453 (29 May)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Constantinople",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Constantinople",
+     "excerpt": "On the 29th of May 1453 Constantinople ceased to be the capital of the Roman empire in the East, and became the capital of the Ottoman dominion.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Ottoman capture of Constantinople, ending the Roman empire in the East.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Constantinople",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Constantinople",
+     "excerpt": "On the 29th of May 1453 Constantinople ceased to be the capital of the Roman empire in the East, and became the capital of the Ottoman dominion.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:01:38+00:00"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "g139",
+ "name": "Foursquare Church",
+ "stream": "pent",
+ "parent": "g134",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1927",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "International Church of the Foursquare Gospel, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=428",
+     "excerpt": "The International Church of the Foursquare Gospel is a Pentecostal church founded in 1927 by evangelist Aimee Semple McPherson.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Aimee Semple McPherson",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=428",
+     "excerpt": "founded in 1927 by evangelist Aimee Semple McPherson.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "McPherson, Aimee Semple"
+ ],
+ "researched_at": "2026-10-28T16:49:46+00:00"
+}

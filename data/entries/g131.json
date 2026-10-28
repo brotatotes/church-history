@@ -1,0 +1,78 @@
+{
+ "id": "g131",
+ "name": "Church of God (Anderson, Indiana)",
+ "stream": "meth",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1881",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Church of God (Anderson, Indiana), group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=188",
+     "excerpt": "The Church of God (Anderson, Indiana) is a holiness church founded in 1881 by Daniel S. Warner who was expelled from the Churches of God in North America (now the Church of God, General Council).",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g157",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=188",
+     "excerpt": "who was expelled from the Churches of God in North America (now the Church of God, General Council).",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Daniel S. Warner",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=188",
+     "excerpt": "founded in 1881 by Daniel S. Warner",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Holiness church with about 8,000 congregations in 89 countries.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=188",
+     "excerpt": "It has since founded congregations in 89 countries with about 8,000 churches worldwide.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Church of God (Anderson, Indiana), group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=188",
+     "excerpt": "is a holiness church founded in 1881 by Daniel S. Warner",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:49:45+00:00",
+ "research_notes": "split_from g157 (Churches of God, General Eldership). Verify that g157 is the same body as 'Churches of God in North America' during verify stage."
+}

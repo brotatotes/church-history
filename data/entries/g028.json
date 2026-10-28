@@ -1,0 +1,66 @@
+{
+ "id": "g028",
+ "name": "Romanian Orthodox Church",
+ "stream": "orth",
+ "parent": "g025",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "autocephaly 1885. Metropolitan sees recognized 1359 and 1401",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Romanian Orthodox Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/romanian-orthodox-church",
+     "excerpt": "Following the independence of Romania in 1877, the Orthodox Church in Romania was granted autocephaly in 1885.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/romanian-orthodox-church",
+     "excerpt": "the Metropolitan Sees of these states were recognized by the Ecumenical Patriarchate in 1359 and 1401.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "autocephaly 1885. Patriarchate 1925. Metropolitan sees recognized 1359 and 1401"
+  },
+  {
+   "field": "description",
+   "value": "The Orthodox church of Romania, whose holy synod raised its metropolitan to patriarch in 1925.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/romanian-orthodox-church",
+     "excerpt": "In 1925 the holy synod decided to set up the Romanian Orthodox Church and to raise the metropolitan to the rank of patriarch.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "about 18.8 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/romanian-orthodox-church",
+     "excerpt": "Membership 18 806 428",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Romania, Christianity in"
+ ],
+ "researched_at": "2026-10-28T16:25:53+00:00"
+}

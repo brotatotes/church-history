@@ -1,0 +1,103 @@
+{
+ "id": "g110",
+ "name": "Religious Society of Friends (Quakers)",
+ "stream": "free",
+ "parent": "g192",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1647, George Fox's public ministry. The community at Preston Patrick formed the nucleus",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Friends, Society of (A. N. Brayshaw)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Friends%2C_Society_of",
+     "excerpt": "He began his public ministry in 1647, but there is no evidence to show that he set out to form a separate",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Friends, Society of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Friends%2C_Society_of",
+     "excerpt": "it was this community (if it can be so called) at Preston Patrick which formed the nucleus of the Quaker church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "1647, George Fox's public ministry. Community at Preston Patrick 1652"
+  },
+  {
+   "field": "founders",
+   "value": "George Fox (1624-1691)",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Friends, Society of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Friends%2C_Society_of",
+     "excerpt": "—George Fox (1624–1691), the son of a weaver of Drayton-in-the-Clay (now called Fenny Drayton) in Leicestershire, was the founder of the Society.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "No formal creed, liturgy, priesthood or outward sacraments. Emphasis on the inward light and an equal place for women in church organization.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Friends, Society of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Friends%2C_Society_of",
+     "excerpt": "being a religious fellowship which has no formulated creed demanding definite subscription, and no liturgy, priesthood or outward sacrament, and which gives to women an equal place with men in church organization.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Friends, Society of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Friends%2C_Society_of",
+     "excerpt": "people taught to believe that the inward light of each individual man was the only true guide for his conduct.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A body of Christians commonly called Quakers, prominent in the colonization of New Jersey and Pennsylvania. American Friends divided in 1827-1828 after the teaching of Elias Hicks.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Friends, Society of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Friends%2C_Society_of",
+     "excerpt": "In American history they occupy an important place because of the very prominent part which they played in the colonization of New Jersey and Pennsylvania.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Friends, Society of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Friends%2C_Society_of",
+     "excerpt": "propounded doctrines inconsistent with the orthodox views concerning Christ and the Scriptures, and a separation resulted in 1827–1828",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Friends, Society of (A. N. Brayshaw)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Friends%2C_Society_of",
+     "excerpt": "FRIENDS, SOCIETY OF, the name adopted by a body of Christians, who, in law and general usage, are commonly called Quakers .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Friends, Society of",
+  "Fox, George"
+ ],
+ "researched_at": "2026-10-28T16:45:25+00:00",
+ "research_notes": "Parent English Separatism per candidate list; no sourced split_from fact (EB says followers had separated from the national worship)."
+}

@@ -1,0 +1,85 @@
+{
+ "id": "g086",
+ "name": "Reformed Episcopal Church",
+ "stream": "ang",
+ "parent": "g083",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "December 1873",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Reformed Episcopal Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Reformed_Episcopal_Church",
+     "excerpt": "REFORMED EPISCOPAL CHURCH, a Protestant community in the United States of America, dating from December 1873.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Reformed Episcopal Church, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=678",
+     "excerpt": "The Reformed Episcopal Church is an independent Anglican jurisdiction founded in 1873 by Right Reverend George David Cummins and former members of the evangelical wing of the Episcopal Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g083",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "The Episcopal Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-episcopal-church",
+     "excerpt": "A dispute rising out of the Oxford Movement resulted in the separation of a small group into the Reformed Episcopal Church in 1873",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "George David Cummins, assistant bishop of Kentucky",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Reformed Episcopal Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Reformed_Episcopal_Church",
+     "excerpt": "Cummins was chosen as presiding officer of the new body",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed in 1873 after Bishop Cummins was criticized for joining a united communion service at the Evangelical Alliance. The WCC traces the separation to a dispute rising out of the Oxford Movement.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "The Episcopal Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-episcopal-church",
+     "excerpt": "A dispute rising out of the Oxford Movement resulted in the separation of a small group into the Reformed Episcopal Church in 1873",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Reformed Episcopal Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Reformed_Episcopal_Church",
+     "excerpt": "The climax was reached when George D. Cummins (1822–1876), assistant bishop of Kentucky, was angrily attacked for officiating at the united communion service held at the meeting of the Sixth General Conference of the Evangelical Alliance in New York, October 1873.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Formed by evangelical Episcopalians after Bishop Cummins was criticized for joining a united communion service at the Evangelical Alliance in 1873, amid disputes over Tractarian influence."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:39:21+00:00"
+}

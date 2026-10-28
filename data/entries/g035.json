@@ -1,0 +1,73 @@
+{
+ "id": "g035",
+ "name": "Latin Catholic Church",
+ "stream": "cat",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "continuous with the early church in the West. Separated from the Eastern Orthodox in 1054",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Orthodox Eastern Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Orthodox_Eastern_Church",
+     "excerpt": "the final break came in 1054, when Pope Leo IX. smote Michael Cerularius and the whole of the Eastern Church with an excommunication.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "eb1911",
+     "value": "Permanent estrangement after 1204",
+     "excerpt": "finally the horrors of the sack of Constantinople in the fourth crusade",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Orthodox_Eastern_Church"
+    }
+   ]
+  },
+  {
+   "field": "description",
+   "value": "The portion of the Catholic Church that follows the Latin patriarch, the pope, in both papal and patriarchal matters. It has always been the largest patriarchate.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Latin Church",
+     "url": "https://www.newadvent.org/cathen/09022a.htm",
+     "excerpt": "The Latin Church is simply that vast portion of the Catholic body which obeys the Latin patriarch, which submits to the pope , not only in papal , but also in patriarchal matters.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Latin Church",
+     "url": "https://www.newadvent.org/cathen/09022a.htm",
+     "excerpt": "The Latin patriarchate has always been considerably the largest.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "Catholic Church as a whole: about 1.1 billion adherents (2010), half of all Christians",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Global Christianity, Christian Traditions, Catholic",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-traditions/",
+     "excerpt": "The Catholic Church has 1.1 billion adherents worldwide, representing half of the global Christian population.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Roman Catholicism",
+  "Latin Church"
+ ],
+ "researched_at": "2026-10-28T16:27:25+00:00"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "e035",
+ "name": "Synod of Dort",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1618 to 1619",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Dort, Synod of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dort%2C_Synod_of",
+     "excerpt": "was held at Dort or Dordrecht ( q.v. ) in the years 1618 and 1619.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Synod called to decide the theological differences between the Arminians and the Calvinists.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Dort, Synod of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dort%2C_Synod_of",
+     "excerpt": "called to decide the theological differences existing between the Arminians (or Remonstrants) and the Calvinists (or Counter-Remonstrants)",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Dort, Synod of"
+ ],
+ "researched_at": "2026-10-28T17:04:40+00:00"
+}

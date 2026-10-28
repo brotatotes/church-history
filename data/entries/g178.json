@@ -1,0 +1,80 @@
+{
+ "id": "g178",
+ "name": "United Church of Christ in Japan",
+ "stream": "united",
+ "parent": "g065",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1941, union required under the religious organizations law",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "United Church of Christ in Japan, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ-in-japan",
+     "excerpt": "With the promulgation of the religious organizations law, all Protestant churches had to become united. Unity was achieved at the Fujimicho Church in 1941.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Known as the Nippon Kirisuto Kyodan. Protestant mission in Japan began with American Presbyterian and Reformed missionaries in 1858. Protestant churches were required to unite in 1941. After the war several denominations withdrew, and in 1951 39 congregations left to re-establish the Nihon Kirisuto Kyokai.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ-in-japan",
+     "excerpt": "Protestant Christianity in Japan began with the work of missionaries from the American Presbyterian and Reformed churches who came to the country in 1858.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ-in-japan",
+     "excerpt": "In 1951, 39 congregations withdrew from the United Church and re-established the Nihon Kirisuto Kyokai.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "United Church of Christ in Japan, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ-in-japan",
+     "excerpt": "With the promulgation of the religious organizations law, all Protestant churches had to become united. Unity was achieved at the Fujimicho Church in 1941.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "United Church of Christ in Japan, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ-in-japan",
+     "excerpt": "the Episcopal, Lutheran and parts of the Baptist and Holiness churches, with the Salvation Army, withdrew from the United Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Called the Kyodan. Protestant mission in Japan began with American Presbyterian and Reformed missionaries in 1858. After the war several denominations withdrew, and in 1951 39 congregations left to re-establish the Nihon Kirisuto Kyokai."
+  },
+  {
+   "field": "size_today",
+   "value": "About 195,851 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ-in-japan",
+     "excerpt": "Membership 195 851",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Kyodan"
+ ],
+ "researched_at": "2026-10-28T16:54:29+00:00"
+}

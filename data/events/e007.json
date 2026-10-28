@@ -1,0 +1,42 @@
+{
+ "id": "e007",
+ "name": "First Council of Constantinople",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "381",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "First Council of Constantinople",
+     "url": "https://www.newadvent.org/cathen/04308a.htm",
+     "excerpt": "This council was called in May, 381, by Emperor Theodosius , to provide for a Catholic succession in the patriarchal See of Constantinople , to confirm the Nicene Faith, to reconcile the semi-Arians with the Church , and to put an end to the Macedonian heresy .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Council called by Theodosius that confirmed the Nicene faith.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "First Council of Constantinople",
+     "url": "https://www.newadvent.org/cathen/04308a.htm",
+     "excerpt": "This council was called in May, 381, by Emperor Theodosius , to provide for a Catholic succession in the patriarchal See of Constantinople , to confirm the Nicene Faith, to reconcile the semi-Arians with the Church , and to put an end to the Macedonian heresy .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:50+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "e004",
+ "name": "Diocletianic persecution",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "303 to 311",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 24, The Diocletian Persecution, a.d. 303–311",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.iv.xiii.html",
+     "excerpt": "The persecution began on the twenty-third day of February, 303, the feast of the Terminalia",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Series of edicts against Christians issued under Diocletian and his co-regent Maximian.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 24",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.iv.xiii.html",
+     "excerpt": "In 303 Diocletian issued in rapid succession three edicts, each more severe than its predecessor. Maximian issued the fourth, the worst of all, April 30, 304.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Series of imperial edicts against Christians issued under Diocletian and his co-emperors."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:50+00:00"
+}

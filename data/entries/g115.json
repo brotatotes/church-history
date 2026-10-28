@@ -1,0 +1,44 @@
+{
+ "id": "g115",
+ "name": "Evangelical Free Church of America",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1950, merger",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Evangelical Free Church of America, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=308",
+     "excerpt": "The Evangelical Free Church of America was founded in 1950 by the merger of two Scandinavian independent Pietistic associations of churches which had grown out of nineteenth-century revivals: the Swedish Evangelical Free Church and the Norwegian-Danish Evangelical Free Church Association.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed in 1950 by merging the Swedish Evangelical Free Church and the Norwegian-Danish Evangelical Free Church Association, which grew from 19th-century Scandinavian revivals.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=308",
+     "excerpt": "The Evangelical Free Church of America was founded in 1950 by the merger of two Scandinavian independent Pietistic associations of churches which had grown out of nineteenth-century revivals: the Swedish Evangelical Free Church and the Norwegian-Danish Evangelical Free Church Association.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Formed by merging Swedish and Norwegian-Danish free church associations that grew from 19th-century Scandinavian revivals."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:45:26+00:00",
+ "research_notes": "Lane parent g055 (Lutheran); Pietism is an overlay, influence recorded on g059."
+}

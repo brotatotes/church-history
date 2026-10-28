@@ -1,0 +1,42 @@
+{
+ "id": "g163",
+ "name": "Unitarian Universalist Association",
+ "stream": "non",
+ "parent": "g161",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1961, merger",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Unitarian Universalist Association, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=840",
+     "excerpt": "The Unitarian Universalist Association was formed in 1961 by the merger of the American Unitarian Association and the Universalist Church in America.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A creedless religion with Judeo-Christian roots that also draws on Eastern, humanist and other traditions.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=840",
+     "excerpt": "Unitarian Universalism is a creedless religion with Judeo-Christian roots. It draws also from Eastern, humanist, and other religious traditions",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:53:30+00:00"
+}

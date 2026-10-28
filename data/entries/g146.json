@@ -1,0 +1,31 @@
+{
+ "id": "g146",
+ "name": "Catholic Charismatic Renewal",
+ "stream": "cat",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "By 1967, in the U.S. Catholic Church",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "had spread to parts of the U.S. Catholic Church by 1967.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Charismatic Movement"
+ ],
+ "researched_at": "2026-10-28T16:49:48+00:00",
+ "research_notes": "Better as part of the Charismatic overlay over g035; kept as entry with a line parent g035 for now. Build stage may render as overlay detail."
+}

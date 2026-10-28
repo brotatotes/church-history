@@ -1,0 +1,83 @@
+{
+ "id": "g158",
+ "name": "Catholic Apostolic Church (Irvingites)",
+ "stream": "free",
+ "parent": "g070",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Twelve apostles separated 14 July 1835",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Catholic Apostolic Church, The",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Catholic_Apostolic_Church%2C_The",
+     "excerpt": "to their higher office in the universal church on the 14th of July 1835.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Apostles first designated after 1831. Twelve apostles separated 14 July 1835"
+  },
+  {
+   "field": "founders",
+   "value": "Associated with Edward Irving, though members did not regard him as founder",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Catholic Apostolic Church, The",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Catholic_Apostolic_Church%2C_The",
+     "excerpt": "a religious community often called “Irvingites,” though neither actually founded nor anticipated by Edward Irving ( q.v. ).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Restored offices of apostles, prophets, evangelists and pastors, with a liturgy drawing on Anglican, Roman and Greek sources.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Catholic Apostolic Church, The",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Catholic_Apostolic_Church%2C_The",
+     "excerpt": "The twelve were afterwards guided to ordain others—twelve prophets, twelve evangelists, and twelve pastors",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Catholic Apostolic Church, The",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Catholic_Apostolic_Church%2C_The",
+     "excerpt": "It dates from 1842 and is based on the Anglican, Roman and Greek liturgies.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A community in which the apostles alone held supreme authority. The last apostle died in 1901.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Catholic Apostolic Church, The",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Catholic_Apostolic_Church%2C_The",
+     "excerpt": "The “apostles” alone always held the supreme authority, though, as their number dwindled, “coadjutors” were appointed to assist the survivors, and to exercise the functions of the “apostolate.” The last “apostle” died on the 3rd of February 1901.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A community that looked to apostles as its supreme authority. The last apostle died in 1901."
+  }
+ ],
+ "odcc_lookup": [
+  "Catholic Apostolic Church",
+  "Irving, Edward"
+ ],
+ "researched_at": "2026-10-28T16:51:58+00:00",
+ "research_notes": "Irving was a Church of Scotland minister in London; lane parent g070, no split_from (EB states members did not see it as a schism)."
+}

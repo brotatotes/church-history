@@ -1,0 +1,51 @@
+{
+ "id": "e037",
+ "name": "Peace of Westphalia",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1648",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Thirty Years' War",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thirty_Years%27_War",
+     "excerpt": "THIRTY YEARS’ WAR (1618–1648), the general name of a series of wars in Germany which began formally with the claim of Frederick the elector palatine to the throne of Bohemia and ended with the treaty of Westphalia.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Treaty that ended the Thirty Years' War and set the basis of ecclesiastical affairs in the Empire on the conditions of 1624.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Thirty Years' War",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thirty_Years%27_War",
+     "excerpt": "ended with the treaty of Westphalia.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Westphalia",
+     "url": "https://www.newadvent.org/cathen/15601b.htm",
+     "excerpt": "The Treaty of Westphalia (1648) established as the basis of ecclesiastical affairs the conditions of the year 1624.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Westphalia, Peace of"
+ ],
+ "researched_at": "2026-10-28T17:04:40+00:00"
+}

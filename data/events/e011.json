@@ -1,0 +1,43 @@
+{
+ "id": "e011",
+ "name": "Third Council of Constantinople",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "680 (opened 7 November)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Third Council of Constantinople",
+     "url": "https://www.newadvent.org/cathen/04310a.htm",
+     "excerpt": "was opened 7 Nov., 680, in a domed hall ( trullus ) of the imperial palace",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "680 to 681"
+  },
+  {
+   "field": "description",
+   "value": "Council that condemned Monothelitism, the teaching of one will in Christ.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Third Council of Constantinople",
+     "url": "https://www.newadvent.org/cathen/04310a.htm",
+     "excerpt": "In the thirteenth session (28 March, 681) after anathematizing the chief Monothelitic heretics",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:51+00:00"
+}

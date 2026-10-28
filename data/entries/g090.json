@@ -1,0 +1,109 @@
+{
+ "id": "g090",
+ "name": "Mennonites",
+ "stream": "ana",
+ "parent": "g089",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "16th century. Menno Simons joined the Anabaptists in 1536",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Mennonites",
+     "url": "https://www.newadvent.org/cathen/10190b.htm",
+     "excerpt": "but 12 January, 1536, resigned his charge and became an Anabaptist elder.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Mennonites",
+     "url": "https://www.newadvent.org/cathen/10190b.htm",
+     "excerpt": "A Protestant denomination of Europe and America which arose in Switzerland in the sixteenth century and derived its name from Menno Simons, its leader in Holland .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g089",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Mennonites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mennonites",
+     "excerpt": "The place of origin of the views afterwards called Mennonite (see Baptists ) was Zürich",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Menno Simons (1492-1559)",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Mennonites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mennonites",
+     "excerpt": "MENNONITES, a body of religionists who take their name from Menno Simons (see below ), the most valued exponent of their principles.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Authority of the Bible and conscience, believers' baptism, and stress on the sanctity of human life and of one's word.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Mennonites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mennonites",
+     "excerpt": "They maintain a form of Christianity which, discarding the sacerdotal idea, owns no authority outside the Bible and the enlightened conscience, limits baptism to the believer, and lays stress on those precepts which vindicate the sanctity of human life and of a man’s word.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Anabaptist churches named after Menno Simons. Large communities existed in Holland, Germany and southern Russia, and the oldest American community was settled at Germantown, Pennsylvania, in 1683.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Mennonites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mennonites",
+     "excerpt": "These colonies have sent many emigrants to America, where their oldest community was settled (1683) at Germantown, Pennsylvania.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Mennonites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mennonites",
+     "excerpt": "While in Germany the Mennonites exist in considerable numbers, more important are the German Mennonite colonies in southern Russia, brought there in 1786 by Catherine II.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Mennonites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mennonites",
+     "excerpt": "some 250,000 members, of whom over 80,000 are in the United States, 70,000 in Russia, 60,000 in Holland",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Anabaptist churches named after Menno Simons. Large communities formed in the Netherlands, Germany and southern Russia, and the first American settlement was at Germantown, Pennsylvania, in 1683."
+  }
+ ],
+ "odcc_lookup": [
+  "Mennonites",
+  "Menno Simons"
+ ],
+ "researched_at": "2026-10-28T16:43:09+00:00"
+}

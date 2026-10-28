@@ -1,0 +1,87 @@
+{
+ "id": "g026",
+ "name": "Russian Orthodox Church",
+ "stream": "orth",
+ "parent": "g025",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "c. 988, baptism of Vladimir of Kiev",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Russian Orthodox Church (Moscow Patriarchate), member profile",
+     "url": "https://www.oikoumene.org/member-churches/russian-orthodox-church-moscow-patriarchate",
+     "excerpt": "About 988 the Emperor Vladimir was baptized, and he established Christianity as the official religion in his dominions.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g025",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/russian-orthodox-church-moscow-patriarchate",
+     "excerpt": "Originally, he brought priests from the Byzantine empire and established a Greek hierarchy under a metropolitan.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/russian-orthodox-church-moscow-patriarchate",
+     "excerpt": "The Patriarchate of Moscow was created in 1589 by Jeremias II, Patriarch of Constantinople.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Orthodox church of Russia. Its patriarchate, created in 1589, was replaced by a holy synod under Peter the Great and restored by the council of 1917 to 1918.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/russian-orthodox-church-moscow-patriarchate",
+     "excerpt": "Peter the Great (1676 - 1725) abolished the office of patriarch and replaced it with the holy synod",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/russian-orthodox-church-moscow-patriarchate",
+     "excerpt": "In 1917-18 a large council of bishops, parish clergy and laity met in Moscow and initiated a thorough reorganization of all aspects of church life, in particular restoring the Patriarchate.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The autocephalous Orthodox church of Russia and neighboring countries. Its patriarchate dates from 1589, was replaced by a synod under Peter the Great and restored in 1917 to 1918."
+  },
+  {
+   "field": "size_today",
+   "value": "about 164 million members claimed (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/russian-orthodox-church-moscow-patriarchate",
+     "excerpt": "Membership 164 100 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Russia, Christianity in"
+ ],
+ "researched_at": "2026-10-28T16:25:53+00:00"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "e029",
+ "name": "English royal supremacy",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1534",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "England, The Church of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/England%2C_The_Church_of",
+     "excerpt": "In 1534 the restraint of annates was confirmed by law, all payments to Rome were forbidden",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "ce1913",
+     "value": "1535 (Act of Supremacy, 26 Hen. VIII, c. 1)",
+     "excerpt": "The Statute of 1535 (26 Hen. VIII, c. 1) above quoted — it is commonly called the Act of Supremacy which transferred to the king the authority over the Church in England hitherto exercised by the pope",
+     "url": "https://www.newadvent.org/cathen/05445a.htm"
+    }
+   ]
+  },
+  {
+   "field": "description",
+   "value": "Parliament ended papal authority in England and declared the king Supreme Head in earth of the Church of England.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "England, The Church of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/England%2C_The_Church_of",
+     "excerpt": "The papal power was extirpated by statute",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "England, The Church of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/England%2C_The_Church_of",
+     "excerpt": "his title as “Supreme Head in earth of the Church of England” was declared by parliament without the qualification added by convocation.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Supremacy, Acts of"
+ ],
+ "researched_at": "2026-10-28T17:04:39+00:00"
+}

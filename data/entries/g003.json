@@ -1,0 +1,96 @@
+{
+ "id": "g003",
+ "name": "Ebionites",
+ "stream": "early",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "name first attested c. AD 175",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Ebionites",
+     "url": "https://www.newadvent.org/cathen/05242c.htm",
+     "excerpt": "St. Justin , however, does not use the term Ebionites , and when this term first occurs (about A.D. 175) it designates a distinctly heretical sect .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "schaff-hcc",
+     "value": "Hegesippus (via Eusebius) dates a schism among Jewish Christians to about 107",
+     "excerpt": "according to Hegesippus in Eusebius , one Thebutis, after the death of the bishop Symeon of Jerusalem, about 107, made schism among the Jewish Christians",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.xiii.ii.html"
+    }
+   ]
+  },
+  {
+   "field": "end",
+   "value": "after the 4th century, extinct by the time of Theodoret",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 113",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.xiii.ii.html",
+     "excerpt": "It continued into the fourth century, but at the time of Theodoret was entirely extinct.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "4th to 5th century"
+  },
+  {
+   "field": "distinctives",
+   "value": "Kept the Jewish Law, regarded Jesus as a human Messiah rather than divine, used only a Gospel of Matthew and rejected Paul.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Ebionites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Ebionites",
+     "excerpt": "they held Cerinthian views on the person of Christ, used only the Gospel of Matthew (probably the Gospel according to the Hebrews—so Eusebius), and rejected Paul as an apostate from the Mosaic Law, to the customs and ordinances of which, including circumcision, they steadily adhered.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Ebionites",
+     "url": "https://www.newadvent.org/cathen/05242c.htm",
+     "excerpt": "They denied the Divinity and the virginal birth of Christ; they clung to the observance of the Jewish Law ; they regarded St. Paul as an apostate",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Jewish Christian movement whose name comes from an Aramaic word meaning poor men, found in Palestine, Cyprus, Asia Minor and Rome.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Ebionites",
+     "url": "https://www.newadvent.org/cathen/05242c.htm",
+     "excerpt": "is a transliteration of an Aramean word meaning \"poor men\".",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 113",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.xiii.ii.html",
+     "excerpt": "We find the sect of the Ebionites in Palestine and the surrounding regions, on the island of Cyprus, in Asia Minor, and even in Rome.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A Jewish Christian movement whose name comes from a Hebrew word for poor, found in Palestine, Cyprus, Asia Minor and Rome."
+  }
+ ],
+ "odcc_lookup": [
+  "Ebionites"
+ ],
+ "researched_at": "2026-10-28T16:19:01+00:00"
+}

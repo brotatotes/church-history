@@ -1,0 +1,87 @@
+{
+ "id": "g075",
+ "name": "Reformed Church in America",
+ "stream": "ref",
+ "parent": "g067",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1628, New Amsterdam",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Reformed Church in America, member profile",
+     "url": "https://www.oikoumene.org/member-churches/reformed-church-in-america",
+     "excerpt": "In the colonial town of New Amsterdam in 1628, nearly fifty people gathered in a mill loft to celebrate the Lord's supper. Their communion marks the birthdate of the Reformed Church in America.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g067",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Reformed Church in America, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=676",
+     "excerpt": "The Reformed Church in America, the oldest continuously existing Protestant church in the United States, perpetuates the religious life of the Dutch Reformed settlement of New Amsterdam (New York) in the seventeenth century.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A North American church perpetuating the Dutch Reformed settlement of New Amsterdam, incorporated in 1819 as the Reformed Protestant Dutch Church and renamed in 1867. It is presbyterian in government.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Reformed Church in America, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=676",
+     "excerpt": "The Reformed Church in America, the oldest continuously existing Protestant church in the United States, perpetuates the religious life of the Dutch Reformed settlement of New Amsterdam (New York) in the seventeenth century.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/reformed-church-in-america",
+     "excerpt": "Incorporated in 1819 as the Reformed Protestant Dutch Church, the denomination changed its name in 1867 to the Reformed Church in America (RCA).",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/reformed-church-in-america",
+     "excerpt": "The RCA is presbyterian in government.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A North American church of Dutch Reformed heritage, incorporated in 1819 as the Reformed Protestant Dutch Church and renamed in 1867. It is presbyterian in government."
+  },
+  {
+   "field": "size_today",
+   "value": "About 284,520 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/reformed-church-in-america",
+     "excerpt": "Membership 284 520",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Reformed Church in America"
+ ],
+ "researched_at": "2026-10-28T16:37:52+00:00"
+}

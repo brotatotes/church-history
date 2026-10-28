@@ -1,0 +1,58 @@
+{
+ "id": "g130",
+ "name": "Church of the Nazarene",
+ "stream": "meth",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1908",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Church of the Nazarene, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=224",
+     "excerpt": "The Church of the Nazarene is a Holiness church founded in 1908 by Phineas Bresee, a former superintendent in the Methodist Episcopal Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Phineas Bresee",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=224",
+     "excerpt": "founded in 1908 by Phineas Bresee",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Holiness church first named the Pentecostal Church of the Nazarene. It dropped \"Pentecostal\" in 1919 to avoid confusion with churches that practise speaking in tongues.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=224",
+     "excerpt": "It was founded as the Pentecostal Church of the Nazarene, and the word \"Pentecostal\" was dropped in 1919 to avoid confusion with the \"speaking in tongues\" sects.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Nazarene, Church of the"
+ ],
+ "researched_at": "2026-10-28T16:49:45+00:00"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "g103",
+ "name": "Free Will Baptists",
+ "stream": "bap",
+ "parent": "g099",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "18th century, ministry of Paul Palmer. Yearly meeting of 16 churches 1752. National Association 1935",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "National Association of Free Will Baptists, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=558",
+     "excerpt": "The National Association of Free Will Baptists dates to the ministry of Paul Palmer in the American South in the 18th century. As Palmer's church grew and spread, a yearly meeting with 16 churches was formed in 1752.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=558",
+     "excerpt": "The settlement from this event led to the formation of the National Association of Free Will Baptists in 1935.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Paul Palmer",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=558",
+     "excerpt": "dates to the ministry of Paul Palmer in the American South in the 18th century.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Free Will Baptists"
+ ],
+ "researched_at": "2026-10-28T16:44:22+00:00",
+ "research_notes": "Parent kept General Baptists per candidate list; no sourced split_from fact."
+}

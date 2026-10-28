@@ -1,0 +1,52 @@
+{
+ "id": "g108",
+ "name": "Baptist Union of Great Britain",
+ "stream": "bap",
+ "parent": "g100",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1812-13 among Particular Baptists. General Baptists of the New Connexion joined 1891",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Baptist Union of Great Britain, member profile",
+     "url": "https://www.oikoumene.org/member-churches/baptist-union-of-great-britain",
+     "excerpt": "The influence of the Baptist Missionary Society, founded in 1792, led to the formation in 1812-13 of the first Baptist Union amongst Particular Baptist churches.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/baptist-union-of-great-britain",
+     "excerpt": "This process culminated in 1891, when the General Baptists of the New Connexion amalgamated with the Baptist Union.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "1812-13 among Particular Baptists. Re-formed 1831-32. General Baptists of the New Connexion joined 1891"
+  },
+  {
+   "field": "size_today",
+   "value": "About 140,918 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/baptist-union-of-great-britain",
+     "excerpt": "Membership 140 918",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Baptist Union"
+ ],
+ "researched_at": "2026-10-28T16:44:23+00:00"
+}

@@ -1,0 +1,59 @@
+{
+ "id": "e016",
+ "name": "East–West division",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1054",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 4, § 69, Progress and Completion of the Schism. Cerularius",
+     "url": "https://ccel.org/ccel/schaff/hcc4/hcc4.i.v.v.html",
+     "excerpt": "Finally, on the 16th of July, 1054, they excommunicated the patriarch and all those who should persistently censure the faith of the church of Rome",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Schism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Schism",
+     "excerpt": "The dispute which led to the separation of the Latin and Greek Churches is known as the “Great Schism,”",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Papal legates excommunicated Patriarch Michael Cerularius of Constantinople. The dispute that led to the separation of the Latin and Greek churches is known as the Great Schism.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 4, § 69",
+     "url": "https://ccel.org/ccel/schaff/hcc4/hcc4.i.v.v.html",
+     "excerpt": "Finally, on the 16th of July, 1054, they excommunicated the patriarch and all those who should persistently censure the faith of the church of Rome",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Schism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Schism",
+     "excerpt": "The dispute which led to the separation of the Latin and Greek Churches is known as the “Great Schism,”",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Papal legates excommunicated Patriarch Michael Cerularius of Constantinople. The separation of the Latin and Greek churches is known as the Great Schism."
+  }
+ ],
+ "odcc_lookup": [
+  "Schism, the Great"
+ ],
+ "researched_at": "2026-10-28T17:01:37+00:00"
+}

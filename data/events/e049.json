@@ -1,0 +1,51 @@
+{
+ "id": "e049",
+ "name": "Azusa Street revival",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1906 (April)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Timeline: William Seymour and Azusa Street Revival (B. Gurrentz)",
+     "url": "https://www.thearda.com/us-religion/history/timelines/entry?etype=1&eid=211",
+     "excerpt": "After the first outbreak of glossolalia (i.e. \"speaking in tongues\") in April 1906, the group began to grow and become racially integrated.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Revival led by William J. Seymour at 312 Azusa Street in Los Angeles, a catalyst for the growth of American Pentecostalism.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Timeline: William Seymour and Azusa Street Revival",
+     "url": "https://www.thearda.com/us-religion/history/timelines/entry?etype=1&eid=211",
+     "excerpt": "The Azusa Street Revival functioned as an important catalyst to the growth of American Pentecostalism .",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Timeline: William Seymour and Azusa Street Revival",
+     "url": "https://www.thearda.com/us-religion/history/timelines/entry?etype=1&eid=211",
+     "excerpt": "Seymour moved his congregants to a dilapidated building on 312 Azusa Street, located in downtown Los Angeles.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Pentecostalism"
+ ],
+ "researched_at": "2026-10-28T17:08:08+00:00"
+}

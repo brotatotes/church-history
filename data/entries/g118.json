@@ -1,0 +1,104 @@
+{
+ "id": "g118",
+ "name": "Methodist Episcopal Church",
+ "stream": "meth",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "24 December 1784, Christmas Conference, Baltimore",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism, United States",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "a special conference was called, which opened on the 24th of December 1784, in the suburbs of Baltimore, Maryland. This convention organized itself into a Methodist Episcopal Church",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "United Methodist Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-methodist-church",
+     "excerpt": "The Methodist Episcopal Church, following the principles of John Wesley, was officially organized in 1784.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "1939, united into the Methodist Church",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "United Methodist Church",
+     "url": "https://www.oikoumene.org/member-churches/united-methodist-church",
+     "excerpt": "In 1939 the Methodist Episcopal Church (South), the Methodist Protestant Church, and the Methodist Episcopal Church united into the Methodist Church",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Thomas Coke and Francis Asbury, as superintendents appointed by Wesley",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "early in 1784 he ordained Thomas Coke (1747–1814), already a presbyter of that Church, as superintendent.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "Wesley also appointed Thomas Coke and Francis Asbury “to be joint superintendents over our brethren in North America.”",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Methodist church organized in the United States under superintendents appointed by Wesley. It divided over slavery after the General Conference of 1844.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "Wesley also appointed Thomas Coke and Francis Asbury “to be joint superintendents over our brethren in North America.”",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "The result was that the Methodist Episcopal Church was bisected",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism, United States",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "Several issues had been settled; but one, that of slavery, had to be faced. The storm burst on the Conference of 1844.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The first Methodist church in the United States, with bishops (superintendents), elders and deacons. It divided in 1844-1845 over slavery."
+  }
+ ],
+ "odcc_lookup": [
+  "Methodist Episcopal Church",
+  "Asbury, Francis",
+  "Coke, Thomas"
+ ],
+ "researched_at": "2026-10-28T16:47:50+00:00"
+}

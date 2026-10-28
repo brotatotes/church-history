@@ -1,0 +1,78 @@
+{
+ "id": "g107",
+ "name": "Progressive National Baptist Convention",
+ "stream": "bap",
+ "parent": "g106",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1961",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Progressive National Baptist Convention, member profile",
+     "url": "https://www.oikoumene.org/member-churches/progressive-national-baptist-convention-inc",
+     "excerpt": "In 1961, 33 delegates met to envision a new convention that would be progressive and forward-thinking, and respond to the spiritual and social needs of the time.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g106",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/progressive-national-baptist-convention-inc",
+     "excerpt": "The seeds of the PNBC were sown at that time by discontent over election procedures in the National Baptist Convention, USA, Inc.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Baptist convention formed in 1961 by delegates seeking a progressive convention. It provided a denominational home for Martin Luther King Jr. and many Baptist leaders in the civil rights movement.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/progressive-national-baptist-convention-inc",
+     "excerpt": "It was the PNBC that provided a denominational home for Dr King Jr and many of the Baptist leaders in the Civil Rights Movement.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Progressive National Baptist Convention, member profile",
+     "url": "https://www.oikoumene.org/member-churches/progressive-national-baptist-convention-inc",
+     "excerpt": "In 1961, 33 delegates met to envision a new convention that would be progressive and forward-thinking",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An African American Baptist convention formed in connection with the civil rights movement. It was the denominational home of Martin Luther King Jr."
+  },
+  {
+   "field": "size_today",
+   "value": "2.5 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/progressive-national-baptist-convention-inc",
+     "excerpt": "Membership 2 500 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:44:23+00:00"
+}

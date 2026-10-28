@@ -1,0 +1,52 @@
+{
+ "id": "e039",
+ "name": "Moravian renewal at Herrnhut",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1727 (13 August)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Moravian Brethren",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Moravian_Brethren",
+     "excerpt": "joining with some Lutheran settlers in a special Communion service in Berthelsdorf (Aug. 13, 1727), had such a powerful unifying experience that modern Moravians regard that day as the birthday of the renewed Moravian Church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Refugees from Moravia settled at Herrnhut on the estate of Count Zinzendorf, and a communion service in 1727 came to be regarded as the birthday of the renewed Moravian Church.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Herrnhut",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herrnhut",
+     "excerpt": "A colony of these people, fleeing from persecution in Moravia, settled at Herrnhut in 1722 on a site presented by Count Zinzendorf.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Moravian Brethren",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Moravian_Brethren",
+     "excerpt": "modern Moravians regard that day as the birthday of the renewed Moravian Church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Moravian Brethren",
+  "Herrnhut"
+ ],
+ "researched_at": "2026-10-28T17:06:44+00:00"
+}

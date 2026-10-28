@@ -1,0 +1,95 @@
+{
+ "id": "g083",
+ "name": "Episcopal Church (United States)",
+ "stream": "ang",
+ "parent": "g082",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1789, after the American Revolution",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "The Episcopal Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-episcopal-church",
+     "excerpt": "After the American Revolution, the Episcopal Church was formed in 1789 and secured a succession of bishops and approved a Book of Common Prayer.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "1789, after the American Revolution. Colonial roots from the early 17th century"
+  },
+  {
+   "field": "split_from",
+   "value": "g081",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-episcopal-church",
+     "excerpt": "was supported by the Church of England through the Society for the Propagation of the Gospel, and technically under the jurisdiction of the Bishop of London.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "An Anglican church based in the United States, in full communion with the other churches of the Anglican Communion. It is a federal union of dioceses and accepts the Apostles' and Nicene Creeds. It also has dioceses outside the United States.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-episcopal-church",
+     "excerpt": "The Episcopal Church's form of government is a federal union, consisting of 111 dioceses",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-episcopal-church",
+     "excerpt": "The church accepts two creeds: the Apostles' and the Nicene.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "The Episcopal Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-episcopal-church",
+     "excerpt": "Full communion has been established among other churches of the Anglican Communion",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "The Episcopal Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-episcopal-church",
+     "excerpt": "Dioceses outside the United States are: Haiti, Virgin Islands, Puerto Rico",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The Anglican church of the United States, a federal union of dioceses that accepts the Apostles' and Nicene Creeds. It also has dioceses outside the United States."
+  },
+  {
+   "field": "size_today",
+   "value": "About 1.71 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/the-episcopal-church",
+     "excerpt": "Membership 1 712 563",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Protestant Episcopal Church in the USA"
+ ],
+ "researched_at": "2026-10-28T16:39:20+00:00"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "g096",
+ "name": "Brethren in Christ Church",
+ "stream": "ana",
+ "parent": "g090",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1778, Pennsylvania",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Brethren in Christ Church, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=127",
+     "excerpt": "The Brethren in Christ Church, a church out of the Mennonite tradition, was founded in 1778 in Pennsylvania.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g090",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=127",
+     "excerpt": "a church out of the Mennonite tradition",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Commonly called the River Brethren. It took its current name in 1863.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=127",
+     "excerpt": "It took its current name in 1863. This group was commonly known as \"River Brethren.\"",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "River Brethren"
+ ],
+ "researched_at": "2026-10-28T16:43:11+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "g062",
+ "name": "Evangelical Lutheran Church in America",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1988 merger",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Evangelical Lutheran Church in America, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=314",
+     "excerpt": "The ELCA was formally constituted in 1988 as a merger of the Lutheran Church in America, the Association of Evangelical Lutheran Churches, and the American Lutheran Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A U.S. Lutheran church continuing several streams of Lutheran church life from the colonial era.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=314",
+     "excerpt": "The Evangelical Lutheran Church in America continues several varied streams of Lutheran church life introduced to America during the Colonial era.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The largest U.S. Lutheran body, continuing several streams of Lutheran church life from the colonial era."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:32:54+00:00"
+}

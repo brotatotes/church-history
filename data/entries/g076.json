@@ -1,0 +1,42 @@
+{
+ "id": "g076",
+ "name": "Christian Reformed Church in North America",
+ "stream": "ref",
+ "parent": "g067",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1857, United States",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Christian Reformed Church in North America, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=179",
+     "excerpt": "It was founded in the United States in 1857.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g067",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=179",
+     "excerpt": "The Christian Reformed Church in North America continues the conservative Reformed tradition of the Netherlands.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:37:52+00:00"
+}

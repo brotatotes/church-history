@@ -1,0 +1,51 @@
+{
+ "id": "e048",
+ "name": "First Vatican Council",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1869 to 1870",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Vatican Council",
+     "url": "https://www.newadvent.org/cathen/15303a.htm",
+     "excerpt": "The Vatican Council, the twentieth and up to now [1912] the last ecumenical council, opened on 8 December, 1869, and adjourned on 20 October, 1870.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Council of the Catholic Church called by Pope Pius IX whose decrees defined the dogma of papal infallibility.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Vatican Council",
+     "url": "https://www.newadvent.org/cathen/15303a.htm",
+     "excerpt": "Pius IX announced, at a session of the Congregation of Rites, his intention to call a general council .",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Old Catholics",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Old_Catholics",
+     "excerpt": "the decrees of the Vatican Council of 1870 defining the dogma of papal infallibility",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Vatican Council, First"
+ ],
+ "researched_at": "2026-10-28T17:06:58+00:00"
+}

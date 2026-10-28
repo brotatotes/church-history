@@ -1,0 +1,42 @@
+{
+ "id": "e009",
+ "name": "Council of Chalcedon",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "451 (8 October to 1 November)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Chalcedon",
+     "url": "https://www.newadvent.org/cathen/03555a.htm",
+     "excerpt": "The Fourth Ecumenical Council , held in 451, from 8 October until 1 November inclusive, at Chalcedon , a city of Bithynia in Asia Minor .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Fourth ecumenical council, held at Chalcedon in Asia Minor.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Chalcedon",
+     "url": "https://www.newadvent.org/cathen/03555a.htm",
+     "excerpt": "The Fourth Ecumenical Council , held in 451, from 8 October until 1 November inclusive, at Chalcedon , a city of Bithynia in Asia Minor .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:51+00:00"
+}

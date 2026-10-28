@@ -1,0 +1,33 @@
+{
+ "id": "g095",
+ "name": "Old German Baptist Brethren",
+ "stream": "ana",
+ "parent": "g094",
+ "overlay": false,
+ "status": "placeholder",
+ "lane_note": "Still being researched",
+ "facts": [
+  {
+   "field": "description",
+   "value": "A Brethren body whose members are baptized believers. Baptism is by trine immersion.",
+   "citations": [
+    {
+     "source_id": "census1926",
+     "locator": "vol. 2, p. 239",
+     "url": "https://archive.org/download/religiousbodies10002unit_t6k8/religiousbodies10002unit_t6k8_djvu.txt",
+     "excerpt": "The membership of the Old German Baptist Brethren churches comprises baptized believers who have been enrolled as members upon personal profession of faith. Baptism is by trine immersion.",
+     "excerpt_type": "public_domain",
+     "page_url": "https://archive.org/details/religiousbodies10002unit_t6k8/page/n256",
+     "vision_checked": "printed page image compared word for word, 2026-10-28"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A Brethren body counted by the US Census with the German Baptist Brethren (Dunkers). Members are baptized believers, and baptism is by trine immersion."
+  }
+ ],
+ "odcc_lookup": [
+  "Dunkers"
+ ],
+ "researched_at": "2026-10-28T16:43:11+00:00",
+ "research_notes": "Census 1926 Church of the Brethren history records a small withdrawal in 1881 but does not name it in the clean OCR run; ARDA has no description. Start date not sourced; placeholder."
+}

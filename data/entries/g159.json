@@ -1,0 +1,45 @@
+{
+ "id": "g159",
+ "name": "New Apostolic Church",
+ "stream": "free",
+ "parent": "g158",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1863, Germany",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "New Apostolic Church USA, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=567",
+     "excerpt": "The New Apostolic Church was founded in 1863 in Germany as a split from the Catholic Apostolic Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g158",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=567",
+     "excerpt": "as a split from the Catholic Apostolic Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "New Apostolic Church"
+ ],
+ "researched_at": "2026-10-28T16:51:58+00:00",
+ "research_notes": "ARDA's 'over 10,000 members worldwide' is implausibly low; size omitted."
+}

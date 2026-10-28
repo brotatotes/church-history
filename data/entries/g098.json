@@ -1,0 +1,138 @@
+{
+ "id": "g098",
+ "name": "Baptists",
+ "stream": "bap",
+ "parent": "g192",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1609, John Smyth's congregation in Amsterdam. First Baptist church in England 1612",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "coming under Mennonite teaching in 1609, he separated from the Independents, baptized himself (hence he is called the “Se-baptist”)",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "Smyth died in Holland, but in 1612 Helwys returned to England with his church and formed the first Baptist church worshipping on English soil.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g192",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "it was not until the time of John Smith or Smyth (d. 1612) that the modern Baptist movement in England broke away from Brownism.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "John Smyth and Thomas Helwys",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "it was not until the time of John Smith or Smyth (d. 1612) that the modern Baptist movement in England broke away from Brownism.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "With Thomas Helwys ( ca. 1560– ca. 1616) and Morton he joined the “Ancient” church there",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "John Smyth and Thomas Helwys"
+  },
+  {
+   "field": "distinctives",
+   "value": "Baptism only of those who confess their faith, and early advocacy of liberty of conscience.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "“That every church is to receive in all their members by baptism upon the confession of their faith and sins, wrought by the preaching of the gospel according to the primitive institution and practice.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "This is the first known expression of absolute liberty of conscience in any confession of faith.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Protestant churches that baptize believers rather than infants. English Baptists had two separate origins, the Arminian General Baptists and the Calvinist Particular Baptists. The first Baptist church in America was formed at Providence under Roger Williams around 1639.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "Thus there were now in existence in England two sets of Baptists whose origins were quite distinct and who never had any real intercourse as churches.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "About March 1639, with eleven others, he decided to restore believers’ baptism and to form a church of baptized believers.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "Helwys and his followers were Arminians, repudiating with heat the Calvinistic doctrine of predestination.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "The Particular Baptists were Calvinist, springing as they did from the Independents.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Baptists",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baptists",
+     "excerpt": "The first Baptist Church in America was that founded in the Providence settlement on Narragansett Bay under the leadership of Roger Williams",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Baptists",
+  "Smyth, John",
+  "Helwys, Thomas"
+ ],
+ "researched_at": "2026-10-28T16:44:21+00:00"
+}

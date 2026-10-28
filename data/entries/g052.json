@@ -1,0 +1,75 @@
+{
+ "id": "g052",
+ "name": "Lollards",
+ "stream": "med",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "late 14th century. Name applied to Wyclif's followers in 1382",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Lollards",
+     "url": "https://www.newadvent.org/cathen/09333a.htm",
+     "excerpt": "We first hear of it as referring to the Wycliffites in 1382, when the Cistercian Henry Crumpe applied the nickname to them in public at Oxford.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "followers of John Wyclif",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Lollards",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lollards",
+     "excerpt": "LOLLARDS, the name given to the English followers of John Wycliffe",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "persisted in part until the English Reformation",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Lollards",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lollards",
+     "excerpt": "they were the adherents of a religious movement which was widespread in the end of the 14th and beginning of the 15th centuries, and to some extent maintained itself on to the Reformation.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "An English movement following Wyclif. His disciple Nicolas Hereford helped translate the Bible into English.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Lollards",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lollards",
+     "excerpt": "Wycliffe left three intimate disciples:—Nicolas Hereford, a doctor of theology of Oxford, who had helped his master to translate the Bible into English",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An English movement following Wyclif, whose close disciples helped translate the Bible into English."
+  }
+ ],
+ "odcc_lookup": [
+  "Lollardy",
+  "Wycliffe, John"
+ ],
+ "researched_at": "2026-10-28T16:31:46+00:00"
+}

@@ -1,0 +1,79 @@
+{
+ "id": "g033",
+ "name": "Russian Orthodox Church Outside Russia",
+ "stream": "orth",
+ "parent": "g026",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1921, Sremski Karlovci, Yugoslavia",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Russian Orthodox Church Outside of Russia, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=714",
+     "excerpt": "ROCOR was founded in 1921 in Sremski Karlovci, Yugoslavia by Russian Orthodox bishops who had escaped from Russia after the 1917 Bolshevik revolution.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g026",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=714",
+     "excerpt": "ROCOR was founded in 1921 in Sremski Karlovci, Yugoslavia by Russian Orthodox bishops who had escaped from Russia after the 1917 Bolshevik revolution.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "reunited with the Moscow Patriarchate in 2007, keeping broad autonomy",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=714",
+     "excerpt": "In 2007, the two groups reunited, but ROCOR retained broad autonomy in its affairs and administration.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Russian Orthodox church founded by bishops who left Russia after 1917, headquartered in New York after the Second World War, stressing Church Slavonic worship, traditional church order and a conservative theological outlook.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=714",
+     "excerpt": "After WWII, its worldwide headquarters moved from Yugoslavia to New York.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=714",
+     "excerpt": "From the very beginning, ROCOR had a strong emphasis on preserving Russian culture, the Slavic style of Orthodox Christian worship (with Church Slavonic as the principal language of services), traditional church order, a conservative theological outlook",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An émigré Russian Orthodox church, headquartered in New York after the Second World War, stressing Church Slavonic worship, traditional church order and a conservative theological outlook."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:26:40+00:00"
+}

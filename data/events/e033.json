@@ -1,0 +1,52 @@
+{
+ "id": "e033",
+ "name": "Union of Brest",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1595 to 1596",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Union of Brest",
+     "url": "https://www.newadvent.org/cathen/15130a.htm",
+     "excerpt": "On 12 June, 1595, Rahosa, the metropolitan , and the Bishops of Vladimir, Lutzk , and Pinsk met at Brest and drew up two petitions, one to Clement VIII and the other to Sigismund III.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Brest-Litovsk",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brest-Litovsk",
+     "excerpt": "in 1594 and 1596 it was the meeting-place of two remarkable councils of the bishops of western Russia.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Ruthenian bishops entered union with the Roman Church, with the concession that they keep their own rite.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Union of Brest",
+     "url": "https://www.newadvent.org/cathen/15130a.htm",
+     "excerpt": "the concession to the Ruthenians that they should retain their own rite",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Ruthenian bishops entered union with the Roman Church while retaining their own rite."
+  }
+ ],
+ "odcc_lookup": [
+  "Brest-Litovsk, Union of"
+ ],
+ "researched_at": "2026-10-28T17:04:39+00:00"
+}

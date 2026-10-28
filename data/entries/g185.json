@@ -1,0 +1,30 @@
+{
+ "id": "g185",
+ "name": "African independent / initiated churches",
+ "stream": "united",
+ "parent": "g183",
+ "overlay": false,
+ "status": "placeholder",
+ "lane_note": "Still being researched",
+ "facts": [
+  {
+   "field": "description",
+   "value": "Denominations in sub-Saharan Africa that identify as independent from historically Protestant denominations.",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "traditions",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-traditions/",
+     "excerpt": "Independent Christians include denominations in sub-Saharan Africa that identify as independent from historically Protestant denominations",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "African Independent Churches"
+ ],
+ "researched_at": "2026-10-28T16:55:19+00:00",
+ "research_notes": "Category; no start date sourced."
+}

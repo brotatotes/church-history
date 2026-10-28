@@ -1,0 +1,44 @@
+{
+ "id": "e031",
+ "name": "Peace of Augsburg",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1555",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Augsburg",
+     "url": "https://www.newadvent.org/cathen/02073b.htm",
+     "excerpt": "the \"Religious Peace of Augsburg\" was concluded at the Diet of 1555; it was followed by a long period of peace.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Religious peace concluded at the imperial Diet of Augsburg.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Augsburg",
+     "url": "https://www.newadvent.org/cathen/02073b.htm",
+     "excerpt": "the \"Religious Peace of Augsburg\" was concluded at the Diet of 1555; it was followed by a long period of peace.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Augsburg, Peace of"
+ ],
+ "researched_at": "2026-10-28T17:04:39+00:00"
+}

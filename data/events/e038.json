@@ -1,0 +1,51 @@
+{
+ "id": "e038",
+ "name": "Russian Old Believer schism",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1666",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Russia",
+     "url": "https://www.newadvent.org/cathen/13253a.htm",
+     "excerpt": "But a council held at Moscow in 1666 approved the reform of Nikon , and pronounced its anathema against those who had not accepted his decisions.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Opponents of Patriarch Nikon's revision of Russian service books and icons separated as the Old Believers.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Nikon",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nikon",
+     "excerpt": "the unappeasable hatred with which the “Old Ritualists” and the “Old Believers,” as they now began to be called, ever afterwards regarded Nikon and all his works.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Nikon",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nikon",
+     "excerpt": "summoned a properly qualified synod of experts to re-examine the service-books",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Old Believers"
+ ],
+ "researched_at": "2026-10-28T17:04:40+00:00"
+}

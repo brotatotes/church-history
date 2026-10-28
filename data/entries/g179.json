@@ -1,0 +1,64 @@
+{
+ "id": "g179",
+ "name": "United Church of Christ in the Philippines",
+ "stream": "united",
+ "parent": "g065",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1948",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "United Church of Christ in the Philippines, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ-in-the-philippines",
+     "excerpt": "The United Church of Christ in the Philippines, the largest and most widespread Protestant church in the country, came into being in 1948.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed in 1948, uniting earlier unions of Presbyterian, Congregational, United Brethren, Methodist and other evangelical churches. The largest Protestant church in the Philippines.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ-in-the-philippines",
+     "excerpt": "It unites in one church the United Evangelical Church in the Philippines (a 1929 union of Presbyterian, Congregational and United Brethren churches with the small United Church of Manila), the Philippine Methodist Church and the Evangelical Church in the Philippines",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "United Church of Christ in the Philippines, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ-in-the-philippines",
+     "excerpt": "The United Church of Christ in the Philippines, the largest and most widespread Protestant church in the country, came into being in 1948.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Unites earlier unions of Presbyterian, Congregational, United Brethren, Methodist and other evangelical churches. The largest Protestant church in the Philippines."
+  },
+  {
+   "field": "size_today",
+   "value": "About 1.5 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-christ-in-the-philippines",
+     "excerpt": "Membership 1 500 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:54:29+00:00"
+}

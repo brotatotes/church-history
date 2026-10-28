@@ -1,0 +1,79 @@
+{
+ "id": "g149",
+ "name": "Christian Church (Disciples of Christ)",
+ "stream": "rest",
+ "parent": "g148",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1832 union at Lexington, Kentucky",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Christian Church (Disciples of Christ), member profile",
+     "url": "https://www.oikoumene.org/member-churches/christian-church-disciples-of-christ-in-the-united-states",
+     "excerpt": "In 1832, representatives of the two groups came together in Lexington, Kentucky, to form a single movement",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Weekly Lord's Supper, congregational leadership and Christian unity.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/christian-church-disciples-of-christ-in-the-united-states",
+     "excerpt": "committed to weekly celebration of the Lord's Supper, to a rational faith, to congregational leadership, and to Christian unity expressed in freedom and diversity.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The mainline Protestant branch of the Stone-Campbell movement, which became more centrally organized in 1968.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/christian-church-disciples-of-christ-in-the-united-states",
+     "excerpt": "As a mainline Protestant church in the North American context",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Christian Churches and Churches of Christ, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=175",
+     "excerpt": "as the Disciples of Christ became more centrally organized in 1968.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 830,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/christian-church-disciples-of-christ-in-the-united-states",
+     "excerpt": "Membership 830 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Disciples of Christ"
+ ],
+ "researched_at": "2026-10-28T16:51:54+00:00"
+}

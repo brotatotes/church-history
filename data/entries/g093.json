@@ -1,0 +1,53 @@
+{
+ "id": "g093",
+ "name": "Mennonite Brethren",
+ "stream": "ana",
+ "parent": "g090",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1860",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Mennonite Brethren Church of North America (Bruedergemeinde), group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=516",
+     "excerpt": "The Mennonite Brethren Church of North America (Bruedergemeinde) was founded by Pastor Edward Wuest in 1860 and came to the United States in 1879 under the leadership of Abraham Schellenberg.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Founded in 1860 and came to the United States in 1879. Now known as the U.S. Conference of Mennonite Brethren Churches.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=516",
+     "excerpt": "Today it is known as the U.S. Conference of Mennonite Brethren Churches.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Mennonite Brethren Church of North America (Bruedergemeinde), group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=516",
+     "excerpt": "was founded by Pastor Edward Wuest in 1860 and came to the United States in 1879 under the leadership of Abraham Schellenberg.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Came to the United States in 1879. Now known as the U.S. Conference of Mennonite Brethren Churches."
+  }
+ ],
+ "odcc_lookup": [
+  "Mennonite Brethren"
+ ],
+ "researched_at": "2026-10-28T16:43:10+00:00",
+ "research_notes": "Only ARDA. ARDA credits Edward Wuest as founder; check ODCC on origin among Russian Mennonites. Founders field omitted pending modern check."
+}

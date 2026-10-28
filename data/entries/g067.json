@@ -1,0 +1,47 @@
+{
+ "id": "g067",
+ "name": "Dutch Reformed churches",
+ "stream": "ref",
+ "parent": "g065",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1568, Reformed Church in the Netherlands",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Remonstrant Brotherhood, member profile",
+     "url": "https://www.oikoumene.org/member-churches/remonstrant-brotherhood",
+     "excerpt": "An indigenous type of Protestantism existed in the Netherlands before Calvinism was introduced from France and the Reformed Church was born in 1568.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Reformed churches of Dutch heritage, including the Dutch Reformed Church of southern Africa, founded in the 17th century by Dutch settlers.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Dutch Reformed Church (South Africa), member profile",
+     "url": "https://www.oikoumene.org/member-churches/dutch-reformed-church",
+     "excerpt": "The Dutch Reformed Church (DRC), founded in the 17th century by Dutch settlers in southern Africa, includes more than one million members and three theological faculties.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Reformed churches of the Netherlands and Dutch settlement, including the Dutch Reformed Church of southern Africa, founded by 17th-century settlers."
+  }
+ ],
+ "odcc_lookup": [
+  "Dutch Reformed Church",
+  "Dort, Synod of"
+ ],
+ "researched_at": "2026-10-28T16:35:54+00:00",
+ "research_notes": "Family entry; South African DRC data cited as one representative. Netherlands church itself (PKN) not separately on list."
+}

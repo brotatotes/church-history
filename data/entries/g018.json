@@ -1,0 +1,95 @@
+{
+ "id": "g018",
+ "name": "Ethiopian Orthodox Tewahedo Church",
+ "stream": "east",
+ "parent": "g016",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "c. 330, when Frumentius became first bishop",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Abyssinian Church (A. J. Butler)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Abyssinian_Church",
+     "excerpt": "As the chronicle of Axum relates, Christianity was adopted in Abyssinia in the 4th century. About A.D. 330 Frumentius was made first bishop of Ethiopia by Athanasius, patriarch of Alexandria.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Ethiopian Orthodox Tewahedo Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/ethiopian-orthodox-tewahedo-church",
+     "excerpt": "The Ethiopian Orthodox Church was founded on a synodal level in 328 AD.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Rejected the Council of Chalcedon and shares the faith of the Coptic, Syrian and Armenian churches. Tewahedo expresses its understanding of one nature.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Abyssinian Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Abyssinian_Church",
+     "excerpt": "But the Abyssinians rejected the council of Chalcedon, and still remain monophysites.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/ethiopian-orthodox-tewahedo-church",
+     "excerpt": "Since the schism of 451, the Ethiopian Orthodox Tewahedo Church shares the same faith with the Coptic, Syrian and Armenian Orthodox Churches and the Syrian Orthodox Church of India (Tewahedo is a word that reflects the Ethiopian understanding of one nature).",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Rejected the Council of Chalcedon and shares the faith of the Coptic, Syrian and Armenian churches. Tewahedo expresses its understanding of one nature. Worship is in Geez."
+  },
+  {
+   "field": "description",
+   "value": "The church of Ethiopia, whose metropolitan was appointed from Egypt for centuries. Autocephalous since 1950.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Abyssinian Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Abyssinian_Church",
+     "excerpt": "From Frumentius to the present day, with one break, the Metropolitan ( Abuna ) has always been appointed from Egypt",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/ethiopian-orthodox-tewahedo-church",
+     "excerpt": "Since 1950 the Ethiopian Orthodox Church has been autocephalous.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "60 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/ethiopian-orthodox-tewahedo-church",
+     "excerpt": "Membership 60 000 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Ethiopian Church"
+ ],
+ "researched_at": "2026-10-28T16:23:35+00:00",
+ "research_notes": "WCC 1950 autocephaly date. Other accounts give 1959 for the first patriarch. ODCC check."
+}

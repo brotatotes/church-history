@@ -1,0 +1,49 @@
+{
+ "id": "g167",
+ "name": "Church of Jesus Christ of Latter-day Saints",
+ "stream": "non",
+ "parent": "g166",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1830 (continuing the original church). Centered at Salt Lake City from 1848",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Church of Jesus Christ of Latter-day Saints, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=211",
+     "excerpt": "This church was organized on April 6, 1830 in Fayette, New York, by Joseph Smith.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Mormons",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mormons",
+     "excerpt": "and since 1848 largely concentrated about Salt Lake City, Utah.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The main body of Latter-day Saints, headquartered in Salt Lake City, Utah.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=211",
+     "excerpt": "The main body of Latter-day Saints is headquartered in Salt Lake City, Utah, where the Salt Lake Temple and Tabernacle are located.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:53:30+00:00"
+}

@@ -1,0 +1,84 @@
+{
+ "id": "g122",
+ "name": "Christian Methodist Episcopal Church",
+ "stream": "meth",
+ "parent": "g119",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1870",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Christian Methodist Episcopal Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/christian-methodist-episcopal-church",
+     "excerpt": "The request was granted, and in 1870 the Coloured Methodist Episcopal Church was organized.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "The coloured people, with the consent of the Church, withdrew in 1870, and formed a new Church called the Coloured Methodist Episcopal Church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g119",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/christian-methodist-episcopal-church",
+     "excerpt": "this church was established in the South of the USA, in an amicable agreement between white and black members of the Methodist Episcopal Church, South.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Called the Coloured Methodist Episcopal Church until 1954. Its doctrine is that of its parent church.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/christian-methodist-episcopal-church",
+     "excerpt": "Known until 1954 as the Coloured Methodist Episcopal Church",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/christian-methodist-episcopal-church",
+     "excerpt": "The doctrine of the CME Church is the doctrine of the parent church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 858,670 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/christian-methodist-episcopal-church",
+     "excerpt": "Membership 858 670",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:47:51+00:00"
+}

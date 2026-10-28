@@ -1,0 +1,58 @@
+{
+ "id": "e028",
+ "name": "Augsburg Confession",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1530 (read 25 June)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Augsburg, Confession of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Augsburg_Confession",
+     "excerpt": "In summoning a diet for April 1530, Charles V. offered a fair hearing to all religious parties in the Empire.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Augsburg, Confession of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Augsburg_Confession",
+     "excerpt": "On the 23rd of June the Confession, originally intended as the statement of Electoral Saxony alone, was discussed and signed by a number of other Protestant princes and cities, and read before the diet on the 25th of June.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Lutheran statement of belief drafted by Philip Melanchthon and read before the imperial diet at Augsburg.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Augsburg, Confession of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Augsburg_Confession",
+     "excerpt": "AUGSBURG, CONFESSION OF, the most important Protestant statement of belief drawn up at the Reformation.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Augsburg, Confession of",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Augsburg_Confession",
+     "excerpt": "On the 11th of May he sent the draft to Luther, who approved it",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Augsburg Confession"
+ ],
+ "researched_at": "2026-10-28T17:02:02+00:00"
+}

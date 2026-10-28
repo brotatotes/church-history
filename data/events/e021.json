@@ -1,0 +1,65 @@
+{
+ "id": "e021",
+ "name": "Western Schism",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1378 to 1417",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Western Schism",
+     "url": "https://www.newadvent.org/cathen/13539a.htm",
+     "excerpt": "Pope Gregory XI had left Avignon to return to Italy and had re-established the pontifical see in the Eternal City , where he died on 27 March, 1378.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Western Schism",
+     "url": "https://www.newadvent.org/cathen/13539a.htm",
+     "excerpt": "On 11 November, 1417, the assembly elected Odo Colonna, who took the name of Martin V .",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Schism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Schism",
+     "excerpt": "the division over the election to the Papacy of Urban VI. and Clement VII. as the “Great Schism of the West” (1378–1417)",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Division over the papal election of 1378 that produced rival claimants, ended by the election of Martin V.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Schism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Schism",
+     "excerpt": "the division over the election to the Papacy of Urban VI. and Clement VII. as the “Great Schism of the West” (1378–1417)",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Western Schism",
+     "url": "https://www.newadvent.org/cathen/13539a.htm",
+     "excerpt": "On 11 November, 1417, the assembly elected Odo Colonna, who took the name of Martin V .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Great Schism"
+ ],
+ "researched_at": "2026-10-28T17:01:38+00:00"
+}

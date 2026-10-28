@@ -1,0 +1,66 @@
+{
+ "id": "g005",
+ "name": "Basilideans",
+ "stream": "early",
+ "parent": "g004",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "early 2nd century",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Basilides (W. Bousset)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Basilides",
+     "excerpt": "BASILIDES, one of the most conspicuous exponents of Gnosticism, was living at Alexandria probably as early as the first decades of the 2nd century.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "eb1911",
+     "value": "Eusebius's Chronicle dates his first appearance to AD 133",
+     "excerpt": "It is true that Eusebius, in his Chronicle , dates his first appearance from A.D. 133",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Basilides"
+    }
+   ],
+   "value_before_verify": "early 2nd century, before 138"
+  },
+  {
+   "field": "founders",
+   "value": "Basilides of Alexandria",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Basilides",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Basilides",
+     "excerpt": "BASILIDES, one of the most conspicuous exponents of Gnosticism, was living at Alexandria",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Gnostic school at Alexandria following Basilides, who wrote a 24-book exegetical work on a gospel.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Basilides",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Basilides",
+     "excerpt": "Basilides wrote an exegetical work in twenty-four books on “his” gospel, but which this was is not known.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Basilides"
+ ],
+ "researched_at": "2026-10-28T16:19:54+00:00"
+}

@@ -1,0 +1,111 @@
+{
+ "id": "g160",
+ "name": "Socinians / Polish Brethren",
+ "stream": "non",
+ "parent": "g065",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1570, settled at Raków. Antitrinitarian circles from the 1540s",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Socinians",
+     "url": "https://www.newadvent.org/cathen/14113a.htm",
+     "excerpt": "In 1570 the Socinians separated, and, through the influence of the Antitrinitarian John Sigismund, established themselves at Racow.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Socinians",
+     "url": "https://www.newadvent.org/cathen/14113a.htm",
+     "excerpt": "In 1546 a secret society held meetings at Vicenza in the Diocese of Venice to discuss, among other points, the doctrine of the Trinity.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Lelio Sozzini and his nephew Fausto Sozzini",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Socinians",
+     "url": "https://www.newadvent.org/cathen/14113a.htm",
+     "excerpt": "The Socinians derive their name from two natives of Siena , Lelio Sozzini (1525-62) and his nephew Fausto Sozzini (1539-1604).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Antitrinitarian. Only doctrines grasped by reason were accepted, as set out in the Racovian Catechism.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Socinians",
+     "url": "https://www.newadvent.org/cathen/14113a.htm",
+     "excerpt": "The body of doctrine held by one of the numerous Antitrinitarian sects to which the Reformation gave birth.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Socinians",
+     "url": "https://www.newadvent.org/cathen/14113a.htm",
+     "excerpt": "in the mouth of Socinian it meant that only those mysteries which reason can grasp are to be accepted.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "1638, banished from Poland and dispersed",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Socinians",
+     "url": "https://www.newadvent.org/cathen/14113a.htm",
+     "excerpt": "In 1638 the Catholics in Poland insisted on the banishment of the Socinians, who were in consequence dispersed.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Fausto Sozzini came to Poland in 1579 and gained a leading influence in the Minor (antitrinitarian) Church's synods.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Socinus",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Socinus",
+     "excerpt": "Excluded at first by his views on baptism (which he regarded as applicable only to Gentile converts) from the Minor or anti-Trinitarian ChuTch (largely anabaptist), he acquired by degrees a predominant influence in its synods.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Socinians",
+     "url": "https://www.newadvent.org/cathen/14113a.htm",
+     "excerpt": "Meanwhile, Faustus Socinus had obtained possession of his uncle's papers and in 1579 came to Poland .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Socinianism",
+  "Polish Brethren",
+  "Racovian Catechism"
+ ],
+ "researched_at": "2026-10-28T16:51:58+00:00",
+ "research_notes": "End 1638 per CE 1913 only. Check ODCC for the later expulsion date commonly given; add as disagreement if sourced."
+}

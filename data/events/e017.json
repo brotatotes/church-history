@@ -1,0 +1,58 @@
+{
+ "id": "e017",
+ "name": "First Crusade",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1095 to 1099",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 5, § 54",
+     "url": "https://ccel.org/ccel/schaff/hcc5/hcc5.ii.ix.iii.html",
+     "excerpt": "The call which resulted in the first expedition for the recovery of Jerusalem was made by Pope Urban II. at the Council of Clermont, 1095.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 5, § 55, The First Crusade",
+     "url": "https://ccel.org/ccel/schaff/hcc5/hcc5.ii.ix.iv.html",
+     "excerpt": "The culmination of the First Crusade was the fall of Jerusalem, July 15, 1099.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Military expedition called by Pope Urban II at Clermont that ended with the capture of Jerusalem.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 5, § 54",
+     "url": "https://ccel.org/ccel/schaff/hcc5/hcc5.ii.ix.iii.html",
+     "excerpt": "The call which resulted in the first expedition for the recovery of Jerusalem was made by Pope Urban II. at the Council of Clermont, 1095.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 5, § 55, The First Crusade",
+     "url": "https://ccel.org/ccel/schaff/hcc5/hcc5.ii.ix.iv.html",
+     "excerpt": "The culmination of the First Crusade was the fall of Jerusalem, July 15, 1099.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Crusades"
+ ],
+ "researched_at": "2026-10-28T17:01:37+00:00"
+}

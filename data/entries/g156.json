@@ -1,0 +1,73 @@
+{
+ "id": "g156",
+ "name": "Grace Communion International (formerly Worldwide Church of God)",
+ "stream": "rest",
+ "parent": "g155",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Early 1930s, Herbert Armstrong. Renamed 2009",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Grace Communion International, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=1323",
+     "excerpt": "Grace Communion International began in 2009 as a reorganization of the Worldwide Church of God, which was originally founded in the early 1930s by Herbert Armstrong.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Herbert Armstrong",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=1323",
+     "excerpt": "originally founded in the early 1930s by Herbert Armstrong.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "After Armstrong's death in 1986 the church changed its doctrines, lost about a third of its members to splinter groups, and now agrees with the National Association of Evangelicals.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=1323",
+     "excerpt": "After Armstrong's death in 1986, the organization began to change its doctrines",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=1323",
+     "excerpt": "The organization is now in full agreement with the National Association of Evangelicals.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Grace Communion International, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=1323",
+     "excerpt": "Almost a third of the group's membership was lost during this transition, as many of the members aligned with Armstrong's teachings left to form splinter groups.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Worldwide Church of God"
+ ],
+ "researched_at": "2026-10-28T16:51:56+00:00",
+ "research_notes": "Parent g155 per candidate list; split_from not sourced in ARDA."
+}

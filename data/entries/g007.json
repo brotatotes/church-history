@@ -1,0 +1,87 @@
+{
+ "id": "g007",
+ "name": "Montanists",
+ "stream": "early",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "c. 156/157 (Epiphanius) or c. 172 (Eusebius)",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Montanism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Montanism",
+     "excerpt": "At the close of the reign of Antoninus Pius—probably in the year 156 (Epiphanius)—Montanus appeared at Ardabau in Mysia, near the Phrygian border",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Montanists, Chronology",
+     "url": "https://www.newadvent.org/cathen/10521a.htm",
+     "excerpt": "regard St. Epiphanius (Hær., xlviii, 1) as giving the true date of the rise of the sect , \"about the nineteenth year of Antoninus Pius \" (that is, about the year 156 or 157).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "ce1913",
+     "value": "Eusebius's Chronicle gives about 172",
+     "excerpt": "the date given by Eusebius in his \"Chronicle\" — eleventh (or twelfth) year of Marcus, i.e. about 172 — for the first appearance of Montanus",
+     "url": "https://www.newadvent.org/cathen/10521a.htm"
+    }
+   ]
+  },
+  {
+   "field": "founders",
+   "value": "Montanus, with the prophetesses Maximilla and Prisca (Priscilla)",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Montanists",
+     "url": "https://www.newadvent.org/cathen/10521a.htm",
+     "excerpt": "The sect was founded by a prophet , Montanus, and two prophetesses, Maximilla and Prisca, sometimes called Priscilla.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Held that a new and final outpouring of the Spirit had come, and called for strict Christian living.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Montanism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Montanism",
+     "excerpt": "There, in Phrygia, the cry for a strict Christian life was reinforced by the belief in a new and final outpouring of the Spirit",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A prophetic movement, known as Montanists, Pepuzians and in the West Cataphrygians.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Montanists",
+     "url": "https://www.newadvent.org/cathen/10521a.htm",
+     "excerpt": "then as Montanists, Pepuzians, and (in the West) Cataphrygians.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A prophetic movement from Phrygia, also called Cataphrygians, that spread to Rome and North Africa."
+  }
+ ],
+ "odcc_lookup": [
+  "Montanism"
+ ],
+ "researched_at": "2026-10-28T16:19:54+00:00"
+}

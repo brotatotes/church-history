@@ -1,0 +1,43 @@
+{
+ "id": "g078",
+ "name": "Presbyterian Church in America",
+ "stream": "ref",
+ "parent": "g069",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "December 1973",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Presbyterian Church in America, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=653",
+     "excerpt": "The Presbyterian Church in America was organized at a constitutional assembly in December of 1973 and first known as the National Presbyterian Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Founded by conservative members of the Presbyterian Church in the United States who rejected that church's merger with the United Presbyterian Church in the U.S.A. It took its current name in 1974.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=653",
+     "excerpt": "It was founded by conservative members of the Presbyterian Church in the United States who rejected that church's merger with the United Presbyterian Church in the U.S.A. In 1974, it assumed its current name.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Founded by conservative members of the Presbyterian Church in the United States who rejected that church's planned merger with the United Presbyterian Church in the U.S.A. First called the National Presbyterian Church, it took its current name in 1974."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:37:53+00:00"
+}

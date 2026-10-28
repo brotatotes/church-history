@@ -1,0 +1,51 @@
+{
+ "id": "g019",
+ "name": "Eritrean Orthodox Tewahedo Church",
+ "stream": "east",
+ "parent": "g018",
+ "overlay": false,
+ "status": "placeholder",
+ "lane_note": "Still being researched",
+ "facts": [
+  {
+   "field": "description",
+   "value": "The Oriental Orthodox church of Eritrea, governed by a holy synod of bishops under a patriarch. It traces its origin to Frumentius in the 4th century.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Eritrean Orthodox Tewahedo Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/eritrean-orthodox-tewahedo-church",
+     "excerpt": "The Eritrean Orthodox Tewahedo Church was formally founded in 329 AD under the fatherhood of St Frumentius (Abba Selama) the first bishop assigned by St Athanasius, Patriarch of Alexandria.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/eritrean-orthodox-tewahedo-church",
+     "excerpt": "The church is organized under the supreme body of the holy synod, which is the council of all the bishops and archbishops of the church, presided over by the patriarch",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "2 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/eritrean-orthodox-tewahedo-church",
+     "excerpt": "Membership 2 000 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Eritrean Orthodox Church"
+ ],
+ "researched_at": "2026-10-28T16:23:35+00:00",
+ "research_notes": "No approved source found yet for the date of separation from the Ethiopian church (Eritrean independence 1993, autocephaly 1990s). Britannica.com has it but is not approved. ODCC 2005 should have it."
+}

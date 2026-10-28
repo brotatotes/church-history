@@ -1,0 +1,128 @@
+{
+ "schaff-hcc": {
+  "short": "Schaff, History of the Christian Church",
+  "full_citation": "Philip Schaff, History of the Christian Church, 8 vols., 3rd rev. ed. (New York: Charles Scribner's Sons, 1882-1910). Online at Christian Classics Ethereal Library.",
+  "url": "https://ccel.org/ccel/schaff/hcc1",
+  "license": "public_domain",
+  "type": "Church history"
+ },
+ "schaff-creeds": {
+  "short": "Schaff, Creeds of Christendom",
+  "full_citation": "Philip Schaff, The Creeds of Christendom, with a History and Critical Notes, 6th ed., 3 vols. (New York: Harper and Brothers, 1931 reprint of 1877 work). Online at Christian Classics Ethereal Library.",
+  "url": "https://ccel.org/ccel/schaff/creeds1",
+  "license": "public_domain",
+  "type": "Creeds and confessions"
+ },
+ "nsh": {
+  "short": "New Schaff-Herzog Encyclopedia",
+  "full_citation": "Samuel Macauley Jackson, ed., The New Schaff-Herzog Encyclopedia of Religious Knowledge, 12 vols. (New York and London: Funk and Wagnalls, 1908-1914). Online at Christian Classics Ethereal Library.",
+  "url": "https://ccel.org/ccel/schaff/encyc",
+  "license": "public_domain",
+  "type": "Reference encyclopedia"
+ },
+ "ce1913": {
+  "short": "Catholic Encyclopedia (1913)",
+  "full_citation": "Charles G. Herbermann et al., eds., The Catholic Encyclopedia, 15 vols. (New York: Robert Appleton Company, 1907-1912; Encyclopedia Press, 1913). Online at New Advent.",
+  "url": "https://www.newadvent.org/cathen/",
+  "license": "public_domain",
+  "type": "Reference encyclopedia"
+ },
+ "eb1911": {
+  "short": "Encyclopaedia Britannica, 11th ed. (1911)",
+  "full_citation": "Hugh Chisholm, ed., Encyclopaedia Britannica, 11th ed., 29 vols. (Cambridge: Cambridge University Press, 1910-1911). Online at Wikisource.",
+  "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica",
+  "license": "public_domain",
+  "type": "Reference encyclopedia"
+ },
+ "walker1918": {
+  "short": "Walker, A History of the Christian Church",
+  "full_citation": "Williston Walker, A History of the Christian Church (New York: Charles Scribner's Sons, 1918). Online at Internet Archive.",
+  "url": "https://archive.org/details/ahistorychristi01walkgoog",
+  "license": "public_domain",
+  "type": "Church history"
+ },
+ "dcb": {
+  "short": "Wace and Piercy, Dictionary of Christian Biography",
+  "full_citation": "Henry Wace and William C. Piercy, eds., A Dictionary of Christian Biography and Literature to the End of the Sixth Century A.D. (London: John Murray, 1911). Online at Christian Classics Ethereal Library.",
+  "url": "https://ccel.org/ccel/wace/biodict",
+  "license": "public_domain",
+  "type": "Reference dictionary"
+ },
+ "mcs": {
+  "short": "McClintock and Strong, Cyclopaedia",
+  "full_citation": "John McClintock and James Strong, Cyclopaedia of Biblical, Theological, and Ecclesiastical Literature, 12 vols. (New York: Harper and Brothers, 1867-1887). Online at biblicalcyclopedia.com.",
+  "url": "https://www.biblicalcyclopedia.com/",
+  "license": "public_domain",
+  "type": "Reference encyclopedia"
+ },
+ "ere": {
+  "short": "Hastings, Encyclopaedia of Religion and Ethics",
+  "full_citation": "James Hastings, ed., Encyclopaedia of Religion and Ethics, 13 vols. (Edinburgh: T. and T. Clark, 1908-1926). Online at Internet Archive.",
+  "url": "https://archive.org/details/encyclopaediaofr01hast",
+  "license": "public_domain",
+  "type": "Reference encyclopedia"
+ },
+ "census1916": {
+  "short": "US Census, Religious Bodies 1916",
+  "full_citation": "United States Bureau of the Census, Religious Bodies: 1916, part 2, Separate Denominations: History, Description, and Statistics (Washington: Government Printing Office, 1919). Online at Internet Archive.",
+  "url": "https://archive.org/details/cu31924031020948",
+  "license": "public_domain",
+  "type": "Census and statistics"
+ },
+ "census1926": {
+  "short": "US Census, Religious Bodies 1926",
+  "full_citation": "United States Bureau of the Census, Religious Bodies: 1926, vol. 2, Separate Denominations: Statistics, History, Doctrine, Organization, and Work (Washington: Government Printing Office, 1929). Online at Internet Archive.",
+  "url": "https://archive.org/details/religiousbodies10002unit_t6k8",
+  "license": "public_domain",
+  "type": "Census and statistics"
+ },
+ "encyclopedia-com": {
+  "short": "Encyclopedia.com (Gale reference works)",
+  "full_citation": "Articles from New Catholic Encyclopedia, 2nd ed. (Gale, 2003), Encyclopedia of Religion, 2nd ed. (Macmillan Reference USA, 2005) and related Gale reference works, as hosted at Encyclopedia.com.",
+  "url": "https://www.encyclopedia.com/",
+  "license": "copyright",
+  "type": "Reference encyclopedia"
+ },
+ "pew2011": {
+  "short": "Pew, Global Christianity (2011)",
+  "full_citation": "Pew Research Center, Global Christianity: A Report on the Size and Distribution of the World's Christian Population (Washington: Pew Research Center, December 2011).",
+  "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-exec/",
+  "license": "copyright",
+  "type": "Census and statistics"
+ },
+ "pew2017-orth": {
+  "short": "Pew, Orthodox Christianity in the 21st Century (2017)",
+  "full_citation": "Pew Research Center, Orthodox Christianity in the 21st Century (Washington: Pew Research Center, November 2017).",
+  "url": "https://www.pewresearch.org/religion/2017/11/08/orthodox-christianity-in-the-21st-century/",
+  "license": "copyright",
+  "type": "Census and statistics"
+ },
+ "arda": {
+  "short": "Association of Religion Data Archives (ARDA)",
+  "full_citation": "The Association of Religion Data Archives, religious group profiles and timelines (University Park, PA: Pennsylvania State University).",
+  "url": "https://www.thearda.com/",
+  "license": "copyright",
+  "type": "Census and statistics"
+ },
+ "wcc": {
+  "short": "World Council of Churches member profiles",
+  "full_citation": "World Council of Churches, Member Churches and church family profiles (Geneva: World Council of Churches).",
+  "url": "https://www.oikoumene.org/member-churches",
+  "license": "copyright",
+  "type": "Church bodies"
+ },
+ "lwf": {
+  "short": "Lutheran World Federation",
+  "full_citation": "Lutheran World Federation, member church directory and statistics (Geneva: Lutheran World Federation).",
+  "url": "https://lutheranworld.org/",
+  "license": "copyright",
+  "type": "Church bodies"
+ },
+ "wmc": {
+  "short": "World Methodist Council",
+  "full_citation": "World Methodist Council, member churches directory.",
+  "url": "https://worldmethodistcouncil.org/",
+  "license": "copyright",
+  "type": "Church bodies"
+ }
+}

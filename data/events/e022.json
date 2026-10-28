@@ -1,0 +1,49 @@
+{
+ "id": "e022",
+ "name": "Council of Constance",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1414 to 1418",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Constance",
+     "url": "https://www.newadvent.org/cathen/04288a.htm",
+     "excerpt": "A (partly) ecumenical council held at Constance , now in the Grand Duchy of Baden, from 5 Nov., 1414, to 22 April, 1418.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Council that ended the Western Schism and acted against the teachings of John Wyclif and John Hus.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Constance",
+     "url": "https://www.newadvent.org/cathen/04288a.htm",
+     "excerpt": "Its forty-five general sessions were devoted to three chief purposes: (I) The Extinction of the So-Called Western Schism",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Constance",
+     "url": "https://www.newadvent.org/cathen/04288a.htm",
+     "excerpt": "At various times the council dealt with current heresies , among them those of John Wyclif and John Hus .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:01:38+00:00"
+}

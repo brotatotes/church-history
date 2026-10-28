@@ -1,0 +1,94 @@
+{
+ "id": "g009",
+ "name": "Novatianists",
+ "stream": "early",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "251, Rome",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Novatianus",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Novatianus",
+     "excerpt": "when Cornelius was elected his successor in March or April 251, Novatian objected on account of his known laxity on the above-mentioned point of discipline, and allowed himself to be consecrated bishop by the minority who shared his views. He and his followers were excommunicated by the synod held at Rome in October of the same year.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Novatian, Roman presbyter",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Novatianus",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Novatianus",
+     "excerpt": "NOVATIANUS, Roman presbyter, and one of the earliest antipopes, founder of the sect of the Novatiani or Novatians",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "about two centuries after its origin",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Novatianus",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Novatianus",
+     "excerpt": "the sect finally disappeared some two centuries after its origin.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Refused readmission to communion for those who had sacrificed to idols after baptism, called themselves katharoi (the pure) and rebaptized converts.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Novatianus",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Novatianus",
+     "excerpt": "he maintained the view which excluded from ecclesiastical communion all those (lapsi) who after baptism had sacrificed to idols",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Novatianus",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Novatianus",
+     "excerpt": "they called themselves καθαροί , or Puritans, and rebaptized their converts from the Catholic view.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A rigorist church that separated at Rome over the readmission of those who lapsed in persecution and spread across the empire.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Novatianus",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Novatianus",
+     "excerpt": "After his death the Novatians spread rapidly over the empire",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Novatianism"
+ ],
+ "researched_at": "2026-10-28T16:20:37+00:00"
+}

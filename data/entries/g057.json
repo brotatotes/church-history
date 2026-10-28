@@ -1,0 +1,59 @@
+{
+ "id": "g057",
+ "name": "Church of Norway",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "16th-century Reformation under Christian III of Denmark and Norway",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Church of Norway, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-norway",
+     "excerpt": "King Christian III, ruler of Denmark and Norway, at the time of the Reformation, accepted the Lutheran faith. By the end of the 16th century the Reformation had penetrated most levels of life in Norway.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Lutheran church of Norway, historically a state church.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-norway",
+     "excerpt": "Historically the Church of Norway has been a state church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The Lutheran church of Norway, historically a state church to which most Norwegians belong."
+  },
+  {
+   "field": "size_today",
+   "value": "3.8 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-norway",
+     "excerpt": "Membership 3 800 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Norway, Christianity in"
+ ],
+ "researched_at": "2026-10-28T16:32:54+00:00"
+}

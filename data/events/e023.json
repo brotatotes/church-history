@@ -1,0 +1,51 @@
+{
+ "id": "e023",
+ "name": "Council of Florence",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1438 to 1439",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Florence",
+     "url": "https://www.newadvent.org/cathen/06111a.htm",
+     "excerpt": "The Ferrara Council opened on 8 January, 1438",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Florence",
+     "url": "https://www.newadvent.org/cathen/06111a.htm",
+     "excerpt": "in a special meeting of the Greeks, on 13 and 14 April, 1439",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Council at Ferrara and Florence where Latin and Greek representatives proclaimed a decree of union.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Council of Florence",
+     "url": "https://www.newadvent.org/cathen/06111a.htm",
+     "excerpt": "On 6 July, however, the famous decree of union (Laetentur Coeli), the original which is still preserved in the Laurentian Library at Florence , was formally announced in the cathedral of that city",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Florence, Council of"
+ ],
+ "researched_at": "2026-10-28T17:01:38+00:00"
+}

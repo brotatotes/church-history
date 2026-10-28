@@ -1,0 +1,88 @@
+{
+ "id": "g054",
+ "name": "Unity of the Brethren",
+ "stream": "med",
+ "parent": "g053",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1457, Kunwald in Bohemia",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Bohemian Brethren",
+     "url": "https://www.newadvent.org/cathen/02616a.htm",
+     "excerpt": "are the current popular designation of the Unitas Fratrum founded in Bohemia in 1457, renewed by Count Zinzendorf in 1722, and still active in our own day.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 6, § 40, The Hussites",
+     "url": "https://ccel.org/ccel/schaff/hcc6/hcc6.iii.vi.x.html",
+     "excerpt": "It appears distinctly for the first time in 1457, and continued to grow till the time of the Reformation.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Gregory, nephew of the Utraquist preacher Rokycana",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Bohemian Brethren",
+     "url": "https://www.newadvent.org/cathen/02616a.htm",
+     "excerpt": "The originator of the new sect was a certain Gregory, a nephew of the leading Calixtine preacher, Rokyzana",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g053",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Bohemian Brethren",
+     "url": "https://www.newadvent.org/cathen/02616a.htm",
+     "excerpt": "This happened in 1467 at the synod of Lhotka, near Reichenau , where also all those present were rebaptized.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Bohemian church that ordained its own ministry at the synod of Lhotka in 1467. After 1620 its members were offered the choice between Catholicism and exile.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Bohemian Brethren",
+     "url": "https://www.newadvent.org/cathen/02616a.htm",
+     "excerpt": "This happened in 1467 at the synod of Lhotka, near Reichenau , where also all those present were rebaptized.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Bohemian Brethren",
+     "url": "https://www.newadvent.org/cathen/02616a.htm",
+     "excerpt": "Ferdinand II, after his victory over the rebellious Bohemians at the white Mountain near Prague (1620), offered them the choice between Catholicism and exile.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A Bohemian church with its own ministry from 1467. After 1620 many members went into exile in Poland and Hungary, and the church was renewed by Zinzendorf in 1722."
+  }
+ ],
+ "odcc_lookup": [
+  "Bohemian Brethren",
+  "Moravian Brethren"
+ ],
+ "researched_at": "2026-10-28T16:31:46+00:00"
+}

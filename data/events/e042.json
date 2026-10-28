@@ -1,0 +1,56 @@
+{
+ "id": "e042",
+ "name": "American Methodist organization",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1784 (Christmas Conference, opened 24 December)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "a special conference was called, which opened on the 24th of December 1784, in the suburbs of Baltimore, Maryland. This convention organized itself into a Methodist Episcopal Church",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A conference near Baltimore organized American Methodists as the Methodist Episcopal Church, with Thomas Coke and Francis Asbury as superintendents.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "Wesley also appointed Thomas Coke and Francis Asbury “to be joint superintendents over our brethren in North America.”",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "This convention organized itself into a Methodist Episcopal Church",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "a special conference was called, which opened on the 24th of December 1784, in the suburbs of Baltimore, Maryland.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:06:44+00:00"
+}

@@ -1,0 +1,59 @@
+{
+ "id": "g040",
+ "name": "Syro-Malabar Catholic Church",
+ "stream": "cat",
+ "parent": "g015",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1599, Synod of Diamper",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Eastern Churches, 6. Uniat Church of Malabar",
+     "url": "https://www.newadvent.org/cathen/05230a.htm",
+     "excerpt": "There is also a Catholic Church of Malabar formed by the Synod of Diamper in 1599.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g015",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "St. Thomas Christians, XIV",
+     "url": "https://www.newadvent.org/cathen/14678a.htm",
+     "excerpt": "Out of the entire body of 200,000 Syrian Christians only some 400 individuals remained faithful.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Catholic Saint Thomas Christians of Malabar, to whom the Holy See granted native bishops.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "St. Thomas Christians, XVII",
+     "url": "https://www.newadvent.org/cathen/14678a.htm",
+     "excerpt": "During this period the Holy See decided on a change of regime, yielding to the wishes of the people to grant them native bishops .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The Catholic Saint Thomas Christians of Kerala, under Latin bishops until the Holy See granted native bishops in three vicariates in the 1890s."
+  }
+ ],
+ "odcc_lookup": [
+  "Malabar Christians"
+ ],
+ "researched_at": "2026-10-28T16:28:12+00:00"
+}

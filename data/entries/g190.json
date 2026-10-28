@@ -1,0 +1,55 @@
+{
+ "id": "g190",
+ "name": "Evangelicalism (transdenominational)",
+ "stream": "ref",
+ "parent": "g065",
+ "overlay": true,
+ "influenced": [
+  "g081",
+  "g098",
+  "g117",
+  "g069",
+  "g074",
+  "g134",
+  "g183"
+ ],
+ "status": "placeholder",
+ "lane_note": "Still being researched",
+ "facts": [
+  {
+   "field": "size_today",
+   "value": "More than 285 million evangelical Christians (2010 estimate)",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "more than 285 million Christians are classified by the CSGC as evangelical, either because they belong to churches affiliated with regional or global evangelical associations or because they identify as evangelicals.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A transdenominational category. Many Pentecostals and Charismatics are also evangelicals.",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "Because many pentecostals and charismatics also are evangelicals, these categories are not mutually exclusive",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Evangelicalism",
+  "Evangelical Revival",
+  "Great Awakening"
+ ],
+ "researched_at": "2026-10-28T16:55:41+00:00",
+ "research_notes": "Overlay. No approved source found yet defining origin date (18th-century revivals). Placeholder overlay; influenced list provisional. ODCC needed."
+}

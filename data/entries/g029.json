@@ -1,0 +1,73 @@
+{
+ "id": "g029",
+ "name": "Church of Greece",
+ "stream": "orth",
+ "parent": "g025",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1850, declared autocephalous",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Church of Greece, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-greece",
+     "excerpt": "In 1850 the Endemousa Synod in Constantinople declared the Church of Greece autocephalous.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g025",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-greece",
+     "excerpt": "Before that, it was an integral part of the Ecumenical Patriarchate of Constantinople.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Orthodox church of Greece, originally entrusted to a five-member synod whose permanent president was the Metropolitan of Athens.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-greece",
+     "excerpt": "The Church of Greece was originally entrusted to a synod, consisting of five members. The permanent president was the Metropolitan of Athens.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The autocephalous Orthodox church of Greece, governed by a synod presided over by the Metropolitan of Athens."
+  },
+  {
+   "field": "size_today",
+   "value": "about 10 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-greece",
+     "excerpt": "Membership 10 003 402",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Greece, Christianity in"
+ ],
+ "researched_at": "2026-10-28T16:25:53+00:00"
+}

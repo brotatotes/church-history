@@ -1,0 +1,80 @@
+{
+ "id": "g046",
+ "name": "Philippine Independent Church",
+ "stream": "cat",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1902",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Philippine Independent Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/philippine-independent-church",
+     "excerpt": "It was in this context that the Philippine Independent Church was born in 1902, out of the aspiration of the Filipinos for genuine independence, democracy and abundant life.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Gregorio Aglipay (theological leader, died 1941)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/philippine-independent-church",
+     "excerpt": "Under the theological leadership of Bishop Gregorio Aglipay, the IFI adopted a Unitarian stance, but after his death in 1941 it returned to a more Catholic position",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A church that, partly through the appeal of nationalism, drew some two million former Roman Catholics. In intercommunion with the Philippine Episcopal Church since 1961.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/philippine-independent-church",
+     "excerpt": "Partly because of the appeal of nationalism, the church drew some two million former Roman Catholics into its membership.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/philippine-independent-church",
+     "excerpt": "entered in 1961 into inter-communion with the Philippine Episcopal Church with which it now shares a seminary.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A Filipino national church that drew about two million former Roman Catholics. It returned to a Catholic position after 1941 and has been in intercommunion with the Philippine Episcopal Church since 1961."
+  },
+  {
+   "field": "size_today",
+   "value": "6 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/philippine-independent-church",
+     "excerpt": "Membership 6 000 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Philippine Independent Church"
+ ],
+ "researched_at": "2026-10-28T16:29:48+00:00"
+}

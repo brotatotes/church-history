@@ -1,0 +1,96 @@
+{
+ "id": "g011",
+ "name": "Arians",
+ "stream": "early",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "318, or 323",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 3, § 119, The Arian Controversy down to the Council of Nicaea, 318-325",
+     "url": "https://ccel.org/ccel/schaff/hcc3/hcc3.iii.xii.iii.html",
+     "excerpt": "From the outbreak of the controversy to the temporary victory of orthodoxy at the council of Nicaea; a.d. 318–325.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "eb1911",
+     "value": "Outbreak placed in 323, after the fall of Licinius",
+     "excerpt": "there are good reasons for assigning the outbreak of the controversy to the time following the overthrow of Licinius by Constantine, i.e. to the year 323.",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Arius"
+    }
+   ],
+   "value_before_verify": "318 to 319, or 323"
+  },
+  {
+   "field": "founders",
+   "value": "Arius",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Arius (G. Krüger)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Arius",
+     "excerpt": "ARIUS ( Ἄρειος ), a name celebrated in ecclesiastical history, not so much on account of the personality of its bearer as of the “Arian” controversy which he provoked.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Arius, presbyter of Alexandria"
+  },
+  {
+   "field": "distinctives",
+   "value": "Taught that the Son is the first creature of God, made from nothing before time, and not eternal.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 3, § 126, Arianism",
+     "url": "https://ccel.org/ccel/schaff/hcc3/hcc3.iii.xii.viii.html",
+     "excerpt": "But on the other hand, he himself is a creature, that is to say, the first creation of God, through whom the Father called other creatures into existence; he was created out of nothing",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "continued among Germanic peoples until it gave way to medieval Catholicism",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Arius",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Arius",
+     "excerpt": "It lived to flourish anew among the Germanic tribes at the time of the great migrations. Goths, Vandals, Suebi, Burgundians and Langobardi embraced it; here too as a distinctive national type of Christianity it perished before the growth of medieval Catholicism",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Followers of Arius's teaching on the Son, condemned at Nicaea in 325, who later formed the churches of several Germanic peoples.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Arius",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Arius",
+     "excerpt": "This took, place at the first oecumenical council, which was convened in Nicaea ( q.v. ) in 325. After various turns in the controversy, it was finally decided, against Arius, that the Son was “of the same substance” ( ὁμοούσιος ) with the Father",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Arianism"
+ ],
+ "researched_at": "2026-10-28T16:21:07+00:00"
+}

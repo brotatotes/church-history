@@ -1,0 +1,80 @@
+{
+ "id": "g106",
+ "name": "National Baptist Convention, USA",
+ "stream": "bap",
+ "parent": "g098",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1880 origin, 1886 founding, 1895 merger",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "National Baptist Convention USA, Inc., member profile",
+     "url": "https://www.oikoumene.org/member-churches/national-baptist-convention-usa-inc",
+     "excerpt": "Founded in 1886, the National Baptist Convention, USA, Inc. is the oldest and largest African American religious convention in the USA.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/national-baptist-convention-usa-inc",
+     "excerpt": "In 1895, this convention merged with two other conventions to form the National Baptist Convention of the United States of America.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/national-baptist-convention-usa-inc",
+     "excerpt": "The 1880 meeting and the formation of the Foreign Mission Convention was accepted as the origin of the National Baptist Convention, USA, Incorporated.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The oldest and largest African American religious convention in the United States. It does not exercise administrative or doctrinal control over member churches.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/national-baptist-convention-usa-inc",
+     "excerpt": "the convention does not have administrative or doctrinal control over any of its membership",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "National Baptist Convention USA, Inc., member profile",
+     "url": "https://www.oikoumene.org/member-churches/national-baptist-convention-usa-inc",
+     "excerpt": "the National Baptist Convention, USA, Inc. is the oldest and largest African American religious convention in the USA.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "7.5 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/national-baptist-convention-usa-inc",
+     "excerpt": "Membership 7 500 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "National Baptist Convention"
+ ],
+ "researched_at": "2026-10-28T16:44:23+00:00",
+ "research_notes": "Source itself gives 1880, 1886 and 1895; all recorded."
+}

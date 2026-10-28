@@ -1,0 +1,88 @@
+{
+ "id": "g152",
+ "name": "Adventist movement (Millerites)",
+ "stream": "rest",
+ "parent": "g098",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1831, William Miller's preaching",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "The sects of Adventists are the outcome of a religious agitation begun by William Miller (1781-1849) in 1831, after a minute study of the prophecies of the Bible .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "William Miller",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "begun by William Miller (1781-1849) in 1831",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Belief in the near, personal return of Christ.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "hold in common a belief in the near return of Christ in person",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Miller predicted Christ's return in 1843, and a follower revised it to 22 October 1844. After the expected date passed, followers met at Albany in 1845 and the movement divided into several bodies.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "Snow, one of his disciples, set himself to correct Miller's calculations, and in his turn announced the end of the world for 22 October, 1844.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "The faithful followers of Miller next met in conference at Albany , N.Y., in 1845",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "Miller concluded that the world would come to an end, and Christ would return, in A.D. 1843.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Adventists",
+  "Miller, William"
+ ],
+ "researched_at": "2026-10-28T16:51:55+00:00",
+ "research_notes": "Miller was a Baptist; candidate parent Baptists kept as lane parent but no split_from fact sourced."
+}

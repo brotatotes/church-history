@@ -1,0 +1,49 @@
+{
+ "id": "e019",
+ "name": "Fourth Lateran Council",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1215 (opened 11 November)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Fourth Lateran Council (1215)",
+     "url": "https://www.newadvent.org/cathen/09018a.htm",
+     "excerpt": "The council did in fact meet on 11 November, and its sessions were prolonged until the end of the month.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Council assembled by Pope Innocent III that issued seventy decrees on doctrine and discipline.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Fourth Lateran Council (1215)",
+     "url": "https://www.newadvent.org/cathen/09018a.htm",
+     "excerpt": "From the commencement of his reign Innocent III had purposed to assemble an ecumenical council",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Fourth Lateran Council (1215)",
+     "url": "https://www.newadvent.org/cathen/09018a.htm",
+     "excerpt": "the pope presented to the council seventy decrees or canons, already formulated, on the most important points of dogmatic and moral theology .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:01:38+00:00"
+}

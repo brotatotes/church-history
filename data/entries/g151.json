@@ -1,0 +1,57 @@
+{
+ "id": "g151",
+ "name": "Christian Churches and Churches of Christ",
+ "stream": "rest",
+ "parent": "g148",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Gradual separation, completed around 1968",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Christian Churches and Churches of Christ, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=175",
+     "excerpt": "Until recent decades an integral part of the Christian Church (Disciples of Christ), these congregations gradually separated as the Disciples of Christ became more centrally organized in 1968.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g149",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=175",
+     "excerpt": "Until recent decades an integral part of the Christian Church (Disciples of Christ)",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A decentralized movement derived from the Restoration Movement.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=175",
+     "excerpt": "The Christian Churches and Churches of Christ is a decentralized movement derived from the Restoration Movement",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A decentralized fellowship of independent Restoration congregations."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:51:54+00:00"
+}

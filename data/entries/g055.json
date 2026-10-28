@@ -1,0 +1,88 @@
+{
+ "id": "g055",
+ "name": "Lutheran churches",
+ "stream": "lut",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "31 October 1517, Luther's Ninety-five Theses",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 7, § 31, The Ninety-five Theses. Oct. 31, 1517",
+     "url": "https://ccel.org/ccel/schaff/hcc7/hcc7.ii.iii.iii.html",
+     "excerpt": "Accordingly, on the memorable thirty-first day of October, 1517, which has ever since been celebrated in Protestant Germany as the birthday of the Reformation, at twelve o’clock he affixed (either himself or through another) to the doors of the castle-church at Wittenberg, ninety-five Latin Theses on the subject of indulgences",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Martin Luther",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Lutherans (T. M. Lindsay)",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lutherans",
+     "excerpt": "LUTHERANS, the general title given to those Christians who have adopted the principles of Martin Luther in his opposition to the Roman Church, to the followers of Calvin, and to the sectaries of the times of the Reformation.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "The Augsburg Confession and Luther's Short Catechism contain the distinctive principles all Lutherans maintain.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Lutherans",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lutherans",
+     "excerpt": "The Augsburg Confession and Luther’s Short Catechism may therefore be said to contain the distinctive principles which all Lutherans are bound to maintain",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The Augsburg Confession and Luther's Small Catechism, with the three early creeds, are accepted by all Lutherans. Wider standards are gathered in the Book of Concord."
+  },
+  {
+   "field": "size_today",
+   "value": "about 10% of the world's Protestants",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Global Christianity, Christian Movements and Denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "the largest distinct denominational families are Anglican (about 11% of the broad Protestant category), Lutheran (about 10%), Baptist (9%) and Reformed/Presbyterian (7%).",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Churches following Luther's reformation, known as Evangelical in distinction from the Reformed.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Lutherans",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lutherans",
+     "excerpt": "Their distinctive name is the Evangelical , as opposed to the Reformed church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Lutheranism",
+  "Augsburg Confession"
+ ],
+ "researched_at": "2026-10-28T16:32:53+00:00"
+}

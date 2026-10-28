@@ -1,0 +1,38 @@
+{
+ "id": "g036",
+ "name": "Eastern Catholic churches",
+ "stream": "cat",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "description",
+   "value": "Christians of Eastern rites in communion with the pope, each generally corresponding to a separated Eastern church.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Eastern Churches, Eastern Catholic Churches",
+     "url": "https://www.newadvent.org/cathen/05230a.htm",
+     "excerpt": "The definition of an Eastern-Rite Catholic is: A Christian of any Eastern rite in union with the pope : i.e. a Catholic who belongs not to the Roman, but to an Eastern rite. They differ from other Eastern Christians in that they are in communion with Rome , and from Latins in that they have other rites.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Eastern Churches",
+     "url": "https://www.newadvent.org/cathen/05230a.htm",
+     "excerpt": "and lastly the Catholic Eastern Rites corresponding in each case to a schismatical body.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Eastern Catholic Churches",
+  "Uniat(e)"
+ ],
+ "researched_at": "2026-10-28T16:27:25+00:00",
+ "research_notes": "Family of churches with different dates; dates are on member entries. No single start date. Relationship (communion with Rome) is sourced."
+}

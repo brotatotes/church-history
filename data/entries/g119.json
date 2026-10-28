@@ -1,0 +1,79 @@
+{
+ "id": "g119",
+ "name": "Methodist Episcopal Church, South",
+ "stream": "meth",
+ "parent": "g118",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1845, Louisville convention",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Methodism",
+     "url": "https://www.newadvent.org/cathen/10237b.htm",
+     "excerpt": "The Southern delegates held a convention at Louisville , Kentucky , in 1845, at which the \"Methodist Episcopal Church, South\" was formed.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g118",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Methodism",
+     "url": "https://www.newadvent.org/cathen/10237b.htm",
+     "excerpt": "The withdrawal of the slave-holding states from the general body now appeared unavoidable, and a \"Plan of Separation\" was elaborated and accepted.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "1939, united into the Methodist Church",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "United Methodist Church",
+     "url": "https://www.oikoumene.org/member-churches/united-methodist-church",
+     "excerpt": "In 1939 the Methodist Episcopal Church (South), the Methodist Protestant Church, and the Methodist Episcopal Church united into the Methodist Church",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed when the Methodist Episcopal Church divided over slavery after the 1844 General Conference dispute over a slaveholding bishop, under a Plan of Separation.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Methodism",
+     "url": "https://www.newadvent.org/cathen/10237b.htm",
+     "excerpt": "The withdrawal of the slave-holding states from the general body now appeared unavoidable, and a \"Plan of Separation\" was elaborated and accepted.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "Bishop James Osgood Andrew (1794–1871), a native of the South, had, by inheritance and marriage, become a slaveholder.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Formed when the Methodist Episcopal Church divided over slavery after the 1844 General Conference dispute over a slaveholding bishop."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:47:50+00:00"
+}

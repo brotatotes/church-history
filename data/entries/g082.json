@@ -1,0 +1,66 @@
+{
+ "id": "g082",
+ "name": "Anglican Communion",
+ "stream": "ang",
+ "parent": "g081",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Name first used in the 19th century. First Lambeth Conference 1867",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Anglican Communion",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Anglican_Communion",
+     "excerpt": "The necessity for such a phrase as “Anglican Communion,” first used in the 19th century",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Anglican Communion",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Anglican_Communion",
+     "excerpt": "instituted by Archbishop Longley in 1867, and known as the Lambeth Conferences",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "wcc",
+     "value": "1784, consecration of the bishop of Connecticut by Scottish bishops",
+     "excerpt": "the action of the Scottish bishops in consecrating the bishop of Connecticut in 1784 is seen as the moment when the Anglican communion was founded.",
+     "url": "https://www.oikoumene.org/member-churches/scottish-episcopal-church"
+    }
+   ]
+  },
+  {
+   "field": "description",
+   "value": "The worldwide body of churches in communion with the Church of England. Most Anglicans belong to it, and it recognizes the archbishop of Canterbury as its focus for unity.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Anglican Communion",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Anglican_Communion",
+     "excerpt": "ANGLICAN COMMUNION, the name used to denote that great branch of the Christian Church consisting of the various churches in communion with the Church of England.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "pew2011",
+     "locator": "traditions",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-traditions/",
+     "excerpt": "The great majority of Anglicans are members of churches that are part of the international Anglican Communion, which recognizes the archbishop of Canterbury as its “Focus for Unity.”",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Anglican Communion",
+  "Lambeth Conferences"
+ ],
+ "researched_at": "2026-10-28T16:39:20+00:00"
+}

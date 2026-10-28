@@ -1,0 +1,124 @@
+{
+ "id": "g148",
+ "name": "Stone–Campbell movement",
+ "stream": "rest",
+ "parent": "g069",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Early 19th century. Stone's group took the name Christians in 1804. Stone and Campbell followers united at Lexington in January 1832",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Disciples of Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Disciples_of_Christ",
+     "excerpt": "in 1804 with his five fellow ministers signed “The Last Will and Testament of the Springfield Presbytery,” giving up that name and calling themselves “Christians.”",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Disciples of Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Disciples_of_Christ",
+     "excerpt": "in January 1832 at Lexington, Kentucky, the followers of the Campbells and those of Stone (who had stressed union more than primitive Christianity) united.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g069",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Disciples of Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Disciples_of_Christ",
+     "excerpt": "Stone had been a Presbyterian minister prominent in the Kentucky revival of 1801",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Christian Churches and Churches of Christ, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=175",
+     "excerpt": "by Barton Stone, Thomas and Alexander Campbell (former Presbyterians), and Walter Scott (a former Baptist).",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Barton W. Stone, Thomas Campbell, Alexander Campbell, Walter Scott",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Disciples of Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Disciples_of_Christ",
+     "excerpt": "founded by Thomas Campbell, his son Alexander Campbell ( q.v. ) and Barton Warren Stone (1772–1844).",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Christian unity through restoring New Testament faith and practice, believers' immersion, and weekly Lord's Supper.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Christian Church (Disciples of Christ), member profile",
+     "url": "https://www.oikoumene.org/member-churches/christian-church-disciples-of-christ-in-the-united-states",
+     "excerpt": "Both groups were established as Christian unity movements, seeking to overcome the historic divisions transplanted from Europe and the British Isles to the North American continent, through an appeal to the restoration of the New Testament faith.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Disciples of Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Disciples_of_Christ",
+     "excerpt": "his two great desires were for Christian unity and the restoration of the ancient order of things.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "An American restoration movement on the frontier. The Campbells' Reformers joined the Baptists in 1813 and were separated from them by 1832.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Disciples of Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Disciples_of_Christ",
+     "excerpt": "in 1832 the Reformers were practically all ruled out of the Baptist communion.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Christian Church (Disciples of Christ), member profile",
+     "url": "https://www.oikoumene.org/member-churches/christian-church-disciples-of-christ-in-the-united-states",
+     "excerpt": "was established on the American frontier in the early 1800s",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Disciples of Christ",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Disciples_of_Christ",
+     "excerpt": "the hyper-Calvinism of the Baptists whom they had joined in 1813",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Disciples of Christ",
+  "Campbell, Alexander",
+  "Stone, Barton Warren"
+ ],
+ "researched_at": "2026-10-28T16:51:53+00:00",
+ "research_notes": "Candidate parent was Baptists; sources say founders were former Presbyterians, Campbells joined Baptists 1813-1832. Lane parent g069 Presbyterian; disagreement noted in draft-diff."
+}

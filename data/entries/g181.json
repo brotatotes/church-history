@@ -1,0 +1,44 @@
+{
+ "id": "g181",
+ "name": "Evangelical Church in Germany",
+ "stream": "united",
+ "parent": "g055",
+ "overlay": false,
+ "status": "placeholder",
+ "lane_note": "Still being researched",
+ "facts": [
+  {
+   "field": "description",
+   "value": "A federation of twenty Lutheran, Reformed and United regional churches in Germany, each retaining its independence.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Evangelical Church in Germany, member profile",
+     "url": "https://www.oikoumene.org/member-churches/evangelical-church-in-germany",
+     "excerpt": "Twenty Lutheran, Reformed and United regional churches (Landeskirchen) form the Evangelical Church in Germany.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 26.2 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/evangelical-church-in-germany",
+     "excerpt": "Membership 26 211 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Evangelical Church in Germany (EKD)"
+ ],
+ "researched_at": "2026-10-28T16:54:29+00:00",
+ "research_notes": "Founding date (1945/1948) not stated in WCC profile; placeholder until sourced (ODCC)."
+}

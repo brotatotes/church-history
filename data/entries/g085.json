@@ -1,0 +1,89 @@
+{
+ "id": "g085",
+ "name": "Oxford Movement / Anglo-Catholicism",
+ "stream": "ang",
+ "parent": "g081",
+ "overlay": true,
+ "influenced": [
+  "g081",
+  "g082",
+  "g083",
+  "g084"
+ ],
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "14 July 1833, Keble's sermon on National Apostasy",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Oxford Movement, The (1833-1845)",
+     "url": "https://www.newadvent.org/cathen/11370a.htm",
+     "excerpt": "Keble's sermon in itself not very striking on \"National Apostasy\", had marked 14 July, 1833, as the birthday of a \"second Reformation .\"",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "John Keble, John Henry Newman, Richard Hurrell Froude",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Oxford Movement",
+     "url": "https://www.newadvent.org/cathen/11370a.htm",
+     "excerpt": "The first three tracts are dated 9 September, 1833. Newman and Froude, after their voyage to the Mediterranean in Dec. 1832, had returned in the midst of an agitation in which they were speedily caught up.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Oxford Movement, The (1833-1845)",
+     "url": "https://www.newadvent.org/cathen/11370a.htm",
+     "excerpt": "Keble's sermon in itself not very striking on \"National Apostasy\", had marked 14 July, 1833, as the birthday of a \"second Reformation .\"",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A movement in the Church of England, also called Tractarian after the Tracts for the Times (1833-1841), stressing the Holy Catholic Church as a visible body on earth. Newman, its leader in the Anglican phase, joined the Roman Catholic Church in 1845.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Oxford Movement",
+     "url": "https://www.newadvent.org/cathen/11370a.htm",
+     "excerpt": "\"The conception which lay at its base,\" according to the Royal Commission on Ecclesiastical Discipline, 1906, \"was that of the Holy Catholic Church as a visible body upon earth, bound together by a spiritual but absolute unity, though divided into national and other sections.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Oxford Movement",
+     "url": "https://www.newadvent.org/cathen/11370a.htm",
+     "excerpt": "That is the point of view maintained in the \"Tracts for the Times\" from 1833 to 1841, which gave its familiar name to the \"Tractarian\" Movement.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Oxford Movement",
+     "url": "https://www.newadvent.org/cathen/11370a.htm",
+     "excerpt": "And as Newman had been leader in the Anglican phase of the movement, so he opened the way towards Rome , submitted to it in 1845",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A movement in the Church of England, also called Tractarian after the Tracts for the Times (1833-1841), stressing the church as a visible Catholic body in unbroken continuity with the early church. Newman later joined the Roman Catholic Church in 1845."
+  }
+ ],
+ "odcc_lookup": [
+  "Oxford Movement",
+  "Tractarianism",
+  "Anglo-Catholicism"
+ ],
+ "researched_at": "2026-10-28T16:39:21+00:00",
+ "research_notes": "Only CE 1913 found; EB1911 has no Oxford Movement or Tractarianism article. ODCC needed for modern check."
+}

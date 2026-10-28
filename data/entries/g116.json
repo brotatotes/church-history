@@ -1,0 +1,110 @@
+{
+ "id": "g116",
+ "name": "Amana / Community of True Inspiration",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1714, under Eberhard Ludwig Gruber in Wetterau",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Amana",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Amana",
+     "excerpt": "The Society became attached to the Separatist leader, Eberhard Ludwig Gruber (d. 1728) in Wetterau in 1714",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Associated with Eberhard Ludwig Gruber from 1714. Christian Metz led the emigration",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Amana",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Amana",
+     "excerpt": "in 1842–1844 about 600 members, led by Christian Metz, the “divine instrument” of the Society, emigrated from Germany to the United States and settled in a colony called Ebenezer",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Amana",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Amana",
+     "excerpt": "The Society became attached to the Separatist leader, Eberhard Ludwig Gruber (d. 1728) in Wetterau in 1714",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Eberhard Ludwig Gruber. Christian Metz led the emigration"
+  },
+  {
+   "field": "distinctives",
+   "value": "Belief in present-day inspiration. Communal property, opposition to war and oaths, and no baptism.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Amana",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Amana",
+     "excerpt": "formerly the True Inspiration Society (so called from its belief in the present inspiration of the truly godly and perfectly pious)",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Amana",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Amana",
+     "excerpt": "The Inspirationists are opposed to war and to taking of oaths.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Amana",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Amana",
+     "excerpt": "Baptism is not practised",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A German communal religious society. About 600 members moved to Ebenezer near Buffalo, New York, in 1842-1844 and from 1855 to Amana, Iowa.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Amana",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Amana",
+     "excerpt": "in 1842–1844 about 600 members, led by Christian Metz, the “divine instrument” of the Society, emigrated from Germany to the United States and settled in a colony called Ebenezer",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Amana",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Amana",
+     "excerpt": "The township is the home of a German religious communistic society, the Amana Society",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Amana",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Amana",
+     "excerpt": "in 1855 the colony began to remove to its present home",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A German communal religious society that moved to New York in 1842-1844 and then to Amana, Iowa."
+  }
+ ],
+ "odcc_lookup": [
+  "Inspirationists"
+ ],
+ "researched_at": "2026-10-28T16:45:26+00:00",
+ "research_notes": "Radical Pietist Separatists; parent kept Pietism overlay id g059 as lane anchor. Lane parent g055 (Lutheran); Pietism is an overlay, influence recorded on g059."
+}

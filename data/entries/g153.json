@@ -1,0 +1,88 @@
+{
+ "id": "g153",
+ "name": "Seventh-day Adventist Church",
+ "stream": "rest",
+ "parent": "g152",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "Formed into a body by 1845, emerging from the Millerite movement after 1844",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "They were formed into a body in 1845.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "arda",
+     "value": "1844 (ARDA date range)",
+     "excerpt": "Seventh-day Adventist Church (1844 - Present) - Religious Group",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=743"
+    }
+   ]
+  },
+  {
+   "field": "split_from",
+   "value": "g152",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Seventh-day Adventist Church, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=743",
+     "excerpt": "The Seventh-day Adventist Church grew out of the work of William Miller, who predicted the Second Coming of Christ in 1843/44.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Ellen G. White and James White",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=743",
+     "excerpt": "Some who continued as Adventists and also accepted sabbath worship found new leadership in the persons of Ellen G. White and James White.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Seventh-day Sabbath, the dead unconscious until judgment, and the prophetic gift as held by Ellen G. White.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "These hold to the observance of the seventh day of the week as the Sabbath . They believe that the dead remain unconscious until Judgment , when the wicked will be destroyed.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Adventists",
+     "url": "https://www.newadvent.org/cathen/01166a.htm",
+     "excerpt": "believe the prophetic gift is still communicated, and was possessed latterly by Mrs. E.G. White in particular.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Seventh-day Adventists",
+  "White, Ellen Gould"
+ ],
+ "researched_at": "2026-10-28T16:51:55+00:00",
+ "research_notes": "ARDA text says 'formally organized in 1965' which appears to be an error (General Conference 1863 is the standard date); not used. ODCC lookup for 1863."
+}

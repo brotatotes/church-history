@@ -1,0 +1,104 @@
+{
+ "id": "g024",
+ "name": "Eastern Orthodox churches",
+ "stream": "orth",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1054, mutual separation of Rome and Constantinople",
+   "date_precision": "disputed",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Orthodox Eastern Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Orthodox_Eastern_Church",
+     "excerpt": "the final break came in 1054, when Pope Leo IX. smote Michael Cerularius and the whole of the Eastern Church with an excommunication.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 4, § 69, Progress and Completion of the Schism. Cerularius",
+     "url": "https://ccel.org/ccel/schaff/hcc4/hcc4.i.v.v.html",
+     "excerpt": "Finally, on the 16th of July, 1054, they excommunicated the patriarch and all those who should persistently censure the faith of the church of Rome",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [
+    {
+     "source_id": "eb1911",
+     "value": "Ffoulkes argues the permanent estrangement came with the crusades and the sack of Constantinople in 1204",
+     "excerpt": "there was a resumption of intercourse more than once between Rome and Constantinople after 1054, and that the overbearing character of the Norman crusaders, and finally the horrors of the sack of Constantinople in the fourth crusade  (1204), were the real causes of the permanent estrangement.",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Orthodox_Eastern_Church"
+    }
+   ]
+  },
+  {
+   "field": "distinctives",
+   "value": "Rejects the Latin addition of Filioque to the creed. Divided into 15 self-governing jurisdictions.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Orthodox Eastern Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Orthodox_Eastern_Church",
+     "excerpt": "the ostensible cause of its finality was the introduction by the Latins of two words Filioque into the creed. [ 2 ] It is this addition which was and which still remains the permanent cause of separation.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "pew2017-orth",
+     "locator": "Sidebar",
+     "url": "https://www.pewresearch.org/religion/2017/11/08/orthodox-christianity-in-the-21st-century/",
+     "excerpt": "Eastern Orthodoxy is split into 15 jurisdictions heavily centered in Central and Eastern Europe, accounting for the remaining 80% of Orthodox Christians.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Rejects the Western addition of Filioque to the creed and the papal claims of Rome. Organized as national self-governing churches."
+  },
+  {
+   "field": "size_today",
+   "value": "about 260 million Orthodox Christians (Eastern and Oriental together, 2010), about 80% of them Eastern Orthodox",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Global Christianity, Orthodox Christian section",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-traditions/",
+     "excerpt": "There are about 260 million Orthodox Christians, making up 12% of the global Christian population.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "pew2017-orth",
+     "locator": "Sidebar",
+     "url": "https://www.pewresearch.org/religion/2017/11/08/orthodox-christianity-in-the-21st-century/",
+     "excerpt": "accounting for the remaining 80% of Orthodox Christians.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The family of Orthodox churches centred in Central and Eastern Europe.",
+   "citations": [
+    {
+     "source_id": "pew2017-orth",
+     "locator": "Sidebar",
+     "url": "https://www.pewresearch.org/religion/2017/11/08/orthodox-christianity-in-the-21st-century/",
+     "excerpt": "Eastern Orthodoxy is split into 15 jurisdictions heavily centered in Central and Eastern Europe",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The family of Chalcedonian churches of the East in communion with the Ecumenical Patriarch of Constantinople, centered in Eastern Europe."
+  }
+ ],
+ "odcc_lookup": [
+  "Orthodox Church",
+  "Filioque",
+  "Schism, East-West"
+ ],
+ "researched_at": "2026-10-28T16:25:07+00:00"
+}

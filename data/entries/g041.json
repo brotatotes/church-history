@@ -1,0 +1,68 @@
+{
+ "id": "g041",
+ "name": "Ukrainian Greek Catholic Church",
+ "stream": "cat",
+ "parent": "g036",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1595 to 1596, Union of Brest",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Ruthenians",
+     "url": "https://www.newadvent.org/cathen/13278a.htm",
+     "excerpt": "It was Little Russia which united with the Holy See in 1595, in the great reunion of the Greek Church",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Polish Autocephalous Orthodox Church, member profile",
+     "url": "https://www.oikoumene.org/member-churches/polish-autocephalous-orthodox-church",
+     "excerpt": "The 1596 Union of Brest, for which the Jesuits were mainly responsible, provoked determined resistance from the majority of the nobility in the east of what was then Poland",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g024",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Ruthenian Rite",
+     "url": "https://www.newadvent.org/cathen/13277a.htm",
+     "excerpt": "When, therefore, the Ruthenians came into union with the Holy See in 1595, they brought with them in their liturgical books several of the usages and formulae which Nikon afterwards corrected at Moscow in the Orthodox Church .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Byzantine-rite Catholics, called Ruthenians in older sources. Pressure from the Russian government in 1795, 1839 and 1875 ended the Greek Catholic communities of Little Russia.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Ruthenians",
+     "url": "https://www.newadvent.org/cathen/13278a.htm",
+     "excerpt": "it was in Little Russia where the pressure of the Russian Government was brought to bear in 1795, 1839, and 1875, whereby the Greek Catholics of Little Russia were utterly wiped out",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Byzantine-rite Catholics of Ukraine (called Ruthenians in older sources). Under Russian rule many were forcibly absorbed into Orthodoxy in 1795, 1839 and 1875."
+  }
+ ],
+ "odcc_lookup": [
+  "Ukrainian Catholic Church",
+  "Brest-Litovsk, Union of"
+ ],
+ "researched_at": "2026-10-28T16:28:51+00:00",
+ "research_notes": "CE says 1595 (reunion agreed in Rome), WCC says 1596 (Synod of Brest). Both recorded in start fact."
+}

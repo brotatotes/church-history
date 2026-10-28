@@ -1,0 +1,49 @@
+{
+ "id": "e010",
+ "name": "Second Council of Constantinople",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "553 (5 May to 2 June)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Second Council of Constantinople",
+     "url": "https://www.newadvent.org/cathen/04308b.htm",
+     "excerpt": "This council was held at Constantinople (5 May-2 June, 553), having been called by Emperor Justinian.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Council called by Justinian that condemned the Three Chapters.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Second Council of Constantinople",
+     "url": "https://www.newadvent.org/cathen/04308b.htm",
+     "excerpt": "Eight sessions were held, the result of which was the final condemnation of the Three Chapters by the 165 bishops present at the last session (2 June, 553)",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Second Council of Constantinople",
+     "url": "https://www.newadvent.org/cathen/04308b.htm",
+     "excerpt": "This council was held at Constantinople (5 May-2 June, 553), having been called by Emperor Justinian.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:51+00:00"
+}

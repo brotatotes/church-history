@@ -1,0 +1,42 @@
+{
+ "id": "e005",
+ "name": "Edict of Milan",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "313",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 25, The Edicts of Toleration. a.d. 311–313",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.iv.xiv.html",
+     "excerpt": "A few months afterwards Constantine met at Milan with his co-regent and brother-in-law, Licinius, and issued a new edict of toleration (313)",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Edict of toleration for Christians issued by the emperors Constantine and Licinius at Milan.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 2, § 25, The Edicts of Toleration. a.d. 311–313",
+     "url": "https://ccel.org/ccel/schaff/hcc2/hcc2.v.iv.xiv.html",
+     "excerpt": "A few months afterwards Constantine met at Milan with his co-regent and brother-in-law, Licinius, and issued a new edict of toleration (313)",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:50+00:00"
+}

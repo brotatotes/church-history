@@ -1,0 +1,60 @@
+{
+ "id": "g164",
+ "name": "Swedenborgian / New Church",
+ "stream": "non",
+ "parent": "g081",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "7 May 1787, London",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "New Jerusalem Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_Jerusalem_Church",
+     "excerpt": "to the formal organization of the New Jerusalem Church on the 7th of May 1787.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Followers of Emanuel Swedenborg, who did not found a church himself",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "New Jerusalem Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_Jerusalem_Church",
+     "excerpt": "Swedenborg himself took no steps to found a church, but having given a new interpretation of Scripture, it was inevitable that those who accepted his doctrine should separate themselves and organize a society in accordance therewith.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Followers of Swedenborg's interpretation of Scripture. The American General Convention was formed at Philadelphia in 1817.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "New Jerusalem Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_Jerusalem_Church",
+     "excerpt": "the General Convention, which meets annually, was formed at Philadelphia in 1817.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Swedenborg, Emanuel",
+  "New Jerusalem Church"
+ ],
+ "researched_at": "2026-10-28T16:53:30+00:00",
+ "research_notes": "Candidate parent Early Christian Church; lane parent set g081 (early adherents were Anglicans and Wesleyans). No split_from."
+}

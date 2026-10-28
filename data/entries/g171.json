@@ -1,0 +1,96 @@
+{
+ "id": "g171",
+ "name": "Christian Science / Church of Christ, Scientist",
+ "stream": "non",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1879, Church of Christ, Scientist in Boston. Teaching from about 1866",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Science",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Science",
+     "excerpt": "In 1879 she became the pastor of a “Church of Christ, Scientist,” in Boston",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Science",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Science",
+     "excerpt": "which was originated in America about 1866 by Mrs Mary Baker Glover Eddy",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Mary Baker Eddy",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Church of Christ, Scientist, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=186",
+     "excerpt": "The Church of Christ, Scientist grew out of the experiences, work, and writings of Mary Baker Eddy.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Man's essential nature is spiritual and nothing is real but Mind. Matter and sickness are states of error dispelled by true knowledge of God. Text: Science and Health with Key to the Scriptures.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Science",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Science",
+     "excerpt": "There is but one Mind, one God, one Christ, and nothing real but Mind. Matter and sickness are subjective states of error, delusions which can be dispelled by the mental process of a true knowledge of God and Christ, or Christian science.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Science",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Science",
+     "excerpt": "Mrs Eddy had published in the preceding year a book entitled Science and Health, with Key to the Scriptures",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Christian Science",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Christian_Science",
+     "excerpt": "She based her teaching on the Bible, and on the principles that man’s essential nature is spiritual",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Man's nature is spiritual and only Mind is real. Sickness is treated as mental error healed by spiritual means. Text: Science and Health with Key to the Scriptures (1875)."
+  },
+  {
+   "field": "description",
+   "value": "A church that defines itself as Christian in essence, unlike most metaphysical churches with which it is compared.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=186",
+     "excerpt": "It defines itself as Christian in essence, a major difference between it and most other \"metaphysical\" churches with which it is often compared.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Defines itself as Christian in essence, unlike most metaphysical churches it is compared with."
+  }
+ ],
+ "odcc_lookup": [
+  "Christian Science",
+  "Eddy, Mary Baker"
+ ],
+ "researched_at": "2026-10-28T16:53:31+00:00"
+}

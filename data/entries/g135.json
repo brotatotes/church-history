@@ -1,0 +1,64 @@
+{
+ "id": "g135",
+ "name": "Church of God in Christ",
+ "stream": "pent",
+ "parent": "g134",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1894. Became Pentecostal 1907",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Church of God in Christ, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=200",
+     "excerpt": "was founded in 1894 by Charles H. Mason. In 1907, Mason took most of the body into Pentecostalism.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Charles H. Mason",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=200",
+     "excerpt": "founded in 1894 by Charles H. Mason.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The largest of the predominantly Black Pentecostal churches. In 1907 Mason took most of the body into Pentecostalism, and those who remained formed the Church of Christ (Holiness) U.S.A.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=200",
+     "excerpt": "The Church of God in Christ, the largest of the several predominantly black Pentecostal churches",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=200",
+     "excerpt": "In 1907, Mason took most of the body into Pentecostalism. Those who remained were organized by Elder Charles Prince Jones as the Church of Christ (Holiness) U.S.A.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The largest of the predominantly Black Pentecostal churches. Members who did not follow Mason into Pentecostalism formed the Church of Christ (Holiness) U.S.A."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:49:46+00:00"
+}

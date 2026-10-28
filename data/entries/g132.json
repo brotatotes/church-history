@@ -1,0 +1,67 @@
+{
+ "id": "g132",
+ "name": "Salvation Army",
+ "stream": "meth",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1865, London, as the Christian Mission. Named Salvation Army 1878-1880",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Salvation Army",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Salvation_Army",
+     "excerpt": "SALVATION ARMY, a religious philanthropic organization founded by William Booth ( q.v. ), who in 1865 began to hold meetings for preaching in the streets in London",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Salvation Army",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Salvation_Army",
+     "excerpt": "In 1878 the Mission, which had spread beyond London, was reorganized on a quasi-military basis, and the title of “The Salvation Army” was definitely adopted in June 1880.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "William and Catherine Booth",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Salvation Army",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Salvation_Army",
+     "excerpt": "Booth was assisted by his Wife, Catherine Booth",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "An organization best known for its social work and military-style organization. It is also a Holiness denomination.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Salvation Army, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=726",
+     "excerpt": "Though best known for its social work and its military organization, it is also a Holiness denomination.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "An evangelical and charitable organization with a military-style structure. It is also a Holiness denomination."
+  }
+ ],
+ "odcc_lookup": [
+  "Salvation Army",
+  "Booth, William"
+ ],
+ "researched_at": "2026-10-28T16:49:45+00:00"
+}

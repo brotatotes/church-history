@@ -1,0 +1,57 @@
+{
+ "id": "g147",
+ "name": "Association of Vineyard Churches",
+ "stream": "pent",
+ "parent": "g134",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1986",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Association of Vineyard Churches, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=90",
+     "excerpt": "The Association of Vineyard Churches is a conservative evangelical fellowship founded in 1986 by evangelical teacher John Wimber (d. 1997), formerly associated with Calvary Chapel.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "John Wimber",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=90",
+     "excerpt": "founded in 1986 by evangelical teacher John Wimber (d. 1997)",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A church network distinct from historically Pentecostal denominations.",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "These church networks, such as the Vineyard Christian Fellowship based in California, are distinct from historically pentecostal denominations.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A network of charismatic congregations, distinct from historically Pentecostal denominations."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:49:48+00:00"
+}

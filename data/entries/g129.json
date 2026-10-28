@@ -1,0 +1,80 @@
+{
+ "id": "g129",
+ "name": "Holiness churches",
+ "stream": "meth",
+ "parent": "g117",
+ "overlay": true,
+ "influenced": [
+  "g117",
+  "g118",
+  "g124",
+  "g125",
+  "g130",
+  "g131",
+  "g132",
+  "g133",
+  "g134",
+  "g137",
+  "g138"
+ ],
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "19th century, United States",
+   "date_precision": "century",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Movements and denominations, Defining Christian Movements",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "Pentecostalism has roots in the 19th-century Holiness Movement, which promoted intense personal piety.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g117",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Holiness Family profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/families?F=93",
+     "excerpt": "Holiness churches emerged out of the Methodist churches in the United States as they sought to restore John Wesley's teachings of personal holiness and total sanctification (perfection).",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A movement from American Methodism seeking to restore Wesley's teaching on personal holiness and total sanctification. Its churches include the Church of the Nazarene and several Church of God bodies.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Holiness Family profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/families?F=93",
+     "excerpt": "Holiness churches emerged out of the Methodist churches in the United States as they sought to restore John Wesley's teachings of personal holiness and total sanctification (perfection).",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Holiness Family profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/families?F=93",
+     "excerpt": "Holiness bodies include the Church of the Nazarene and the various Church of God denominations.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A movement from American Methodism seeking to restore Wesley's teaching on personal holiness and entire sanctification. Its churches include the Church of the Nazarene and several Church of God bodies."
+  }
+ ],
+ "odcc_lookup": [
+  "Holiness Movement"
+ ],
+ "researched_at": "2026-10-28T16:49:44+00:00",
+ "research_notes": "Overlay per Eric decision 3. Child lines re-parented to g117 Methodism lane where candidate parent was g129."
+}

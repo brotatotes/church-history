@@ -1,0 +1,51 @@
+{
+ "id": "g114",
+ "name": "Evangelical Covenant Church",
+ "stream": "lut",
+ "parent": "g055",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1885",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Evangelical Covenant Church, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=307",
+     "excerpt": "The Evangelical Covenant Church, a Swedish Pietist church, was founded in 1885 as a merger of the Swedish Lutheran Mission Synod and the Swedish Lutheran Ansgarius Synod to form the Swedish Evangelical Mission Covenant Church of America.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Swedish Pietist church in the United States, founded in 1885 by a merger of two Swedish Lutheran synods. Its name was shortened in stages in 1937, 1957 and 1983.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=307",
+     "excerpt": "In 1937, the \"Swedish\" was dropped; in 1957, the word \"mission\" was dropped; and in 1983, the words \"of America\" were dropped.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Evangelical Covenant Church, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=307",
+     "excerpt": "a Swedish Pietist church, was founded in 1885 as a merger of the Swedish Lutheran Mission Synod and the Swedish Lutheran Ansgarius Synod",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A church of Swedish Pietist origin in the United States. Its name was shortened in stages in 1937, 1957 and 1983."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:45:25+00:00",
+ "research_notes": "Lane parent g055 (Lutheran); Pietism is an overlay, influence recorded on g059."
+}

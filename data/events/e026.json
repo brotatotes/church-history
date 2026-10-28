@@ -1,0 +1,50 @@
+{
+ "id": "e026",
+ "name": "Diet of Worms",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1521",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 7, § 53, The Diet of Worms. 1521",
+     "url": "https://ccel.org/ccel/schaff/hcc7/hcc7.ii.iii.xxiii.html",
+     "excerpt": "On the 28th of January, 1521, Charles V. opened his first Diet at Worms.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Imperial diet under Charles V before which Luther was cited to appear after his excommunication.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 7, § 53",
+     "url": "https://ccel.org/ccel/schaff/hcc7/hcc7.ii.iii.xxiii.html",
+     "excerpt": "At the very beginning of the Diet a new papal brief called upon the Emperor to give, by an imperial edict, legal force to the bull of January 3, by which Luther was finally excommunicated",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 7, § 53, The Diet of Worms. 1521",
+     "url": "https://ccel.org/ccel/schaff/hcc7/hcc7.ii.iii.xxiii.html",
+     "excerpt": "he cited Luther to appear before the Diet within twenty-one days under the sure protection of the Empire.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Imperial assembly under Charles V before which Luther appeared after his excommunication."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:01:39+00:00"
+}

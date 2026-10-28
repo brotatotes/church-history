@@ -1,0 +1,15 @@
+{
+ "id": "inc",
+ "name": "Iglesia ni Cristo",
+ "stream": "non",
+ "parent": null,
+ "overlay": false,
+ "status": "placeholder",
+ "lane_note": "Still being researched",
+ "facts": [],
+ "odcc_lookup": [
+  "Iglesia ni Cristo"
+ ],
+ "researched_at": "2026-10-28T16:56:29+00:00",
+ "research_notes": "Eric decision 2: placeholder. Checked 2026-10-28: encyclopedia.com URL guesses 404; not in WCC members, ARDA US profiles not checked yet, EB1911/CE1913 predate it (founded 20th c.). Self-description from the group's own site may be used for description only. Next: ARDA search, encyclopedia.com search page, ODCC. Turn 3 (2026-10-28 17:09Z): encyclopedia.com iglesia-ni-cristo URLs 404; ARDA site search returned no profile; only web hit with founding facts is Britannica.com, which is not an approved source. Remains placeholder pending ODCC or another approved modern source."
+}

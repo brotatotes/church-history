@@ -1,0 +1,50 @@
+{
+ "id": "e013",
+ "name": "Second Council of Nicaea",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "787",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Second Council of Nicaea",
+     "url": "https://www.newadvent.org/cathen/11045a.htm",
+     "excerpt": "Seventh Ecumenical Council of the Catholic Church , held in 787.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Seventh Ecumenical Council, which sanctioned the veneration of images.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 4, § 100",
+     "url": "https://ccel.org/ccel/schaff/hcc4/hcc4.i.x.x.html",
+     "excerpt": "The reaction in favor of image-worship, and its solemn sanction by the second Council of Nicaea, a.d. 754–787.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "ce1913",
+     "locator": "Second Council of Nicaea",
+     "url": "https://www.newadvent.org/cathen/11045a.htm",
+     "excerpt": "Seventh Ecumenical Council of the Catholic Church , held in 787.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Seventh ecumenical council, which sanctioned the veneration of images."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:51+00:00"
+}

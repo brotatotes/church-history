@@ -1,0 +1,50 @@
+{
+ "id": "e002",
+ "name": "Destruction of Jerusalem",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "70 (temple burned 10 August)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 1, § 38, The Jewish War and the Destruction of Jerusalem",
+     "url": "https://ccel.org/ccel/schaff/hcc1/hcc1.i.VI.38.html",
+     "excerpt": "It was burned on the tenth of August, a.d. 70, the same day of the year on which, according to tradition, the first temple was destroyed by Nebuchadnezzar.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Titus, son of the emperor Vespasian, conducted the Jewish war and destroyed Jerusalem and its temple.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 1, § 38",
+     "url": "https://ccel.org/ccel/schaff/hcc1/hcc1.i.VI.38.html",
+     "excerpt": "His son, Titus, who himself ten years after became emperor",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 1, § 38, The Jewish War and the Destruction of Jerusalem",
+     "url": "https://ccel.org/ccel/schaff/hcc1/hcc1.i.VI.38.html",
+     "excerpt": "then undertook the prosecution of the Jewish war, and became the instrument in the hand of God of destroying the holy city and the temple.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Roman forces under Titus destroyed Jerusalem and its temple."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:00:49+00:00"
+}

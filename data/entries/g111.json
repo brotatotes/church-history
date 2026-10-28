@@ -1,0 +1,72 @@
+{
+ "id": "g111",
+ "name": "Friends General Conference",
+ "stream": "free",
+ "parent": "g110",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1900, seven Hicksite yearly meetings",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Friends General Conference, member profile",
+     "url": "https://www.oikoumene.org/member-churches/religious-society-of-friends-friends-general-conference",
+     "excerpt": "In 1900, seven yearly meetings which were involved in these groups joined to form Friends General Conference.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g110",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/religious-society-of-friends-friends-general-conference",
+     "excerpt": "It had its beginnings just before 1900 when four Hicksite groups decided to meet annually at the same time and place.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Everyone has direct access to God through the Inner Light. Worship is expectant waiting upon God.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/religious-society-of-friends-friends-general-conference",
+     "excerpt": "FGC Friends believe that everyone has direct access to God through the Inner Light or Inner Christ. Worship is based on expectant waiting upon and communion with God.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 32,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/religious-society-of-friends-friends-general-conference",
+     "excerpt": "Membership 32 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Hicks, Elias"
+ ],
+ "researched_at": "2026-10-28T16:45:25+00:00"
+}

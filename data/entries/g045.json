@@ -1,0 +1,87 @@
+{
+ "id": "g045",
+ "name": "Old Catholic Mariavite Church",
+ "stream": "cat",
+ "parent": "g043",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1906, Warsaw",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Old-Catholic Mariavite Church in Poland, member profile",
+     "url": "https://www.oikoumene.org/member-churches/old-catholic-mariavite-church-in-poland",
+     "excerpt": "This community was founded in 1906 in Warsaw by a diocesan priest and a sister of the Third Order of Franciscans.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Stresses veneration of the Eucharist and the Virgin Mary. Recognizes the first seven ecumenical councils but not papal primacy or infallibility.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/old-catholic-mariavite-church-in-poland",
+     "excerpt": "They stressed the veneration of the eucharist and the blessed Virgin Mary.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/old-catholic-mariavite-church-in-poland",
+     "excerpt": "The new church recognized the first seven ecumenical councils but rejected papal primacy and infallibility.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A church received into the Old Catholics in 1909 that is no longer a member of the Union of Utrecht.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/old-catholic-mariavite-church-in-poland",
+     "excerpt": "Negotiations with the members of the Utrecht Union culminated in the reception of the Mariavites into the Old-Catholics at their congress in Vienna in 1909.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/old-catholic-mariavite-church-in-poland",
+     "excerpt": "Currently the church is not a member of the Old-Catholic Union of Utrecht.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A Polish church that grew from Franciscan-rule communities. It joined the Old Catholics in 1909 but is no longer a member of the Union of Utrecht."
+  },
+  {
+   "field": "size_today",
+   "value": "29,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/old-catholic-mariavite-church-in-poland",
+     "excerpt": "Membership 29 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Mariavites"
+ ],
+ "researched_at": "2026-10-28T16:29:48+00:00"
+}

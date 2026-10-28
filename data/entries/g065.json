@@ -1,0 +1,80 @@
+{
+ "id": "g065",
+ "name": "Reformed churches",
+ "stream": "ref",
+ "parent": "g035",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1519 to 1523, Zwingli's reform in Zurich",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 8, § 11, Zwingli's Public Labors and Private Studies",
+     "url": "https://ccel.org/ccel/schaff/hcc8/hcc8.iv.iii.ii.html",
+     "excerpt": "Zwingli began his duties in Zurich on his thirty-sixth birthday (Jan. 1, 1519) by a sermon on the genealogy of Christ",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 8, § 18, The Public Disputations. 1523",
+     "url": "https://ccel.org/ccel/schaff/hcc8/hcc8.iv.iii.ix.html",
+     "excerpt": "The first disputation was held in the city hall on Thursday, Jan. 29, 1523, in the German language, before about six hundred persons, including all the clergy and members of the small and large Councils of Zurich.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Huldrych Zwingli, later John Calvin",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Reformed Churches",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Reformed_Churches",
+     "excerpt": "REFORMED CHURCHES, the name assumed by those Protestant bodies who adopted the tenets of Zwingli (and later of Calvin), as distinguished from those of the Lutheran or Evangelical divines.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Reject both transubstantiation and the Lutheran view of the Lord's Supper, and many ceremonies and symbols that Lutherans kept.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Reformed Churches",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Reformed_Churches",
+     "excerpt": "The great difference is in the attitude towards the Lord’s Supper, the Reformed or Calvinistic Churches repudiating not only transubstantiation but also the Lutheran consubstantiation. They also reject the use of crucifixes and other symbols and ceremonies retained by the Lutherans.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "Reformed and Presbyterian together about 7% of the world's Protestants",
+   "citations": [
+    {
+     "source_id": "pew2011",
+     "locator": "Christian Movements and Denominations",
+     "url": "https://www.pewresearch.org/religion/2011/12/19/global-christianity-movements-and-denominations/",
+     "excerpt": "Baptist (9%) and Reformed/Presbyterian (7%).",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Reformed Churches",
+  "Zwingli, Huldrych"
+ ],
+ "researched_at": "2026-10-28T16:35:07+00:00"
+}

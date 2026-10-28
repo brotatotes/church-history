@@ -1,0 +1,45 @@
+{
+ "id": "e044",
+ "name": "Prussian Union",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1817",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Prussia",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Prussia",
+     "excerpt": "The Evangelical or Protestant State Church of Prussia consists as it now stands of a union of the Lutherans and Calvinists, effected under royal pressure in 1817.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Union of Lutheran and Reformed churches in Prussia under royal pressure, described by the king as an external union for shared communion and liturgy rather than a fusion of the two faiths.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Prussia",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Prussia",
+     "excerpt": "consists as it now stands of a union of the Lutherans and Calvinists, effected under royal pressure in 1817. According to the king this was not a fusion of two faiths but an external union for mutual admission to the Eucharist and for the convenience of using the same liturgy",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Union of Lutheran and Reformed churches in Prussia under the king, described by him as an external union for shared communion and liturgy rather than a fusion of the two faiths."
+  }
+ ],
+ "odcc_lookup": [
+  "Prussian Union"
+ ],
+ "researched_at": "2026-10-28T17:07:06+00:00"
+}

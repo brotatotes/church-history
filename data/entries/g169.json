@@ -1,0 +1,73 @@
+{
+ "id": "g169",
+ "name": "Bible Students",
+ "stream": "non",
+ "parent": "g152",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1879 periodical. International Bible Students Association in the 1880s",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "International Bible Students Association, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=1004",
+     "excerpt": "founded a periodical advocating his solution to the main questions concerning Christ's return in 1879, which led to his formation of the International Bible Students Association in the 1880s.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g152",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=1004",
+     "excerpt": "Charles Taze Russell, a Presbyterian influenced by several independent Adventists",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Charles Taze Russell",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=1004",
+     "excerpt": "Charles Taze Russell, a Presbyterian influenced by several independent Adventists",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "end",
+   "value": "1931, transformed into Jehovah's Witnesses",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=1004",
+     "excerpt": "That association was transformed into the Jehovah's Witnesses organization in 1931",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Russell, Charles Taze"
+ ],
+ "researched_at": "2026-10-28T16:53:31+00:00"
+}

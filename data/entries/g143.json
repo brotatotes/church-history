@@ -1,0 +1,30 @@
+{
+ "id": "g143",
+ "name": "Apostolic Faith Mission of South Africa",
+ "stream": "pent",
+ "parent": "g134",
+ "overlay": false,
+ "status": "placeholder",
+ "lane_note": "Still being researched",
+ "facts": [
+  {
+   "field": "size_today",
+   "value": "About 1.3 million members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Apostolic Faith Mission of South Africa, member profile",
+     "url": "https://www.oikoumene.org/member-churches/the-apostolic-faith-mission-of-south-africa",
+     "excerpt": "Membership 1 300 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Apostolic Faith Mission"
+ ],
+ "researched_at": "2026-10-28T16:49:47+00:00",
+ "research_notes": "WCC profile has no history. No approved source for founding date yet."
+}

@@ -1,0 +1,57 @@
+{
+ "id": "e018",
+ "name": "Concordat of Worms",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1122 (23 September)",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 5, § 21, The Concordat of Worms. 1122",
+     "url": "https://ccel.org/ccel/schaff/hcc5/hcc5.ii.v.iii.html",
+     "excerpt": "The Concordat of Worms was signed, Sept. 23, 1122. It was a compromise between the contending parties.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A compromise between pope and emperor, signed after a long struggle of fifty years over lay investiture of bishops.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 5, § 21",
+     "url": "https://ccel.org/ccel/schaff/hcc5/hcc5.ii.v.iii.html",
+     "excerpt": "Both parties, emperor and pope, were weary of the long struggle of fifty years",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 5, § 21",
+     "url": "https://ccel.org/ccel/schaff/hcc5/hcc5.ii.v.iii.html",
+     "excerpt": "After holding the Synod of Rheims, which ratified the prohibition of lay investiture",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 5, § 21, The Concordat of Worms. 1122",
+     "url": "https://ccel.org/ccel/schaff/hcc5/hcc5.ii.v.iii.html",
+     "excerpt": "The Concordat of Worms was signed, Sept. 23, 1122. It was a compromise between the contending parties.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Agreement between pope and emperor that settled the long struggle over lay investiture of bishops."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T17:01:37+00:00"
+}

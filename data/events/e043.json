@@ -1,0 +1,51 @@
+{
+ "id": "e043",
+ "name": "Second Great Awakening",
+ "stream": "event",
+ "parent": null,
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "about 1790 to 1840",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Timeline: The Second Great Awakening (P. Matzko)",
+     "url": "https://www.thearda.com/us-religion/history/timelines/entry?etype=1&eid=326",
+     "excerpt": "The Second Great Awakening - Timeline Event Time Period 1790 - 1840",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A series of revivals across American religious and public life, including the Cane Ridge revival in Kentucky organized by Barton Stone.",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "Timeline: The Second Great Awakening",
+     "url": "https://www.thearda.com/us-religion/history/timelines/entry?etype=1&eid=326",
+     "excerpt": "The Second Great Awakening was a diverse bundle of revivals affecting a broad swathe of American religious, political, and public life.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Timeline: The Second Great Awakening",
+     "url": "https://www.thearda.com/us-religion/history/timelines/entry?etype=1&eid=326",
+     "excerpt": "At Cane Ridge , Kentucky, preacher Barton Stone organized a massive week-long revival",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Great Awakening"
+ ],
+ "researched_at": "2026-10-28T17:08:07+00:00"
+}

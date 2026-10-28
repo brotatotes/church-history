@@ -1,0 +1,77 @@
+{
+ "id": "g144",
+ "name": "Pentecostal Church of Chile",
+ "stream": "pent",
+ "parent": "g134",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1945",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Pentecostal Church of Chile, member profile",
+     "url": "https://www.oikoumene.org/member-churches/pentecostal-church-of-chile",
+     "excerpt": "The Pentecostal Church of Chile was founded in 1945 by Bishop Chavez, who came out of the Methodist Pentecostal Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Bishop Chavez",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/pentecostal-church-of-chile",
+     "excerpt": "founded in 1945 by Bishop Chavez",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A Chilean Pentecostal church headquartered in Curico, which grew mainly among working-class and poor communities.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/pentecostal-church-of-chile",
+     "excerpt": "The growth of the church has been the result of an intensive evangelistic campaign, especially among the working class and marginal groups, and the poorest sectors of society.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Pentecostal Church of Chile, member profile",
+     "url": "https://www.oikoumene.org/member-churches/pentecostal-church-of-chile",
+     "excerpt": "Its headquarters are in Curico, about 200 kms south of Santiago.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "size_today",
+   "value": "About 125,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/pentecostal-church-of-chile",
+     "excerpt": "Membership 125 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:49:47+00:00"
+}

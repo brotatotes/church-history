@@ -1,0 +1,85 @@
+{
+ "id": "g125",
+ "name": "Free Methodist Church",
+ "stream": "meth",
+ "parent": "g118",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "August 1860",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism, Free Methodist Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "This body was organized in August 1860, and was the result of ten years of agitation.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "arda",
+     "locator": "Free Methodist Church – USA, group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=343",
+     "excerpt": "was founded in 1860 as the result of a split in the Genesee Conference of the Methodist Episcopal Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g118",
+   "citations": [
+    {
+     "source_id": "arda",
+     "locator": "group profile",
+     "url": "https://www.thearda.com/us-religion/group-profiles/groups?D=343",
+     "excerpt": "as the result of a split in the Genesee Conference of the Methodist Episcopal Church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "B. T. Roberts",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "The Rev. B. T. Roberts, the ablest among them, was reprimanded by the Bishop presiding in the Annual Conference, and next year he was expelled.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Organized in 1860 after ministers and members in the Genesee Conference of western New York denounced a decline of spirituality in the Methodist Episcopal Church. Its founders aimed to keep the usage and spirit of early Methodism.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "It was the purpose of the founders to conserve the usage and the spirit of primitive Methodism.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "eb1911",
+     "locator": "Methodism, Free Methodist Church",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Methodism",
+     "excerpt": "A number of ministers and members within the bounds of the Genesee Conference, in Western New York, in 1850, began to deplore and denounce the decline of spirituality in the Methodist Episcopal Church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Founded by ministers expelled after protesting a decline of spirituality in the Methodist Episcopal Church, aiming to keep early Methodist practice."
+  }
+ ],
+ "odcc_lookup": [],
+ "researched_at": "2026-10-28T16:47:52+00:00"
+}

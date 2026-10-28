@@ -1,0 +1,83 @@
+{
+ "id": "g016",
+ "name": "Oriental Orthodox churches",
+ "stream": "east",
+ "parent": "g001",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "after the Council of Chalcedon (5th century)",
+   "date_precision": "circa",
+   "citations": [
+    {
+     "source_id": "pew2017-orth",
+     "locator": "Sidebar: Eastern Orthodoxy vs. Oriental Orthodoxy",
+     "url": "https://www.pewresearch.org/religion/2017/11/08/orthodox-christianity-in-the-21st-century/",
+     "excerpt": "But Oriental Orthodoxy, which is considered “non-Chalcedonian,” teaches that Christ’s divine and human natures are unified, not separated.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 3, § 145, The Monophysite Sects",
+     "url": "https://ccel.org/ccel/schaff/hcc3/hcc3.iii.xii.xxix.html",
+     "excerpt": "These Christological schismatics stand, as if enchanted, upon the same position which they assumed in the fifth century. The Nestorians reject the third ecumenical council, the Monophysites the fourth",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "after the Council of Chalcedon, 451"
+  },
+  {
+   "field": "distinctives",
+   "value": "Reject the Christological definition of Chalcedon. Otherwise share most doctrines, institutions and rites with the Eastern Orthodox.",
+   "citations": [
+    {
+     "source_id": "schaff-hcc",
+     "locator": "Vol. 3, § 145",
+     "url": "https://ccel.org/ccel/schaff/hcc3/hcc3.iii.xii.xxix.html",
+     "excerpt": "With the exception of the Chalcedonian Christology, which they reject as Nestorian heresy, most of the doctrines, institutions, and rites of the Monophysite sects are common to them with the orthodox Greek church.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Do not accept the Christological definition of Chalcedon. Teach that Christ's divine and human natures are united. Otherwise share most doctrines and rites with the Eastern Orthodox."
+  },
+  {
+   "field": "size_today",
+   "value": "about 20% of the world's Orthodox population",
+   "citations": [
+    {
+     "source_id": "pew2017-orth",
+     "locator": "Sidebar",
+     "url": "https://www.pewresearch.org/religion/2017/11/08/orthodox-christianity-in-the-21st-century/",
+     "excerpt": "Oriental Orthodoxy has separate self-governing jurisdictions in Ethiopia, Egypt, Eritrea, India, Armenia and Syria, and it accounts for roughly 20% of the worldwide Orthodox population.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "A family of self-governing churches in Ethiopia, Egypt, Eritrea, India, Armenia and Syria.",
+   "citations": [
+    {
+     "source_id": "pew2017-orth",
+     "locator": "Sidebar",
+     "url": "https://www.pewresearch.org/religion/2017/11/08/orthodox-christianity-in-the-21st-century/",
+     "excerpt": "Oriental Orthodoxy has separate self-governing jurisdictions in Ethiopia, Egypt, Eritrea, India, Armenia and Syria",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Oriental Orthodox Churches",
+  "Monophysitism"
+ ],
+ "researched_at": "2026-10-28T16:22:33+00:00",
+ "research_notes": "Older sources say Monophysite. The churches themselves prefer miaphysite / non-Chalcedonian. Site uses Oriental Orthodox."
+}

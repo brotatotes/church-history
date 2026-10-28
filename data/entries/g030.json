@@ -1,0 +1,66 @@
+{
+ "id": "g030",
+ "name": "Church of Cyprus",
+ "stream": "orth",
+ "parent": "g024",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "autocephaly recognized at the Council of Ephesus, 431. Tradition names Barnabas as founder",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "Church of Cyprus, member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-cyprus",
+     "excerpt": "The Patriarchate of Antioch wanted to place the church under its jurisdiction, but the Council of Ephesus in 431, and later the emperor, recognized the autocephaly of the Church of Cyprus.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-cyprus",
+     "excerpt": "The Apostle Barnabas is regarded as the founder and first bishop of the local church",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The Orthodox church of Cyprus. Under French and Venetian rule from 1191 to 1570 the conquerors introduced a Latin hierarchy.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/church-of-cyprus",
+     "excerpt": "The period of French (1191-1489) and Venetian rule (1489-1570/1) that followed lasted for almost four centuries. The conquerors introduced a Latin hierarchy and took control of church affairs.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The autocephalous Orthodox church of Cyprus, under a Latin hierarchy during French and Venetian rule from 1191 to 1570."
+  },
+  {
+   "field": "size_today",
+   "value": "654,000 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/church-of-cyprus",
+     "excerpt": "Membership 654 000",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "Cyprus"
+ ],
+ "researched_at": "2026-10-28T16:25:54+00:00"
+}

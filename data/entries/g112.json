@@ -1,0 +1,81 @@
+{
+ "id": "g112",
+ "name": "Moravian Church (renewed Unitas Fratrum)",
+ "stream": "free",
+ "parent": "g054",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1722, renewal on Count Zinzendorf's estate. Spiritual outpouring 1727",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Bohemian Brethren (Unitas Fratrum)",
+     "url": "https://www.newadvent.org/cathen/02616a.htm",
+     "excerpt": "the Unitas Fratrum founded in Bohemia in 1457, renewed by Count Zinzendorf in 1722, and still active in our own day.",
+     "excerpt_type": "public_domain"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "Moravian Church in America, member profile",
+     "url": "https://www.oikoumene.org/member-churches/moravian-church-in-america",
+     "excerpt": "Following an outpouring of the Holy Spirit in 1727, a remarkable missionary effort began from Zinzendorf's estate in 1732 and has led to today's worldwide church.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g054",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/moravian-church-in-america",
+     "excerpt": "The Moravian Church comes out of the Hussite movement in Bohemia-Moravia in the 15th century.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "founders",
+   "value": "Nicolaus Ludwig, Count von Zinzendorf (renewal)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/moravian-church-in-america",
+     "excerpt": "they found a certain degree of religious freedom on the estate of a young Pietistic nobleman in German Saxony, named Count Zinzendorf.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "The renewed Unity of the Brethren. A missionary effort began from Zinzendorf's estate in 1732. Two thirds of Moravians today are in Tanzania and South Africa.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/moravian-church-in-america",
+     "excerpt": "Following an outpouring of the Holy Spirit in 1727, a remarkable missionary effort began from Zinzendorf's estate in 1732 and has led to today's worldwide church. Today two-thirds of all Moravians are in Tanzania and South Africa.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "The renewed Unity of the Brethren, known for missionary work since 1732. Two thirds of Moravians today are in Tanzania and South Africa."
+  }
+ ],
+ "odcc_lookup": [
+  "Moravian Brethren",
+  "Zinzendorf, Nikolaus Ludwig"
+ ],
+ "researched_at": "2026-10-28T16:45:25+00:00"
+}

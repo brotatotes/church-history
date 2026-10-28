@@ -1,0 +1,73 @@
+{
+ "id": "g038",
+ "name": "Melkite Greek Catholic Church",
+ "stream": "cat",
+ "parent": "g036",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1724, election of Cyril VI as Catholic patriarch of Antioch",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Melchites",
+     "url": "https://www.newadvent.org/cathen/10157b.htm",
+     "excerpt": "However, in 1724 Seraphim Tanas, who had studied at the Roman Propaganda , was elected Patriarch of Antioch by the latinizing party. He at once made his submission to Rome and sent a Catholic profession of faith .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "split_from",
+   "value": "g024",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Melchites",
+     "url": "https://www.newadvent.org/cathen/10157b.htm",
+     "excerpt": "From that time there have been two kinds of Melchites in these countries, the Catholic Melchites who kept the communion of Rome , and schismatical (Orthodox) Melchites who followed Constantinople",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "distinctives",
+   "value": "Follows the Byzantine (Orthodox) liturgy, ceremonial and calendar while acknowledging the authority of Rome.",
+   "citations": [
+    {
+     "source_id": "eb1911",
+     "locator": "Melchites",
+     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Melchites",
+     "excerpt": "They follow the Orthodox Eastern liturgy, ceremonial and calendar, but acknowledge the papal and doctrinal authority of Rome.",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Catholics of Syria, Palestine and Egypt who follow the Byzantine liturgy. The name Melkite first meant those who remained faithful to Chalcedon.",
+   "citations": [
+    {
+     "source_id": "ce1913",
+     "locator": "Melchites, Origin and name",
+     "url": "https://www.newadvent.org/cathen/10157b.htm",
+     "excerpt": "Melchites are the people of Syria , Palestine, and Egypt who remained faithful to the Council of Chalcedon (451) when the greater part turned Monophysite .",
+     "excerpt_type": "public_domain"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "Byzantine-rite Catholics of Syria, Palestine and Egypt. The name Melkite first meant those who accepted Chalcedon."
+  }
+ ],
+ "odcc_lookup": [
+  "Melkites"
+ ],
+ "researched_at": "2026-10-28T16:28:11+00:00"
+}

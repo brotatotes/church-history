@@ -1,0 +1,73 @@
+{
+ "id": "g175",
+ "name": "United Church of Canada",
+ "stream": "united",
+ "parent": "g117",
+ "overlay": false,
+ "status": "researched",
+ "lane_note": "",
+ "facts": [
+  {
+   "field": "start",
+   "value": "1925",
+   "date_precision": "exact",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "United Church of Canada, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-canada",
+     "excerpt": "The United Church of Canada came into being in 1925, bringing together the Congregational, Methodist and most Presbyterian (71 percent) churches in Canada.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  },
+  {
+   "field": "description",
+   "value": "Formed in 1925 by the Congregational, Methodist and most Presbyterian churches in Canada. It remains the largest non-Roman Catholic communion in Canada. The Canadian Evangelical United Brethren joined in 1968.",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-canada",
+     "excerpt": "The new church began as, and remains, the largest non-Roman communion in Canada.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-canada",
+     "excerpt": "In 1968, the Canada Conference of the Evangelical United Brethren Church joined the church.",
+     "excerpt_type": "short_quote"
+    },
+    {
+     "source_id": "wcc",
+     "locator": "United Church of Canada, member profile",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-canada",
+     "excerpt": "The United Church of Canada came into being in 1925, bringing together the Congregational, Methodist and most Presbyterian (71 percent) churches in Canada.",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": [],
+   "value_before_verify": "A union of Congregational, Methodist and most Presbyterian churches in Canada, the largest non-Roman Catholic church there. The Canadian Evangelical United Brethren joined in 1968."
+  },
+  {
+   "field": "size_today",
+   "value": "About 608,243 members (WCC figure)",
+   "citations": [
+    {
+     "source_id": "wcc",
+     "locator": "member profile, Membership",
+     "url": "https://www.oikoumene.org/member-churches/united-church-of-canada",
+     "excerpt": "Membership 608 243",
+     "excerpt_type": "short_quote"
+    }
+   ],
+   "disagreements": []
+  }
+ ],
+ "odcc_lookup": [
+  "United Church of Canada"
+ ],
+ "researched_at": "2026-10-28T16:54:28+00:00"
+}
