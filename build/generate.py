@@ -44,6 +44,11 @@ OVERLAY_COLORS = ['#b58a3c', '#6f8a5a', '#8a6a9a', '#4f7f9a', '#a0644f', '#7a7a5
 esc = lambda s: html.escape(str(s), quote=True)
 
 
+def tidy(text):
+    """Display only: drop the space that HTML extraction leaves before punctuation after a link."""
+    return re.sub(r' +([,.;:!?)\]])', r'\1', text)
+
+
 def slug_anchor(rid, n):
     return f'c-{rid}-{n}'
 
@@ -139,7 +144,7 @@ def source_page(sid, s, entries, recs_by_id):
             links += f' · <a href="{esc(e["page_url"])}" rel="noopener">Printed page image</a>'
         parts.append(f'''<div class="excerpt" id="{esc(e["anchor"])}">
 <div class="loc">{esc(rec["name"])} [{e["n"]}] · {esc(e["locator"])}</div>
-<blockquote>{esc(e["excerpt"])}</blockquote>
+<blockquote>{esc(tidy(e["excerpt"]))}</blockquote>
 {sup}
 <div class="supports"><a href="../index.html#g={esc(rec["id"])}">Back to the {esc(rec["name"])} card</a> · {links}</div>
 </div>''')

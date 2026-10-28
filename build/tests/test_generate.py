@@ -45,7 +45,8 @@ class GenerateTests(unittest.TestCase):
                 for c in f['citations']:
                     page = (self.site / 'sources' / f"{c['source_id']}.html").read_text()
                     import html
-                    self.assertIn(html.escape(c['excerpt'], quote=True), page, raw['id'])
+                    self.assertIn(html.escape(generate.tidy(c['excerpt']), quote=True), page, raw['id'])
+                    self.assertEqual(re.sub(r'\s', '', generate.tidy(c['excerpt'])), re.sub(r'\s', '', c['excerpt']))
 
     def test_citation_links_resolve(self):
         errors, n_cite, _ = linkcheck.check(self.site)
